@@ -1,0 +1,100 @@
+% !TEX program = xelatex
+% This is my resume
+% Chinese translation
+% by Kenji Mouri
+
+\documentclass{resume}
+
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage{linespacing_fix} % disable extra space before next section
+\usepackage[fallback]{xeCJK}
+
+\linespread{1.11} 
+
+\begin{document}
+\renewcommand\headrulewidth{0pt}
+
+\name{Kenji Mouri}
+
+\basicInfo{
+  \email{Mouri\_Naruto@Outlook.com} \textperiodcentered\
+  \phone{182-6175-7560} \textperiodcentered\
+  \github[MouriNaruto]{https://github.com/MouriNaruto} \textperiodcentered\
+}
+
+\section{Education}
+
+\datedsubsection{\textbf{Changshu Institute of Technology}, China}{2016.09 -- 2020.07}
+  Major: Automotive Service Engineering, Graduation Date: 07/2020.
+
+\section{Work Experience}
+  
+\datedsubsection{\textbf{The 301 Lab, Changshu Institute of Technology}}{2018.03 -- 2020.09}
+\role {Vehicle-to-everything and Self-driving}{Core Contributor, Future Cleaner Technology Software Engineer}
+\begin{itemize}
+  \item 独立设计适用于智小蜂无人清扫车的车联网平台，使得适配新新车型的工作量大幅缩减。
+  \item 首次在团队提出使用支持响应式布局的现代 Web 技术构建跨设备跨平台的人机交互界面的理念并付诸实践，在此期间获得了 ASP.NET Core 和现代 Web 技术的开发经验，并实现了基于 Xamarin 的 Android 客户端。
+  \item 参与第十六届“挑战杯”，获取江苏省大学生课外学术科技作品竞赛二等奖。
+  \item 协助开发实验室物联网平台，使其支持西门子 S7-1200 PLC 并提供二次开发 SDK，对大屏展示界面进行了改进。
+\end{itemize}
+
+\datedsubsection{\textbf{Chuyu Team}}{2014.07 -- Present}
+\role {Windows Application Development}{Core Contributor}
+\begin{itemize}
+  \item 协助开发 \href{http://www.chuyu.me/zh-Hans/index.html}{DISM++} 项目，引入 NCleaner 清理增强组件、映像热备份和多语言支持。
+  \item 独立开发 \href{https://github.com/Chuyu-Team/MINT}{MINT} 项目，基于 PHNT 项目制作的 Windows 未文档化的用户模式 API 定义。
+  \item 独立开发 \href{https://github.com/Chuyu-Team/libkcrt}{libkcrt} 项目，现代 MSVC 工具链下连接到 ntdll.dll 中 CRT 函数的解决方案。
+  \item 协助开发 \href{https://github.com/Chuyu-Team/VC-LTL}{VC-LTL} 的 Visual Studio 工具集成并引入 \href{https://github.com/Chuyu-Team/vc-ltl-samples}{VC-LTL 项目的使用示例}。
+  \item 协助改善 \href{https://github.com/Chuyu-Team/YY-Thunks}{YY-Thunks (鸭船)} 项目。
+\end{itemize}
+
+\section{Personal Projects}
+
+\datedsubsection{\textbf{NSudo}}{\url{https://github.com/M2Team/NSudo}}
+一套系统管理工具集，NSudo Launcher 用于在 Windows 下以特定权限和设置运行应用，NSudo Devil Mode 是一个为开发者提供在管理员权限下绕过 Windows 的文件和注册表的访问检查的解决方案。
+
+\datedsubsection{\textbf{Nagisa}}{\url{https://github.com/Project-Nagisa/Nagisa}}
+一个基于 UWP 平台的文件传输工具，支持后台传输，还处于早期开发阶段。
+
+\datedsubsection{\textbf{Mile}}{\url{https://github.com/MouriNaruto/Mile}}
+个人项目使用的公共库，使用 C++17 的编译器语法特性，但提供 C ABI 兼容。
+
+\section{Skills}
+\begin{itemize}
+
+  \item \textbf{Program Language}:
+    \textbf{multilingual}(not limited to any specific language), usually use C/C++, C\# and Python.
+
+  \item \textbf{Windows Application Development}:
+    \textbf{6 years} of experience, familiar with Windows SDK (Win32, COM, ATL, WTL, WRL, C++/CX and C++/WinRT).
+
+  \item \textbf{.NET Application Development}:
+    \textbf{2 years} of experience, familiar with WPF, WinForms, ASP.NET Core and Xamarin.
+  
+  \item \textbf{Linux Application Development}:
+    \textbf{2 years} of experience, familiar with ROS (Kinetic and Melodic) and Qt.
+
+  \item \textbf{Development Tool}:
+    \textbf{can adapt to any mainstream development tools under Windows and Linux}, usually use Visual Studio and IDA Pro under Windows, or Clion and PyCharm under Linux, also use Git and VSTS.
+
+\end{itemize}
+
+\section{Miscellaneous}
+\begin{itemize}
+
+  \item Languages: English - good (passed CET-6),  Chinese - native speaker.
+
+  \item I am interested in writing the most compact implementations by using the least syntaxes and third-party libraries.
+
+  \item Opensource Contributions: \href{https://github.com/pulls?q=is:pr+author:MouriNaruto}{https://github.com/pulls?q=is:pr+author:MouriNaruto} contributed to OpenSSL, Windows File Manager, Covariant Script, FFmpegInteropX and other projects.
+  
+  \item 在 My Digital Life Forums、远景论坛、吾爱破解论坛、看雪安全论坛以 Mouri\_Naruto 发表过精华或置顶帖。
+  
+  \item 渴望结识更多的可以进行技术交流的友人。
+
+  \item Another style of my introduction (Chinese version): \href{https://mourinaruto.github.io/about}{https://mourinaruto.github.io/about}。
+  
+\end{itemize}
+
+\end{document}
