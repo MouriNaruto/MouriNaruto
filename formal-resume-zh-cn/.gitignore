@@ -1,0 +1,6 @@
+# LaTex immediate output files
+
+*.aux
+*.log
+*.out
+*.gz
