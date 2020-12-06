@@ -5,7 +5,6 @@ categories:
 - [技术, 部署]
 tags:
 - 部署
-- Windows
 - CI
 - AppVeyor
 ---
