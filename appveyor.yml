@@ -3,7 +3,7 @@ environment:
   access_token:
     secure: VXYr0O9zDnPDx2xd7ravZ938804hUUZQqybwj2UVzYxnSmut4jJWeakdU+BDSP4D
 install:
-  - ps: Update-NodeJsInstallation (Get-NodeJsLatestBuild 14.0)
+  - ps: Update-NodeJsInstallation (Get-NodeJsLatestBuild 14)
   - cd "%APPVEYOR_BUILD_FOLDER%\blog-source"
   - node --version
   - npm --version
@@ -18,7 +18,7 @@ on_success:
   - ps: Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:access_token):x-oauth-basic@github.com`n"
   - git config --global user.email "%GIT_USER_EMAIL%"
   - git config --global user.name "%GIT_USER_NAME%"
-  - git clone %GIT_BLOG_REPO% %TEMP%\static-site
+  - git clone -q --depth=5 --branch=master %GIT_BLOG_REPO% %TEMP%\static-site
   - cd %TEMP%\static-site
   - del * /f /q
   - for /d %%p IN (*) do rmdir "%%p" /s /q
