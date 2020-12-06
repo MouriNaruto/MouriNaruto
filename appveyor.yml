@@ -3,6 +3,7 @@ environment:
   access_token:
     secure: VXYr0O9zDnPDx2xd7ravZ938804hUUZQqybwj2UVzYxnSmut4jJWeakdU+BDSP4D
 install:
+  - cd "%APPVEYOR_BUILD_FOLDER%\blog-source"
   - node --version
   - npm --version
   - npm install
