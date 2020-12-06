@@ -1,0 +1,24 @@
+clone_depth: 5
+access_token:
+  secure: VXYr0O9zDnPDx2xd7ravZ938804hUUZQqybwj2UVzYxnSmut4jJWeakdU+BDSP4D
+install:
+  - node --version
+  - npm --version
+  - npm install
+  - npm install hexo-cli -g
+build_script:
+  - hexo generate
+artifacts:
+  - path: public
+on_success:
+  - git config --global credential.helper store
+  - ps: Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:access_token):x-oauth-basic@github.com`n"
+  - git config --global user.email "%GIT_USER_EMAIL%"
+  - git config --global user.name "%GIT_USER_NAME%"
+  - git clone %GIT_BLOG_REPO% %TEMP%\static-site
+  - cd %TEMP%\static-site
+  - del * /f /q
+  - for /d %%p IN (*) do rmdir "%%p" /s /q
+  - SETLOCAL EnableDelayedExpansion & robocopy "%APPVEYOR_BUILD_FOLDER%\blog-source\public" "%TEMP%\static-site" /e & IF !ERRORLEVEL! EQU 1 (exit 0) ELSE (IF !ERRORLEVEL! EQU 3 (exit 0) ELSE (exit 1))
+  - git add -A
+  - if "%APPVEYOR_REPO_BRANCH%"=="master" if not defined APPVEYOR_PULL_REQUEST_NUMBER (git diff --quiet --exit-code --cached || git commit -m "Generate the blog website via AppVeyor CI." && git push && appveyor AddMessage "Static Site Updated")
