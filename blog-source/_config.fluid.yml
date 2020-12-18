@@ -422,7 +422,7 @@ links:
   subtitle:  # 打字机内容
   items:  # intro 与 image 可省略
     - {
-      title: "Chill Magic (魔王殿)",
+      title: "ChillMagic (魔王殿)",
       intro: "Chill Magic's Blog",
       link: 'https://chillmagic.github.io/',
       image: '/img/links/chillmagic.ico'
