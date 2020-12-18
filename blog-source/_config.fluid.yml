@@ -422,38 +422,44 @@ links:
   subtitle:  # 打字机内容
   items:  # intro 与 image 可省略
     - {
-      title: 'Dism++ 官方网站',
-      intro: '全新的 Windows 实用工具',
-      link: 'http://www.chuyu.me/',
-      image: '/img/links/chuyu.png'
-    }
-    - {
-      title: "Chill Magic's Blog",
-      intro: "魔王殿的博客",
+      title: "Chill Magic (魔王殿)",
+      intro: "Chill Magic's Blog",
       link: 'https://chillmagic.github.io/',
       image: '/img/links/chillmagic.ico'
     }
     - {
-      title: "落樱缤纷",
-      intro: "落樱的博客",
-      link: 'https://www.sakuraneko.tech/',
-      image: '/img/links/sakuraneko.png'
+      title: 'Dism++ 官方网站',
+      intro: '全球第一款基于 CBS 的 Dism GUI 实现',
+      link: 'http://www.chuyu.me/',
+      image: '/img/links/chuyu.png'
     }
     - {
-      title: "lindexi",
+      title: "ice1000 (千里冰封)",
+      intro: "Intermediate-Representation",
+      link: 'https://ice1000.org/',
+      image: '/img/links/ice1000.ico'
+    }
+    - {
+      title: "lindexi (林德熙)",
       intro: "林德熙 - Windows 10 App Developer",
       link: 'https://blog.lindexi.com/',
       image: '/img/links/lindexi.png'
     }
     - {
-      title: "walterlv",
+      title: "qcyblm (青春永不落幕)",
+      intro: "青春永不落幕",
+      link: 'https://qcyblm.github.io/',
+      image: '/img/links/qcyblm.ico'
+    }
+    - {
+      title: "SakuraNeko (落樱)",
+      intro: "落樱缤纷",
+      link: 'https://www.sakuraneko.tech/',
+      image: '/img/links/sakuraneko.png'
+    }   
+    - {
+      title: "walterlv (吕毅)",
       intro: "吕毅 - walterlv",
       link: 'https://blog.walterlv.com/',
       image: '/img/links/walterlv.png'
-    }
-    - {
-      title: "青春永不落幕",
-      intro: "一位网页设计和收集Windows平台软件的爱好者",
-      link: 'https://qcyblm.github.io/',
-      image: '/img/links/qcyblm.ico'
     }
