@@ -422,38 +422,44 @@ links:
   subtitle:  # 打字机内容
   items:  # intro 与 image 可省略
     - {
-      title: 'Dism++ 官方网站',
-      intro: '全新的 Windows 实用工具',
-      link: 'http://www.chuyu.me/',
-      image: '/img/links/chuyu.png'
-    }
-    - {
       title: "Chill Magic's Blog",
       intro: "魔王殿的博客",
       link: 'https://chillmagic.github.io/',
       image: '/img/links/chillmagic.ico'
     }
     - {
-      title: "落樱缤纷",
-      intro: "落樱的博客",
-      link: 'https://www.sakuraneko.tech/',
-      image: '/img/links/sakuraneko.png'
+      title: 'Dism++ 官方网站',
+      intro: '全新的 Windows 实用工具',
+      link: 'http://www.chuyu.me/',
+      image: '/img/links/chuyu.png'
+    }
+    - {
+      title: "Intermediate-Representation",
+      intro: "千里冰封的博客",
+      link: 'https://ice1000.org/',
+      image: '/img/links/ice1000.ico'
     }
     - {
       title: "lindexi",
-      intro: "林德熙 - Windows 10 App Developer",
+      intro: "林德熙的博客",
       link: 'https://blog.lindexi.com/',
       image: '/img/links/lindexi.png'
     }
     - {
-      title: "walterlv",
-      intro: "吕毅 - walterlv",
-      link: 'https://blog.walterlv.com/',
-      image: '/img/links/walterlv.png'
-    }
-    - {
       title: "青春永不落幕",
-      intro: "一位网页设计和收集Windows平台软件的爱好者",
+      intro: "青春永不落幕的博客",
       link: 'https://qcyblm.github.io/',
       image: '/img/links/qcyblm.ico'
+    }
+    - {
+      title: "落樱缤纷",
+      intro: "落樱的博客",
+      link: 'https://www.sakuraneko.tech/',
+      image: '/img/links/sakuraneko.png'
+    }   
+    - {
+      title: "walterlv",
+      intro: "吕毅的博客",
+      link: 'https://blog.walterlv.com/',
+      image: '/img/links/walterlv.png'
     }
