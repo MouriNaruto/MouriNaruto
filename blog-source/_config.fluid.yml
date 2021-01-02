@@ -456,6 +456,12 @@ links:
       intro: "落樱缤纷",
       link: 'https://www.sakuraneko.tech/',
       image: '/img/links/sakuraneko.png'
+    }
+    - {
+      title: "Strawing Lee",
+      intro: "Strawing Blog",
+      link: 'https://www.liyanfeng.com',
+      image: '/img/links/liyanfeng.png'
     }   
     - {
       title: "walterlv (吕毅)",
