@@ -434,6 +434,12 @@ links:
       image: '/img/links/chuyu.png'
     }
     - {
+      title: "fcharlie (Force Charlie)",
+      intro: "Charlie's Rethinking",
+      link: 'https://forcemz.net/',
+      image: '/img/links/fcharlie.jpg'
+    }
+    - {
       title: "ice1000 (千里冰封)",
       intro: "Intermediate-Representation",
       link: 'https://ice1000.org/',
