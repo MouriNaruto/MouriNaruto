@@ -4,12 +4,12 @@
 
 ## 博客预览
 
-> hexo server
+> yarn server
 
 ## 博客生成
 
-> hexo generate
+> yarn build
 
 ## 新建文章
 
-> hexo new "文章名（为了链接看起来优雅，一般使用对应文章标题大致的英文翻译）"
+> yarn new-article "文章名（为了链接看起来优雅，一般使用对应文章标题大致的英文翻译）"
