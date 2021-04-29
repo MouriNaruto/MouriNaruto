@@ -26,7 +26,7 @@ jobs:
         run: npm install -g yarn
 
       - name: Install packages
-        run: yarn
+        run: yarn --cwd "blog-source"
 
       - name: Build
         run: yarn --cwd "blog-source" build
