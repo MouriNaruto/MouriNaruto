@@ -29,7 +29,7 @@ jobs:
         run: yarn
 
       - name: Build
-        run: yarn blog-source:build
+        run: yarn --cwd "blog-source" build
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.1
