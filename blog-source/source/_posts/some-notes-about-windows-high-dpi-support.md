@@ -1,7 +1,11 @@
 ﻿---
 title: 一些关于 Windows 高 DPI 支持的笔记
 date: 2021-01-05 17:41:41
+categories:
+- [笔记, Windows]
 tags:
+- 笔记
+- Windows
 ---
 
 前段日子，刚好遇到了一些和 Windows 高 DPI 支持有关的事情，
