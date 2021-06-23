@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - 'blog-source/**'
+      - 'blog-source-chinese/**'
       - 'blog-source-english/**'
 
 jobs:
@@ -27,10 +27,13 @@ jobs:
         run: npm install -g yarn
 
       - name: Install packages for Chinese blog
-        run: yarn --cwd "blog-source"
+        run: yarn --cwd "blog-source-chinese"
 
       - name: Build for Chinese blog
-        run: yarn --cwd "blog-source" build
+        run: yarn --cwd "blog-source-chinese" build
+
+      - name: Copy English blog to deploy folder
+        run: cp -r blog-source-chinese/public/. website-root/zh/
 
       - name: Install packages for English blog
         run: yarn --cwd "blog-source-english"
@@ -39,12 +42,12 @@ jobs:
         run: yarn --cwd "blog-source-english" build
 
       - name: Copy English blog to deploy folder
-        run: cp -r blog-source-english/public/. blog-source/public/en/
+        run: cp -r blog-source-english/public/. website-root/en/
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
           branch: main
-          folder: blog-source/public
+          folder: website-root
           repository-name: MouriNaruto/MouriNaruto.github.io
