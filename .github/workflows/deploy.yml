@@ -6,6 +6,7 @@ on:
       - master
     paths:
       - 'blog-source/**'
+      - 'blog-source-english/**'
 
 jobs:
   build-and-deploy:
@@ -38,7 +39,7 @@ jobs:
         run: yarn --cwd "blog-source-english" build
 
       - name: Copy English blog to deploy folder
-        run: cp -r blog-source-english/public/. /blog-source/public/en/
+        run: cp -r blog-source-english/public/. blog-source/public/en/
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.1
