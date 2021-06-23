@@ -1,4 +1,4 @@
-﻿name: Deploy to GitHub Pages
+﻿name: Deploy blog to GitHub Pages
 
 on:
   push:
@@ -30,6 +30,9 @@ jobs:
       - name: Install packages for Chinese blog
         run: yarn --cwd "blog-source-chinese"
 
+      - name: Clean for Chinese blog
+        run: yarn --cwd "blog-source-chinese" clean
+
       - name: Build for Chinese blog
         run: yarn --cwd "blog-source-chinese" build
 
@@ -38,6 +41,9 @@ jobs:
 
       - name: Install packages for English blog
         run: yarn --cwd "blog-source-english"
+
+      - name: Clean for English blog
+        run: yarn --cwd "blog-source-english" clean
 
       - name: Build for English blog
         run: yarn --cwd "blog-source-english" build
