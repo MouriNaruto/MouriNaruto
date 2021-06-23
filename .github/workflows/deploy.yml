@@ -25,11 +25,20 @@ jobs:
       - name: Setup yarn
         run: npm install -g yarn
 
-      - name: Install packages
+      - name: Install packages for Chinese blog
         run: yarn --cwd "blog-source"
 
-      - name: Build
+      - name: Build for Chinese blog
         run: yarn --cwd "blog-source" build
+
+      - name: Install packages for English blog
+        run: yarn --cwd "blog-source-english"
+
+      - name: Build for English blog
+        run: yarn --cwd "blog-source-english" build
+
+      - name: Copy English blog to deploy folder
+        run: cp -r blog-source-english/public/. /blog-source/public/en/
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.1
