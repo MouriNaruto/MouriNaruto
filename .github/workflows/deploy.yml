@@ -5,6 +5,7 @@ on:
     branches:
       - master
     paths:
+      - 'website-root/**'
       - 'blog-source-chinese/**'
       - 'blog-source-english/**'
 
