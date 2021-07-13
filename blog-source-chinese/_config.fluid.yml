@@ -901,6 +901,12 @@ links:
       image: '/img/links/ice1000.ico'
     }
     - {
+      title: "Krunk Zhou",
+      intro: "KRUNK ZHOU BLOG",
+      link: 'https://krunk.cn/',
+      image: '/img/links/krunk.png'
+    }
+    - {
       title: "Legna Brighost (莱娜信息)",
       intro: "莱娜信息(Legna),让一切更简单",
       link: 'https://www.brighost.com/',
