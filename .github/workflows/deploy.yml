@@ -1,0 +1,60 @@
+﻿name: Deploy blog to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'website-root/**'
+      - 'blog-source-chinese/**'
+      - 'blog-source-english/**'
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: Setup node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Setup yarn
+        run: npm install -g yarn
+
+      - name: Install packages for Chinese blog
+        run: yarn --cwd "blog-source-chinese"
+
+      - name: Clean for Chinese blog
+        run: yarn --cwd "blog-source-chinese" clean
+
+      - name: Build for Chinese blog
+        run: yarn --cwd "blog-source-chinese" build
+
+      - name: Copy English blog to deploy folder
+        run: cp -r blog-source-chinese/public/. website-root/zh/
+
+      - name: Install packages for English blog
+        run: yarn --cwd "blog-source-english"
+
+      - name: Clean for English blog
+        run: yarn --cwd "blog-source-english" clean
+
+      - name: Build for English blog
+        run: yarn --cwd "blog-source-english" build
+
+      - name: Copy English blog to deploy folder
+        run: cp -r blog-source-english/public/. website-root/en/
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.1
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          branch: main
+          folder: website-root
+          repository-name: MouriNaruto/MouriNaruto.github.io

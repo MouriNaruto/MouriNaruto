@@ -1,0 +1,109 @@
+% !TEX program = xelatex
+% This is my resume
+% Chinese translation
+% by Kenji Mouri
+
+\documentclass{resume}
+
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage{linespacing_fix} % disable extra space before next section
+\usepackage[fallback]{xeCJK}
+
+\linespread{1.11} 
+
+\begin{document}
+\renewcommand\headrulewidth{0pt}
+
+\name{Kenji Mouri}
+
+\basicInfo{
+  \email{Mouri\_Naruto@Outlook.com} \textperiodcentered\
+  \github[MouriNaruto]{https://github.com/MouriNaruto}
+}
+
+\section{Education}
+
+\datedsubsection{\textbf{Changshu Institute of Technology}, China}{2016.09 -- 2020.07}
+  Major: Automotive Service Engineering, Graduation Date: 07/2020.
+
+\section{Work Experience}
+
+% \datedsubsection{\textbf{Qi'e TV, Tencent}}{2020.12 -- Present}
+% \role {Windows Development}{C++ Software Development Engineer}
+% \begin{itemize}
+%   \item Developing the QieLive 2.0.
+% \end{itemize}
+
+\datedsubsection{\textbf{Chuyu Team}}{2014.07 -- Present}
+\role {Windows Development}{Core Contributor}
+\begin{itemize}
+  \item Created NCleaner cleanup extension, online backup and multilingual support for \href{http://www.chuyu.me/zh-Hans/index.html}{DISM++}.
+  \item Created \href{https://github.com/Chuyu-Team/MINT}{MINT}, contains the undocumented Windows user-mode API definitions, which is based on PHNT.
+  \item Created \href{https://github.com/Chuyu-Team/libkcrt}{libkcrt}, provides an easy way to use C Run-time Library from ntdll.dll in your user-mode applications.
+  \item Implemented the Visual Studio integration and \href{https://github.com/Chuyu-Team/vc-ltl-samples}{usage examples} for \href{https://github.com/Chuyu-Team/VC-LTL}{VC-LTL}.
+  \item Improved the usage documentations for \href{https://github.com/Chuyu-Team/YY-Thunks}{YY-Thunks}.
+\end{itemize}
+
+\section{Open Source Contributions}
+
+\datedsubsection{\textbf{NSudo}}{\url{https://github.com/M2Team/NSudo}}
+\role {Author of the project}{Series of System Administration Tools}
+\begin{itemize}
+  \item \textbf{NSudo Launcher} is a solution for Windows users to run apps with the specific privileges and settings.
+  \item \textbf{NSudo Devil Mode} is a elegant solution for Windows developers who want to bypass the file and registry access checks.
+\end{itemize}
+
+\datedsubsection{\textbf{Project Mile}}{\url{https://github.com/ProjectMile}}
+\role {Author of the project}{Series of utility infrastructures made by myself for developing projects}
+\begin{itemize}
+  \item \href{https://github.com/ProjectMile/Mile.Cpp}{\textbf{Mile.Cpp}} is the C++ common infrastructures which used in my personal projects.
+  \item \href{https://github.com/ProjectMile/Mile.Uefi}{\textbf{Mile.Uefi}} is a lightweight UEFI SDK based on the slim down version of EDK II.
+  \item \href{https://github.com/ProjectMile/Mile.Websockify}{\textbf{Mile.Websockify}} is a simple ASP.NET Core Middleware implementation of the Websockify.
+\end{itemize}
+
+\datedsubsection{\textbf{LVGL}}{\url{https://github.com/lvgl}}
+\role {Maintainer of Windows port and simulator}{An open source modern UI library for the embedded scenario}
+\begin{itemize}
+  \item \href{https://github.com/lvgl/lv_port_windows}{\textbf{lv\_port\_windows}} is the Windows port designed for desktop application development.
+  \item \href{https://github.com/lvgl/lv_sim_visual_studio}{\textbf{lv\_sim\_visual\_studio}} is the Windows simulator for Visual Studio.
+\end{itemize}
+
+\section{Skills}
+\begin{itemize}
+
+  \item \textbf{Program Language}:
+    \textbf{multilingual}(not limited to any specific language), usually use C/C++, C\# and Python.
+
+  \item \textbf{Windows Development}:
+    \textbf{6 years} of experience, familiar with Windows SDK (Win32, COM, ATL, WTL, WRL, C++/CX and C++/WinRT).
+
+  \item \textbf{.NET Development}:
+    \textbf{2 years} of experience, familiar with WPF, WinForms, ASP.NET Core and Xamarin.
+  
+  \item \textbf{Linux Development}:
+    \textbf{2 years} of experience, familiar with ROS (Kinetic and Melodic) and Qt.
+
+  \item \textbf{Development Tool}:
+    \textbf{can adapt to any mainstream development tools under Windows and Linux}, usually use Visual Studio and IDA Pro under Windows, or Clion and PyCharm under Linux.
+
+\end{itemize}
+
+\section{Miscellaneous}
+\begin{itemize}
+
+  \item Languages: English - good (passed CET-6),  Chinese - native speaker.
+
+  \item I am interested in writing the most compact implementations by using the least syntaxes and third-party libraries.
+
+  \item Opensource Contributions: \href{https://github.com/pulls?q=is:pr+author:MouriNaruto}{https://github.com/pulls?q=is:pr+author:MouriNaruto} contributed to OpenSSL, Windows File Manager, Covariant Script, FFmpegInteropX and other projects.
+  
+  \item I created some technical posts on My Digital Life Forums, PCBeta, 52pojie and Pediy as Mouri\_Naruto.
+  
+  \item I am desired to make more friends which can talk something about technology.
+
+  \item My chinese blog: \href{https://mourinaruto.github.io}{https://mourinaruto.github.io}.
+  
+\end{itemize}
+
+\end{document}
