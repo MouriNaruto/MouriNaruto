@@ -54,7 +54,7 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ github.token }}
           branch: main
           folder: website-root
           repository-name: MouriNaruto/MouriNaruto.github.io
