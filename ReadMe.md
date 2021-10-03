@@ -3,7 +3,7 @@
 
 + I have a [blog] and a [resume].
 + I love creating open-source projects and sometimes making contributions for
-  other's. I am also the creator of [NSudo] and [.NET/Linux].
+  other's. I am also the creator of [NSudo], [NanaZip] and [.NET/Linux].
 + I am interested in writing the most compact implementations by using the 
   least syntaxes and third-party libraries.
 + [Mile] is a series of utility infrastructures made by me for developing 
@@ -13,6 +13,7 @@
 [blog]: https://mourinaruto.github.io/
 [resume]: https://mourinaruto.github.io/assets/resume/resume_english.pdf
 [NSudo]: https://m2team.github.io/NSudo
+[NanaZip]: https://github.com/M2Team/NanaZip
 [.NET/Linux]: https://github.com/dotnet-linux
 [Mile]: https://github.com/ProjectMile
 [lv_sim_visual_studio]: https://github.com/lvgl/lv_sim_visual_studio
