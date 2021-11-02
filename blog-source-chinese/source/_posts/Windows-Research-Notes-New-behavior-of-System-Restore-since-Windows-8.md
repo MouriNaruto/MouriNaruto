@@ -33,7 +33,7 @@ Windows 8 之后版本在其 Windows 启动卷创建的系统还原点如果被�
 ## 原文勘误
 
 当年在 https://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1507617&page=1#pid40120249 
-中我写的以下内容在现在的我重新阅读微软的文档后发现是有误的。
+中我写的下述内容其实是有误的。
 
 
 ```
@@ -45,7 +45,13 @@ ScopeSnapshots 的 DWORD 值。如果这个值为 0，系统还原将以早期�
 如果这个值被删除，则系统还原会按照 Windows 8 的方式创建系统还原点。
 ```
 
-其实所谓的早期版本应该指的是 Windows Vista 和 Windows 7 及其对应的服务器版本。
+当时我的理解是修改了 `ScopeSnapshots` 以后，在 Windows 8 之后的 Windows 会使用 Windows XP 
+或者 Windows Server 2003 的方式创建系统还原点，但实际上应该是以 Windows Vista 和 Windows 7 
+及其对应的服务器版本的方式创建系统还原点。
+
+其实在最近几年我对系统还原实现进行逆向的时候，Windows Vista 之后的系统还原实现已经完全基于卷影复制实现。
+Windows 8 之后的系统还原实现也没有任何与 Windows XP 或者 Windows Server 2003 的系统还原有关的兼容逻辑。
+毕竟 Windows Vista 之前的系统还原是基于微软自己写的过滤驱动实现的，而 Windows Vista 以后早已没有该过滤驱动的相关痕迹。
 
 ## 参考资料
 
