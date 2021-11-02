@@ -1,5 +1,5 @@
 ﻿---
-title: Windows 研究笔记 - 索引
+title: Windows 研究笔记
 date: 2021-11-02 12:27:12
 categories:
 - [技术, Windows, Windows 研究笔记]
@@ -38,12 +38,14 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
 ## 目录
 
 - Windows 系统还原
+  - {% post_link New-behavior-of-System-Restore-since-Windows-8 %}
   - 系统还原基本介绍
   - 通过命令行使用系统还原
   - 通过程序语言使用系统还原
   - 系统还原点存储结构分析
   - 系统还原的未文档化 Win32 API
-  - {% post_link New-behavior-of-System-Restore-since-Windows-8 %}
+  - 使用 Win32 API 创建系统还原点的注意事项
+  - 使用 Win32 API 清空系统还原点的注意事项
 - Compact OS
   - 通过 compact 命令行工具使用 Compact OS
   - 通过 Win32 API 使用 Compact OS
@@ -59,6 +61,9 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - 通过 VC-LTL 使用 Windows 自带的 C 运行时库
   - 在传统 UWP 中使用 VC-LTL
   - 在 Rust 中使用 VC-LTL
+- Windows 用户模式基础设施 (Win32 API, NT API)
+  - 充分利用管理员权限的技巧
+  - Windows 10 早期版本的高 DPI 支持技巧
 - Windows Runtime
   - 通过 Windows Runtime API 实现对商店应用的升级
   - Windows 应用程序打包项目的已知问题和解决方案
