@@ -43,7 +43,7 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - 通过程序语言使用系统还原
   - 系统还原点存储结构分析
   - 系统还原的非文档化 API
-  - Windows 8 及之后版本的系统还原行为变更
+  - {% post_link Windows-Research-Notes-New-behavior-of-System-Restore-since-Windows-8 %}
 - Compact OS
   - 通过命令行使用 Compact OS
   - 通过 Win32 API 使用 Compact OS
