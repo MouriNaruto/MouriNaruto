@@ -45,4 +45,4 @@ memory=4GB
 
 ## 相关内容
 
-{% post_link Windows-Research-Notes-Index %}
+{% post_link Windows-Research-Notes %}

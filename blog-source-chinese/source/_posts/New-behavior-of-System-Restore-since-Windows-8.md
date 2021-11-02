@@ -59,4 +59,4 @@ Windows 8 之后的系统还原实现也没有任何与 Windows XP 或者 Window
 
 ## 相关内容
 
-{% post_link Windows-Research-Notes-Index %}
+{% post_link Windows-Research-Notes %}

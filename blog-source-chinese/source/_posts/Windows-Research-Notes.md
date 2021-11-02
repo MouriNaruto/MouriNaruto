@@ -43,7 +43,7 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - 通过程序语言使用系统还原
   - 系统还原点存储结构分析
   - 系统还原的未文档化 Win32 API
-  - {% post_link Windows-Research-Notes-New-behavior-of-System-Restore-since-Windows-8 %}
+  - {% post_link New-behavior-of-System-Restore-since-Windows-8 %}
 - Compact OS
   - 通过 compact 命令行工具使用 Compact OS
   - 通过 Win32 API 使用 Compact OS
@@ -65,4 +65,4 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - 使用 C++/WinRT 实现一个轻量级 XAML Island 应用
   - 自定义 Windows 8.x 开始屏幕的大小
 - Windows Subsystem for Linux
-  - {% post_link Windows-Research-Notes-Control-the-memory-usage-of-WSL-2-instance %}
+  - {% post_link Control-the-memory-usage-of-WSL-2-instance %}
