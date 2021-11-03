@@ -63,13 +63,13 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - 在 Rust 中使用 VC-LTL
 - Windows 用户模式 (Win32 API, NT API)
   - {% post_link Enable-Per-Monitor-DPI-Awareness-Mode-for-File-Explorer-in-Windows-10 %}
+  - {% post_link Modify-the-size-of-Start-Screen-in-Windows-8-1 %}
   - 充分利用管理员权限的技巧
   - Windows 10 早期版本的高 DPI 支持技巧
 - Windows Runtime
   - 通过 Windows Runtime API 实现对商店应用的升级
   - Windows 应用程序打包项目的已知问题和解决方案
   - 使用 C++/WinRT 实现一个轻量级 XAML Island 应用
-  - 自定义 Windows 8.x 开始屏幕的大小
 - Windows Subsystem for Linux
   - {% post_link Control-the-memory-usage-of-WSL-2-instance %}
 
@@ -77,12 +77,12 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
 
 - 已完整勘误、重写并收录的文章
   - [开启Win10的文件资源管理器的每显示器DPI缩放（Per-Monitor DPI Aware）支持](https://www.52pojie.cn/thread-506556-1-1.html)
+  - [自定义开始屏幕的大小](http://bbs.pcbeta.com/viewthread-1524688-1-1.html)
 - 未完整勘误、重写并收录的文章
   - [Windows系统还原新探（Windows系统还原的较深入研究）](https://bbs.pcbeta.com/viewthread-1507617-1-1.html)
 - 待勘误、重写并收录的文章
   - [浅谈Windows 10 Build 9879的磁盘清理的System Compression](http://bbs.pcbeta.com/viewthread-1567726-1-1.html)
   - [浅谈Metro App的沙盒AppContainer](http://bbs.pcbeta.com/viewthread-1611980-1-1.html)
-  - [自定义开始屏幕的大小](http://bbs.pcbeta.com/viewthread-1524688-1-1.html)
   - [反汇编Windows系统还原代码的成果](http://bbs.pcbeta.com/viewthread-1535789-1-1.html)
   - [原生集成Windows 8/8.1 自带的Windows Defender病毒库的教程](http://bbs.pcbeta.com/viewthread-1519551-1-1.html)
   - [实现每显示器高DPI识别(Per-Monitor DPI Aware)的注意事项](https://www.52pojie.cn/thread-512713-1-1.html)
