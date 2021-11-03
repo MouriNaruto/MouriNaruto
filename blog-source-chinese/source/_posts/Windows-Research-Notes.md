@@ -61,7 +61,8 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - 通过 VC-LTL 使用 Windows 自带的 C 运行时库
   - 在传统 UWP 中使用 VC-LTL
   - 在 Rust 中使用 VC-LTL
-- Windows 用户模式基础设施 (Win32 API, NT API)
+- Windows 用户模式 (Win32 API, NT API)
+  - {% post_link Enable-Per-Monitor-DPI-Awareness-Mode-for-File-Explorer-in-Windows-10 %}
   - 充分利用管理员权限的技巧
   - Windows 10 早期版本的高 DPI 支持技巧
 - Windows Runtime
@@ -75,6 +76,7 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
 ## 内容收录状态
 
 - 已完整勘误、重写并收录的文章
+  - [开启Win10的文件资源管理器的每显示器DPI缩放（Per-Monitor DPI Aware）支持](https://www.52pojie.cn/thread-506556-1-1.html)
 - 未完整勘误、重写并收录的文章
   - [Windows系统还原新探（Windows系统还原的较深入研究）](https://bbs.pcbeta.com/viewthread-1507617-1-1.html)
 - 待勘误、重写并收录的文章
@@ -83,7 +85,6 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - [自定义开始屏幕的大小](http://bbs.pcbeta.com/viewthread-1524688-1-1.html)
   - [反汇编Windows系统还原代码的成果](http://bbs.pcbeta.com/viewthread-1535789-1-1.html)
   - [原生集成Windows 8/8.1 自带的Windows Defender病毒库的教程](http://bbs.pcbeta.com/viewthread-1519551-1-1.html)
-  - [开启Win10的文件资源管理器的每显示器DPI缩放（Per-Monitor DPI Aware）支持](https://www.52pojie.cn/thread-506556-1-1.html)
   - [实现每显示器高DPI识别(Per-Monitor DPI Aware)的注意事项](https://www.52pojie.cn/thread-512713-1-1.html)
   - [浅谈Windows10的CompactOS特性](https://www.52pojie.cn/thread-528806-1-1.html)
   - [NSudo 恶魔模式 - 一个面向希望无视文件和注册表访问检查的开发者的解决方案](https://bbs.pediy.com/thread-257345.htm)
