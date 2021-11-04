@@ -56,10 +56,10 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - 通过第三方工具使用 App Container
   - 通过 NT API 创建 App Container 访问令牌及注意事项
   - Windows 10 及之后版本的 App Container 行为变更
-- Windows 自带的 C 运行时库
+- Windows 内置的 C 运行时库
   - {% post_link Use-VC-LTL-in-your-Rust-projects %}
-  - Windows 自带的 C 运行时库的历史沿革
-  - 通过 VC-LTL 使用 Windows 自带的 C 运行时库
+  - Windows 内置的 C 运行时库的历史沿革
+  - 通过 VC-LTL 使用 Windows 内置的 C 运行时库
   - 在传统 UWP 中使用 VC-LTL
 - Windows 用户模式 (Win32 API, NT API)
   - {% post_link Enable-Per-Monitor-DPI-Awareness-Mode-for-File-Explorer-in-Windows-10 %}

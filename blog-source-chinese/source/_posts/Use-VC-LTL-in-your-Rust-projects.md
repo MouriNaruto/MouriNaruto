@@ -10,10 +10,14 @@ tags:
 - C 运行时
 ---
 
+VC-LTL 是一套可以让开发者优雅的使用 Windows 内置的 C 运行时库的编译工具链，
+可使你编写的二进制在 C 运行库方面仅依赖 Windows 内置的 `msvcrt.dll` 或 `ucrtbase.dll`，
+以达成无需额外部署 MSVC 运行库、解决 FLS 上限问题和大大缩减二进制体积的目标。
+
 由于笔者前段日子已在 VC-LTL 5.x 的源代码仓库中贡献了 Rust 语言支持的实现，
 详情可参见 https://github.com/Chuyu-Team/VC-LTL5/pull/11。
 
-于是看到本文的读者只需要在 `Cargo.toml` 文件中 `[dependencies]` 中加入以下内容即可达成目的。
+于是看到本文的读者只需要在 `Cargo.toml` 文件内 `[dependencies]` 中加入以下内容即可达成目的。
 
 ```
 vc-ltl = "5.0.3-Beta1"
