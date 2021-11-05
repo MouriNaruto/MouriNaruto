@@ -135,6 +135,7 @@ BOOL EnableChildWindowDpiMessage(
 
 ## 参考文献
 
+- https://blog.walterlv.com/post/windows-high-dpi-development.html
 - https://www.windowscentral.com/how-change-high-dpi-settings-classic-apps-windows-10-april-2018-update
 
 ## 相关内容
