@@ -34,7 +34,7 @@ Windows 10, Version 1607 引入的从 Windows 10, Version 1703 开始正式支�
 
 ## 让 Windows 自动帮你缩放对话框的技巧
 
-在 Windows 10, Version 1507 和 Windows 10, Version 1511 的 `user32.dll"` 引入了一个叫 `EnablePerMonitorDialogScaling` 
+在 Windows 10, Version 1507 和 Windows 10, Version 1511 的 `user32.dll` 引入了一个叫 `EnablePerMonitorDialogScaling` 
 通过序数 2577 调用的非公开 API，你只需要在调用 API 显示对话框之前调用该非公开 API 即可。
 
 为了方便使用，我将其包装成了一个函数，你可以直接以 `EnablePerMonitorDialogScaling()` 的方式调用，代码如下：
@@ -84,7 +84,7 @@ INT EnablePerMonitorDialogScaling()
 
 ## 让 Windows 自动帮你缩放非客户区的技巧
 
-在 Windows 10, Version 1507 和 Windows 10, Version 1511 的 `user32.dll"` 引入了一个叫 `EnableChildWindowDpiMessage` 
+在 Windows 10, Version 1507 和 Windows 10, Version 1511 的 `user32.dll` 引入了一个叫 `EnableChildWindowDpiMessage` 
 的非公开 API，你只需要在调用 API 创建窗口后调用该非公开 API 即可。
 
 为了方便使用，我将其包装成了一个函数，你可以直接以 `EnableChildWindowDpiMessage(窗口句柄)` 的方式调用，代码如下：
