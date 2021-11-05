@@ -25,7 +25,7 @@ tags:
 毕竟论坛不可能永远存在，但是 Git 仓库每个人都能做备份，能让我写的内容流传下去。
 
 后来远景论坛恢复正常后，我忘记了这件事。
-直到最近因为一些契机，且在在友人 walterlv 的鼓励下，使得我下定决心这么做。
+直到最近因为一些契机，且在友人 walterlv 的鼓励下，使得我下定决心这么做。
 
 我并不会单纯的归档之前撰写的技术文章，而是会根据之前的内容以我现在的视角去对内容进行勘误和重写。
 希望借此能够减少潜在的理解错误的地方，能够更好的帮助看到我这一系列文章的读者。
@@ -34,6 +34,8 @@ tags:
 https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
 
 注：本索引会随着本系列内容的更新而更新。
+
+注：目录中无超链接的文章条目即我未来想写的内容。
 
 ## 目录
 
@@ -72,6 +74,7 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - 使用 C++/WinRT 实现一个轻量级 XAML Island 应用
 - Windows Subsystem for Linux
   - {% post_link Control-the-memory-usage-of-WSL-2-instance %}
+  - 在 Windows 11 使用 Autoware.Auto 框架进行自动驾驶开发
 
 ## 内容收录状态
 
