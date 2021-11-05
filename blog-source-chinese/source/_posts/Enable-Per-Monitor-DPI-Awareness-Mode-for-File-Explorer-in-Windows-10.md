@@ -106,7 +106,7 @@ Per-Monitor (V2) DPI Awareness 模式，相对于 Windows 8.1 时期引入的 Pe
 
 如果你想更进一步，在 Windows 10, Version 1507 和 Windows 10, Version 1511 也希望能够实现媲美
 Per-Monitor (V2) DPI Awareness 模式的效果以实现全 Windows 版本下在生效新的 DPI 缩放比例后依然不会模糊，
-可以关注我的后续博客文章。
+可以阅读{% post_link Notes-for-implement-Per-Monitor-DPI-Awareness-Mode-support-in-earlier-versions-of-Windows-10 %}。
 
 ## 参考文献
 
