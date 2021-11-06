@@ -50,6 +50,7 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - 使用 Win32 API 清空系统还原点的注意事项
 - Compact OS
   - {% post_link The-history-and-principle-of-Compact-OS %}
+  - {% post_link The-exclusion-list-of-Compact-OS %}
   - 通过 compact 命令行工具使用 Compact OS
   - 通过 Win32 API 使用 Compact OS
 - App Container
@@ -85,9 +86,9 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - [浅谈Windows 10 Build 9879的磁盘清理的System Compression](http://bbs.pcbeta.com/viewthread-1567726-1-1.html)
 - 未完整勘误、重写并收录的文章
   - [Windows系统还原新探（Windows系统还原的较深入研究）](https://bbs.pcbeta.com/viewthread-1507617-1-1.html)
+  - [浅谈Windows10的CompactOS特性](https://www.52pojie.cn/thread-528806-1-1.html)
 - 待勘误、重写并收录的文章
   - [浅谈Metro App的沙盒AppContainer](http://bbs.pcbeta.com/viewthread-1611980-1-1.html)
   - [反汇编Windows系统还原代码的成果](http://bbs.pcbeta.com/viewthread-1535789-1-1.html)
   - [原生集成Windows 8/8.1 自带的Windows Defender病毒库的教程](http://bbs.pcbeta.com/viewthread-1519551-1-1.html)
-  - [浅谈Windows10的CompactOS特性](https://www.52pojie.cn/thread-528806-1-1.html)
   - [NSudo 恶魔模式 - 一个面向希望无视文件和注册表访问检查的开发者的解决方案](https://bbs.pediy.com/thread-257345.htm)
