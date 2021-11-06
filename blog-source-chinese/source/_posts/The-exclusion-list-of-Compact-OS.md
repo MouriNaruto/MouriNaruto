@@ -14,8 +14,8 @@ tags:
 但是并不是所有文件都能采用 Compact OS 进行压缩，于是需要排除掉不能使用 Compact OS 压缩的文件。
 
 我从 Windows 10 中提取出了 Compact OS 默认的排除列表，希望能帮助需要开发基于 Compact OS 的第三方应用的朋友。
-
-由于 Windows 下使用 Compact OS 的途径主要是 DISM 和 compact 工具，于是本文贴出这两个工具使用的排除列表
+由于 Windows 下使用 Compact OS 的途径主要是 DISM 和 compact 工具，于是本文贴出这两个工具使用的排除列表。
+顺便也贴出 NSudo 9.0 开始附带的毛利优化插件的排除列表。
 
 ## DISM 工具使用的排除列表
 
@@ -143,6 +143,40 @@ wchar_t *DirectoryExclusionList[] =
 	L"\\ManifestCache\\",
 	L"\\Manifests\\"
 };
+```
+
+当然上述内容在 GPT 分区表的 Windows 映像实例中没有问题，对于 MBR 分区表的 Windows，Compact OS 还会执行 
+NTFS 压缩也使用的的排除逻辑，即排除掉 `ntldr`, `cmldr` 和 `BootMgr` 三个文件。
+
+## 毛利优化插件的排除列表
+
+毛利优化插件使用 `PathMatchSpecExW` API 判断文件是否在排除列表内，逻辑如下。
+
+```
+if (S_OK == ::PathMatchSpecExW(
+    CurrentPath.c_str(),
+    L"*\\WinSxS\\Backup;"
+    L"*\\WinSxS\\ManifestCache;"
+    L"*\\WinSxS\\Manifests;"
+    L"*\\ntldr;"
+    L"*\\cmldr;"
+    L"*\\BootMgr;"
+    L"*\\aow.wim;"
+    L"*\\boot\\bcd;"
+    L"*\\boot\\bcd.*;"
+    L"*\\boot\\bootstat.dat;"
+    L"*\\config\\drivers;"
+    L"*\\config\\drivers.*;"
+    L"*\\config\\system;"
+    L"*\\config\\system.*;"
+    L"*\\windows\\bootstat.dat;"
+    L"*\\winload.e??*;"
+    L"*\\winresume.e??*;",
+    PMSF_MULTIPLE))
+{
+    // 跳过文件和目录
+    return TRUE;
+}
 ```
 
 ## 相关内容
