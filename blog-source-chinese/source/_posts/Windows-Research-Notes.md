@@ -75,7 +75,7 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - 使用 C++/WinRT 实现一个轻量级 XAML Island 应用
 - Windows Subsystem for Linux
   - {% post_link Control-the-memory-usage-of-WSL-2-instance %}
-  - 在 Windows 11 使用 Autoware.Auto 框架进行自动驾驶开发
+  - {% post_link Develop-autonomous-driving-stack-with-Autoware-Auto-and-Windows-11 %}
 
 ## 内容收录状态
 
