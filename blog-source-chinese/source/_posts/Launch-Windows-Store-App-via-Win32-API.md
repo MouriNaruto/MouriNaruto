@@ -170,71 +170,45 @@ Microsoft.XboxGamingOverlay_8wekyb3d8bbwe!App
 通过 `IApplicationActivationManager` 接口你可以在你的应用程序中优雅的启动一个 Windows 商店应用，代码示例如下。
 
 ```
-#include <SDKDDKVer.h>
-
-#include <stdio.h>
-#include <tchar.h>
-#include <shlobj.h>
+#include <Windows.h>
 #include <shobjidl.h>
-#include <objbase.h>
-#include <atlbase.h>
-#include <string>
 
-/*++
-Routine Description:
-This routine launches your app using IApplicationActivationManager.
-Arguments:
-strAppUserModelID - AppUserModelID of the app to launch.
-pdwProcessId - Output argument that receives the process id of the launched app.
-Return value:
-HRESULT indicating success/failure
---*/
-HRESULT LaunchApp(const std::wstring& strAppUserModelId, PDWORD pdwProcessId)
+int main()
 {
-	CComPtr<IApplicationActivationManager> spAppActivationManager;
-	HRESULT hrResult = E_INVALIDARG;
-	if (!strAppUserModelId.empty())
+	HRESULT hr = ::CoInitializeEx(nullptr, COINIT_APARTMENTTHREADED);
+	if (SUCCEEDED(hr))
 	{
-		// Instantiate IApplicationActivationManager
-		hrResult = CoCreateInstance(
+		IApplicationActivationManager* pApplicationActivationManager = nullptr;
+		hr = ::CoCreateInstance(
 			CLSID_ApplicationActivationManager,
-			NULL,
+			nullptr,
 			CLSCTX_LOCAL_SERVER,
 			IID_IApplicationActivationManager,
-			(LPVOID*)&spAppActivationManager);
-
-		if (SUCCEEDED(hrResult))
+			(LPVOID*)&pApplicationActivationManager);
+		if (SUCCEEDED(hr))
 		{
 			// This call ensures that the app is launched as the foreground window
-			hrResult = CoAllowSetForegroundWindow(spAppActivationManager, NULL);
-
-			// Launch the app
-			if (SUCCEEDED(hrResult))
+			hr = ::CoAllowSetForegroundWindow(
+				pApplicationActivationManager, 
+				nullptr);
+			if (SUCCEEDED(hr))
 			{
-				hrResult = spAppActivationManager->ActivateApplication(
-					strAppUserModelId.c_str(),
-					NULL,
+				DWORD dwProcessId = 0;
+				// Launch the app
+				hr = pApplicationActivationManager->ActivateApplication(
+					L"你要启动的 Windows 商店应用入口",
+					nullptr,
 					AO_NONE,
-					pdwProcessId);
+					&dwProcessId);
 			}
+
+			pApplicationActivationManager->Release();
 		}
+
+		::CoUninitialize();
 	}
 
-	return hrResult;
-}
-
-int wmain(int argc, _TCHAR* argv[])
-{
-	HRESULT hrResult = S_OK;
-	if (SUCCEEDED(CoInitializeEx(NULL, COINIT_APARTMENTTHREADED)))
-	{
-		DWORD dwProcessId = 0;
-		hrResult = LaunchApp(L"你要启动的 Windows 商店应用入口", &dwProcessId);
-
-		CoUninitialize();
-	}
-
-	return hrResult;
+    return hr;
 }
 ```
 
