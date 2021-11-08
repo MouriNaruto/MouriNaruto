@@ -73,7 +73,7 @@ sudo sed -i "s/http:/https:/g" /etc/apt/sources.list
 sudo apt-get update
 ```
 
-## 安装 ROS 2 Foxy
+## 在 Ubuntu 20.04 LTS 实例安装 ROS 2 Foxy
 
 首先输入下述命令设置并验证 locale 为 `en_US.UTF-8`。
 
@@ -97,7 +97,7 @@ sudo apt-get update
 
 > sudo apt-get install ros-foxy-desktop
 
-## 下载并编译 Autoware.Auto
+## 在 Ubuntu 20.04 LTS 实例下载并编译 Autoware.Auto
 
 首先输入以下命令并按照提示安装 Autoware.Auto 所需包。
 
@@ -132,12 +132,29 @@ export COLCON_DEFAULTS_FILE=/path/to/AutowareAuto/tools/ade_image/colcon-default
 colcon build
 ```
 
-## 测试 Autoware.Auto
+当上述命令成功执行，即在 Windows 11 上成功配置 Autoware.Auto 环境。
 
-输入以下命令下载 Autoware.Auto 定位示例所需 rosbag 资源包.
+## 后记
 
+这篇文章只是基本的讲述了如何在 Windows 11 上配置 Autoware.Auto 环境。
 
+如果你需要在你的设备上进行仿真，还需要按照 Autoware.Auto 的教程去配置 SVL Simulator。
 
+在每次重新编译 Autoware.Auto 的时候需要执行以下命令。
+
+```
+cd ~/AutowareAuto
+source /opt/ros/foxy/setup.bash
+export COLCON_DEFAULTS_FILE=/path/to/AutowareAuto/tools/ade_image/colcon-defaults.yaml
+colcon build
+```
+
+在每次使用 Autoware.Auto 之前的需要执行以下命令。
+
+```
+cd ~/AutowareAuto
+source install/setup.bash
+```
 
 ## 参考资料
 
