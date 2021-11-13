@@ -64,6 +64,7 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - {% post_link Modify-the-size-of-Start-Screen-in-Windows-8-1 %}
   - {% post_link Notes-for-implement-Per-Monitor-DPI-Awareness-Mode-support-in-earlier-versions-of-Windows-10 %}
   - {% post_link Launch-Windows-Store-App-via-Win32-API %}
+  - {% post_link Defrag-memory-with-NT-API %}
   - 充分利用管理员权限的技巧
 - Windows Runtime
   - 通过 Windows Runtime API 实现对商店应用的升级
