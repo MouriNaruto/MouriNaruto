@@ -76,6 +76,8 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
 - Windows Subsystem for Linux
   - {% post_link Control-the-memory-usage-of-WSL-2-instance %}
   - {% post_link Develop-autonomous-driving-stack-with-Autoware-Auto-and-Windows-11 %}
+- 开发工具 (Visual Studio, MSBuild)
+  - {% post_link Tricks-for-parallel-compilation-with-MSVC-toolchain %}
 
 ## 内容收录状态
 
