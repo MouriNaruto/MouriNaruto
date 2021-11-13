@@ -41,13 +41,7 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
 
 - Windows 系统还原
   - {% post_link New-behavior-of-System-Restore-since-Windows-8 %}
-  - 系统还原基本介绍
-  - 通过命令行使用系统还原
-  - 通过程序语言使用系统还原
-  - 系统还原点存储结构分析
-  - 系统还原的未文档化 Win32 API
-  - 使用 Win32 API 创建系统还原点的注意事项
-  - 使用 Win32 API 清空系统还原点的注意事项
+  - {% post_link The-usage-of-System-Restore %}
 - Compact OS
   - {% post_link The-history-and-principle-of-Compact-OS %}
   - {% post_link The-exclusion-list-of-Compact-OS %}
@@ -87,10 +81,10 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - [实现每显示器高DPI识别(Per-Monitor DPI Aware)的注意事项](https://www.52pojie.cn/thread-512713-1-1.html)
   - [浅谈Windows 10 Build 9879的磁盘清理的System Compression](http://bbs.pcbeta.com/viewthread-1567726-1-1.html)
   - [浅谈Windows10的CompactOS特性](https://www.52pojie.cn/thread-528806-1-1.html)
-- 未完整勘误、重写并收录的文章
-  - [Windows系统还原新探（Windows系统还原的较深入研究）](https://bbs.pcbeta.com/viewthread-1507617-1-1.html)
-- 待勘误、重写并收录的文章
-  - [浅谈Metro App的沙盒AppContainer](http://bbs.pcbeta.com/viewthread-1611980-1-1.html)
   - [反汇编Windows系统还原代码的成果](http://bbs.pcbeta.com/viewthread-1535789-1-1.html)
+  - [Windows系统还原新探（Windows系统还原的较深入研究）](https://bbs.pcbeta.com/viewthread-1507617-1-1.html)
+- 未完整勘误、重写并收录的文章
+- 待勘误、重写并收录的文章
+  - [浅谈Metro App的沙盒AppContainer](http://bbs.pcbeta.com/viewthread-1611980-1-1.html)  
   - [原生集成Windows 8/8.1 自带的Windows Defender病毒库的教程](http://bbs.pcbeta.com/viewthread-1519551-1-1.html)
   - [NSudo 恶魔模式 - 一个面向希望无视文件和注册表访问检查的开发者的解决方案](https://bbs.pediy.com/thread-257345.htm)
