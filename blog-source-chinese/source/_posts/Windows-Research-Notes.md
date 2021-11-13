@@ -65,7 +65,7 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - {% post_link Notes-for-implement-Per-Monitor-DPI-Awareness-Mode-support-in-earlier-versions-of-Windows-10 %}
   - {% post_link Launch-Windows-Store-App-via-Win32-API %}
   - {% post_link Defrag-memory-with-NT-API %}
-  - 充分利用管理员权限的技巧
+  - {% post_link Bypass-file-and-registry-access-check-only-with-Administrator %}
 - Windows Runtime
   - 通过 Windows Runtime API 实现对商店应用的升级
   - Windows 应用程序打包项目的已知问题和解决方案
@@ -86,8 +86,8 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - [浅谈Windows10的CompactOS特性](https://www.52pojie.cn/thread-528806-1-1.html)
   - [反汇编Windows系统还原代码的成果](http://bbs.pcbeta.com/viewthread-1535789-1-1.html)
   - [Windows系统还原新探（Windows系统还原的较深入研究）](https://bbs.pcbeta.com/viewthread-1507617-1-1.html)
+  - [NSudo 恶魔模式 - 一个面向希望无视文件和注册表访问检查的开发者的解决方案](https://bbs.pediy.com/thread-257345.htm)
 - 未完整勘误、重写并收录的文章
 - 待勘误、重写并收录的文章
   - [浅谈Metro App的沙盒AppContainer](http://bbs.pcbeta.com/viewthread-1611980-1-1.html)  
   - [原生集成Windows 8/8.1 自带的Windows Defender病毒库的教程](http://bbs.pcbeta.com/viewthread-1519551-1-1.html)
-  - [NSudo 恶魔模式 - 一个面向希望无视文件和注册表访问检查的开发者的解决方案](https://bbs.pediy.com/thread-257345.htm)
