@@ -179,11 +179,8 @@ if (S_OK == ::PathMatchSpecExW(
 }
 ```
 
-## 参考文献
+## 相关内容
 
 - {% post_link The-history-and-principle-of-Compact-OS %}
 - {% post_link The-usage-of-Compact-OS %}
-
-## 相关内容
-
-{% post_link Windows-Research-Notes %}
+- {% post_link Windows-Research-Notes %}

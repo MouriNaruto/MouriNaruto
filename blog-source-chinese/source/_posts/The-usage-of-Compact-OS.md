@@ -286,8 +286,6 @@ Compact OS 还需要排除更多的文件。
 
 ## 参考文献
 
-- {% post_link The-history-and-principle-of-Compact-OS %}
-- {% post_link The-exclusion-list-of-Compact-OS %}
 - https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/compact-os
 - https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/compact
 - https://docs.microsoft.com/en-us/windows/win32/api/wofapi
@@ -297,4 +295,6 @@ Compact OS 还需要排除更多的文件。
 
 ## 相关内容
 
-{% post_link Windows-Research-Notes %}
+- {% post_link The-history-and-principle-of-Compact-OS %}
+- {% post_link The-exclusion-list-of-Compact-OS %}
+- {% post_link Windows-Research-Notes %}

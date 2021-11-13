@@ -52,10 +52,10 @@ Compact OS 相对于 WIMBoot 的优点在于前者比后者更加灵活，可以
 
 ## 参考文献
 
-- {% post_link The-exclusion-list-of-Compact-OS %}
-- {% post_link The-usage-of-Compact-OS %}
 - https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/compact-os
 
 ## 相关内容
 
-{% post_link Windows-Research-Notes %}
+- {% post_link The-exclusion-list-of-Compact-OS %}
+- {% post_link The-usage-of-Compact-OS %}
+- {% post_link Windows-Research-Notes %}
