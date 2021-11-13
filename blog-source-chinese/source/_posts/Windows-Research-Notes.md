@@ -42,6 +42,7 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
 - Windows 系统还原
   - {% post_link New-behavior-of-System-Restore-since-Windows-8 %}
   - {% post_link The-usage-of-System-Restore %}
+  - {% post_link Using-System-Restore-with-CSharp %}
 - Compact OS
   - {% post_link The-history-and-principle-of-Compact-OS %}
   - {% post_link The-exclusion-list-of-Compact-OS %}
