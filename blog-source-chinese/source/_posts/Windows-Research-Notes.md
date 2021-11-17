@@ -75,6 +75,8 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - {% post_link Develop-autonomous-driving-stack-with-Autoware-Auto-and-Windows-11 %}
 - 开发工具 (Visual Studio, MSBuild)
   - {% post_link Tricks-for-parallel-compilation-with-MSVC-toolchain %}
+- 开发环境配置
+  - {% post_link Some-noticeable-issues-in-Windows-10-Build-1904x-ISOs %}
 
 ## 内容收录状态
 
