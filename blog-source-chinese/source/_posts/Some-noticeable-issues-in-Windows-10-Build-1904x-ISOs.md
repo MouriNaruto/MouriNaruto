@@ -268,11 +268,20 @@ C:\Win10Image>
 
 ![替换对应文件](ReplaceFiles.png)
 
+## 示例映像
+
+zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312_mouri_repacked.iso
+SHA256: 62193E23BCC2D66A60807965B8CEB7C01887E7336A5C10B2D436432B2FE9C4BE
+
+链接：https://pan.baidu.com/s/1eo8KOAe9p1Uoca5tRsB6Kg
+提取码：p2qe
+
 ## 参考文献
 
 - [Windows 10 Version 2004 MSDN ISO 已知问题汇总](https://bbs.pcbeta.com/viewthread-1858942-1-1.html)
 - [Windows 10 更新历史记录](https://support.microsoft.com/zh-cn/topic/1b6aac92-bf01-42b5-b158-f80c6d93eb11)
 - [Microsoft 更新目录](https://www.catalog.update.microsoft.com/)
+- [【毛利重打包版】Windows 10 Enterprise LTSC 2021 x64](https://bbs.pcbeta.com/viewthread-1912202-1-1.html)
 
 ## 相关内容
 
