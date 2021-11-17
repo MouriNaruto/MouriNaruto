@@ -643,7 +643,7 @@ post:
 # See: https://utteranc.es
 utterances:
   repo: MouriNaruto/MouriNaruto
-  issue_term: title
+  issue_term: pathname
   label: blog
   theme: github-light
   theme_dark: github-dark
