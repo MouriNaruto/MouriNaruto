@@ -52,7 +52,8 @@ Compact OS 相对于 WIMBoot 的优点在于前者比后者更加灵活，可以
 
 ## 参考文献
 
-- https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/compact-os
+- [浅谈Windows 10 Build 9879的磁盘清理的System Compression](http://bbs.pcbeta.com/viewthread-1567726-1-1.html)
+- [Compact OS](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/compact-os)
 
 ## 相关内容
 

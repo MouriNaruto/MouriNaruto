@@ -31,8 +31,8 @@ vc-ltl = "5.0.3-Beta1"
 
 ## 参考文献
 
-- https://github.com/Chuyu-Team/VC-LTL5
-- https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html#specifying-dependencies-from-cratesio
+- [VC-LTL 5.x 项目地址](https://github.com/Chuyu-Team/VC-LTL5)
+- [Specifying dependencies from crates.io](https://doc.rust-lang.org/cargo/reference/specifying-dependencies.html#specifying-dependencies-from-cratesio)
 
 ## 相关内容
 

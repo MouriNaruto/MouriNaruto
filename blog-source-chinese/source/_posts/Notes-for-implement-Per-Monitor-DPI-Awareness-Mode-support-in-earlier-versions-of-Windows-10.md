@@ -135,8 +135,9 @@ BOOL EnableChildWindowDpiMessage(
 
 ## 参考文献
 
-- https://blog.walterlv.com/post/windows-high-dpi-development.html
-- https://www.windowscentral.com/how-change-high-dpi-settings-classic-apps-windows-10-april-2018-update
+- [实现每显示器高DPI识别(Per-Monitor DPI Aware)的注意事项](https://www.52pojie.cn/thread-512713-1-1.html)
+- [Windows 下的高 DPI 应用开发（UWP / WPF / Windows Forms / Win32）](https://blog.walterlv.com/post/windows-high-dpi-development.html)
+- [How to change DPI settings for 'classic' apps on Windows 10 April 2018 Update](https://www.windowscentral.com/how-change-high-dpi-settings-classic-apps-windows-10-april-2018-update)
 
 ## 相关内容
 

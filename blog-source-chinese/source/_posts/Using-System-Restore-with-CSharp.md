@@ -250,6 +250,10 @@ namespace SRTest
 }
 ```
 
+## 参考资料
+
+- [Windows系统还原新探（Windows系统还原的较深入研究）](https://bbs.pcbeta.com/viewthread-1507617-1-1.html)
+
 ## 相关内容
 
 - {% post_link The-usage-of-System-Restore %}

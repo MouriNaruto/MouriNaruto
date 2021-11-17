@@ -214,6 +214,11 @@ extern "C"
 由于在 C++ 下调用 WMI API 通过 WMI 去遍历系统还原点是一件很麻烦的事情，
 由于从 Windows Vista 开始系统还原基于卷影复制，于是建议直接使用卷影复制 API 去删除卷影副本。
 
+## 参考资料
+
+- [Windows系统还原新探（Windows系统还原的较深入研究）](https://bbs.pcbeta.com/viewthread-1507617-1-1.html)
+- [反汇编Windows系统还原代码的成果](http://bbs.pcbeta.com/viewthread-1535789-1-1.html)
+
 ## 相关内容
 
 - {% post_link The-usage-of-System-Restore %}

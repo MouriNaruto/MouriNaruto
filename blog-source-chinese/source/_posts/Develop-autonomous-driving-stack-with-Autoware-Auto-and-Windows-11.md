@@ -158,13 +158,12 @@ source install/setup.bash
 
 ## 参考资料
 
-- https://devblogs.microsoft.com/commandline/the-windows-subsystem-for-linux-build-2020-summary
-- https://docs.microsoft.com/en-us/windows/wsl/install
-- https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html
-- https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/installation-no-ade.html
-- https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/building.html
-- https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/rosbag-localization-howto.html
-
+- [The Windows Subsystem for Linux BUILD 2020 Summary](https://devblogs.microsoft.com/commandline/the-windows-subsystem-for-linux-build-2020-summary)
+- [Install WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
+- [Installing ROS 2 via Debian Packages](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
+- [Autoware.Auto - Installation w/o ADE](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/installation-no-ade.html)
+- [Autoware.Auto - Building](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/building.html)
+- [Autoware.Auto - Localization Demo using rosbag](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/rosbag-localization-howto.html)
 
 ## 相关内容
 

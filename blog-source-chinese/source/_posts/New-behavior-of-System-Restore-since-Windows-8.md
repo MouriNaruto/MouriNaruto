@@ -32,7 +32,7 @@ Windows 8 之后版本在其 Windows 启动卷创建的系统还原点如果被�
 
 ## 原文勘误
 
-当年在 https://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1507617&page=1#pid40120249 
+当年在[Windows系统还原新探（Windows系统还原的较深入研究）](https://bbs.pcbeta.com/viewthread-1507617-1-1.html)
 中我写的下述内容其实是有误的。
 
 
@@ -55,7 +55,8 @@ Windows 8 之后的系统还原实现也没有任何与 Windows XP 或者 Window
 
 ## 参考资料
 
-- https://docs.microsoft.com/en-us/windows/win32/sr/calling-srsetrestorepoint?redirectedfrom=MSDN
+- [Windows系统还原新探（Windows系统还原的较深入研究）](https://bbs.pcbeta.com/viewthread-1507617-1-1.html)
+- [Calling SRSetRestorePoint](https://docs.microsoft.com/en-us/windows/win32/sr/calling-srsetrestorepoint)
 
 ## 相关内容
 

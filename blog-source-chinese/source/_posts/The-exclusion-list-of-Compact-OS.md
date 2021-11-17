@@ -179,6 +179,10 @@ if (S_OK == ::PathMatchSpecExW(
 }
 ```
 
+## 参考文献
+
+- [浅谈Windows10的CompactOS特性](https://www.52pojie.cn/thread-528806-1-1.html)
+
 ## 相关内容
 
 - {% post_link The-history-and-principle-of-Compact-OS %}

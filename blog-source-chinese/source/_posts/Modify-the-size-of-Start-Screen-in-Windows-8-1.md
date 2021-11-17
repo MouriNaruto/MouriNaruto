@@ -93,7 +93,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 ## 参考文献
 
-- https://bbs.pcbeta.com/viewthread-1524688-1-1.html
+- [自定义开始屏幕的大小](http://bbs.pcbeta.com/viewthread-1524688-1-1.html)
 
 ## 相关内容
 

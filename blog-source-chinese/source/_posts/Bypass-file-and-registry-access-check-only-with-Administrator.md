@@ -756,6 +756,10 @@ BOOL APIENTRY DllMain(
 }
 ```
 
+## 参考资料
+
+- [NSudo 恶魔模式 - 一个面向希望无视文件和注册表访问检查的开发者的解决方案](https://bbs.pediy.com/thread-257345.htm)
+
 ## 相关内容
 
 {% post_link Windows-Research-Notes %}

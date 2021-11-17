@@ -166,6 +166,10 @@ vssadmin 1.1 - 卷影复制服务管理命令行工具
 
 请参阅 {% post_link Using-System-Restore-with-Cpp %}。
 
+## 参考资料
+
+- [Windows系统还原新探（Windows系统还原的较深入研究）](https://bbs.pcbeta.com/viewthread-1507617-1-1.html)
+
 ## 相关内容
 
 {% post_link Windows-Research-Notes %}
