@@ -177,15 +177,6 @@ Processing 1 of 1 - Adding package C:\Win10Image\windows10.0-kb5006670-x64_51b78
 [==========================100.0%==========================]
 操作成功完成。
 
-C:\Win10Image>DISM /Export-Image /SourceImageFile:Mount\Windows\System32\Recovery\Winre.wim /SourceIndex:1 /Bootable /DestinationImageFile:Mount\Windows\System32\Recovery\Winre.new.wim
-
-部署映像服务和管理工具
-版本: 10.0.17763.1697
-
-正在导出映像
-[==========================100.0%==========================]
-操作成功完成。
-
 C:\Win10Image>
 ```
 
@@ -211,6 +202,15 @@ C:\Win10Image>DISM /Unmount-Image /MountDir:MountRE /Commit
 正在保存映像
 [==========================100.0%==========================]
 正在卸载映像
+[==========================100.0%==========================]
+操作成功完成。
+
+C:\Win10Image>DISM /Export-Image /SourceImageFile:Mount\Windows\System32\Recovery\Winre.wim /SourceIndex:1 /Bootable /DestinationImageFile:Mount\Windows\System32\Recovery\Winre.new.wim
+
+部署映像服务和管理工具
+版本: 10.0.17763.1697
+
+正在导出映像
 [==========================100.0%==========================]
 操作成功完成。
 
@@ -270,18 +270,32 @@ C:\Win10Image>
 
 ## 示例映像
 
-zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312_mouri_repacked.iso
-SHA256: 62193E23BCC2D66A60807965B8CEB7C01887E7336A5C10B2D436432B2FE9C4BE
+### zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312_mouri_repacked.iso
 
-链接：https://pan.baidu.com/s/1eo8KOAe9p1Uoca5tRsB6Kg
-提取码：p2qe
+- SHA256: 62193E23BCC2D66A60807965B8CEB7C01887E7336A5C10B2D436432B2FE9C4BE
+- 百度网盘
+  - 链接：https://pan.baidu.com/s/1eo8KOAe9p1Uoca5tRsB6Kg
+  - 提取码：p2qe
+- 临时网盘 (由 subaobao_ok 提供)
+  - 链接：https://pan.adycloud.com/s/mZeun
+  - 密码：bbs.pcbeta.com
+- 天翼云盘 (由 subaobao_ok 提供)
+  - 链接：https://cloud.189.cn/t/eq2mQnV3qIfa 
+  - 访问码:9tov
+
+### zh-cn_windows_10_enterprise_ltsc_2021_x86_dvd_30600d9c_mouri_repacked.iso
+
+- SHA256: 239278A14ED0975AE99199352CDC1F54615D19A7DC8B7D753645A44B57A388EE
+- 百度网盘
+  - 链接：https://pan.baidu.com/s/1eo8KOAe9p1Uoca5tRsB6Kg
+  - 提取码：p2qe
 
 ## 参考文献
 
 - [Windows 10 Version 2004 MSDN ISO 已知问题汇总](https://bbs.pcbeta.com/viewthread-1858942-1-1.html)
 - [Windows 10 更新历史记录](https://support.microsoft.com/zh-cn/topic/1b6aac92-bf01-42b5-b158-f80c6d93eb11)
 - [Microsoft 更新目录](https://www.catalog.update.microsoft.com/)
-- [【毛利重打包版】Windows 10 Enterprise LTSC 2021 x64](https://bbs.pcbeta.com/viewthread-1912202-1-1.html)
+- [【毛利重打包版（x86 和 x64）】Windows 10 Enterprise LTSC 2021【含天翼云分流】](https://bbs.pcbeta.com/viewthread-1912202-1-1.html)
 
 ## 相关内容
 
