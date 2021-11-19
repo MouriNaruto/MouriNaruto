@@ -273,6 +273,9 @@ C:\Win10Image>
 ### zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312_mouri_repacked.iso
 
 - SHA256: 62193E23BCC2D66A60807965B8CEB7C01887E7336A5C10B2D436432B2FE9C4BE
+- 直链
+  - 链接：https://d.legna.cn/MouriRepackedOS/LTSC2021/zh-cn_windows_10_enterprise_ltsc_2021_x64_dvd_033b7312_mouri_repacked.iso
+  - 直链服务器由 Legna 赞助
 - 百度网盘
   - 链接：https://pan.baidu.com/s/1eo8KOAe9p1Uoca5tRsB6Kg
   - 提取码：p2qe
@@ -286,6 +289,9 @@ C:\Win10Image>
 ### zh-cn_windows_10_enterprise_ltsc_2021_x86_dvd_30600d9c_mouri_repacked.iso
 
 - SHA256: 239278A14ED0975AE99199352CDC1F54615D19A7DC8B7D753645A44B57A388EE
+- 直链
+  - 链接：https://d.legna.cn/MouriRepackedOS/LTSC2021/zh-cn_windows_10_enterprise_ltsc_2021_x86_dvd_30600d9c_mouri_repacked.iso
+  - 直链服务器由 Legna 赞助
 - 百度网盘
   - 链接：https://pan.baidu.com/s/1eo8KOAe9p1Uoca5tRsB6Kg
   - 提取码：p2qe
