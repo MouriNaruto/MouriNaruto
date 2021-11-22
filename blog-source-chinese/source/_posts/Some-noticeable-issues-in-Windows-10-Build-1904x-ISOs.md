@@ -2,12 +2,12 @@
 title: Windows 10 Build 1904x ISO 中存在的问题和解决方案
 date: 2021-11-17 11:17:38
 categories:
-- [技术, Windows, Windows 研究笔记, 开发环境配置]
+- [技术, Windows, Windows 研究笔记, 开发环境]
 tags:
 - 技术
 - Windows
 - Windows 研究笔记
-- 开发环境配置
+- 开发环境
 ---
 
 在 Windows 10 Build 19041 的官方 ISO 正式发布以后，我在远景写了一篇帖子来叙述微软在进行系统打包时出现的纰漏。

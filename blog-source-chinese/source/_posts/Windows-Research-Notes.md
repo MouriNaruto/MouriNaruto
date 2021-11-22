@@ -54,29 +54,25 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - 通过第三方工具使用 App Container
   - 通过 NT API 创建 App Container 访问令牌及注意事项
   - Windows 10 及之后版本的 App Container 行为变更
-- Windows 内置的 C 运行时库
-  - {% post_link Use-VC-LTL-in-your-Rust-projects %}
-  - Windows 内置的 C 运行时库的历史沿革
-  - 通过 VC-LTL 使用 Windows 内置的 C 运行时库
-  - 在传统 UWP 中使用 VC-LTL
-- Windows 用户模式 (Win32 API, NT API)
+- Windows 用户模式 (Win32 API, NT API, Windows Runtime)
   - {% post_link Enable-Per-Monitor-DPI-Awareness-Mode-for-File-Explorer-in-Windows-10 %}
   - {% post_link Modify-the-size-of-Start-Screen-in-Windows-8-1 %}
   - {% post_link Notes-for-implement-Per-Monitor-DPI-Awareness-Mode-support-in-earlier-versions-of-Windows-10 %}
   - {% post_link Launch-Windows-Store-App-via-Win32-API %}
   - {% post_link Defrag-memory-with-NT-API %}
   - {% post_link Bypass-file-and-registry-access-check-only-with-Administrator %}
-- Windows Runtime
+  - Windows 内置的 C 运行时库的历史沿革
   - 通过 Windows Runtime API 实现对商店应用的升级
   - Windows 应用程序打包项目的已知问题和解决方案
   - 使用 C++/WinRT 实现一个轻量级 XAML Island 应用
-- Windows Subsystem for Linux
+- 开发环境 (Visual Studio, MSBuild, Cargo)
   - {% post_link Control-the-memory-usage-of-WSL-2-instance %}
+  - {% post_link Use-VC-LTL-in-your-Rust-projects %}
   - {% post_link Develop-autonomous-driving-stack-with-Autoware-Auto-and-Windows-11 %}
-- 开发工具 (Visual Studio, MSBuild)
   - {% post_link Tricks-for-parallel-compilation-with-MSVC-toolchain %}
-- 开发环境配置
   - {% post_link Some-noticeable-issues-in-Windows-10-Build-1904x-ISOs %}
+  - 通过 VC-LTL 使用 Windows 内置的 C 运行时库
+  - 在传统 UWP 中使用 VC-LTL
 
 ## 待收录的文章
 

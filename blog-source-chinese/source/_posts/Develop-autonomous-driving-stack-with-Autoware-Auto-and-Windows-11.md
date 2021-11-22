@@ -2,12 +2,12 @@
 title: 使用 Autoware.Auto 和 Windows 11 进行自动驾驶开发
 date: 2021-11-08 18:46:17
 categories:
-- [技术, Windows, Windows 研究笔记, WSL2]
+- [技术, Windows, Windows 研究笔记, 开发环境]
 tags:
 - 技术
 - Windows
 - Windows 研究笔记
-- WSL2
+- 开发环境
 ---
 
 去年夏天，当微软宣布 WSL 会添加 GPU 计算与 GUI 应用支持的时候，这件事让我兴奋了好几天。

@@ -2,12 +2,12 @@
 title: 在你的 Rust 项目中使用 VC-LTL
 date: 2021-11-04 21:02:19
 categories:
-- [技术, Windows, Windows 研究笔记, C 运行时]
+- [技术, Windows, Windows 研究笔记, 开发环境]
 tags:
 - 技术
 - Windows
 - Windows 研究笔记
-- C 运行时
+- 开发环境
 ---
 
 VC-LTL 是一套可以让开发者优雅的使用 Windows 内置的 C 运行时库的编译工具链，

@@ -2,12 +2,12 @@
 title: 使用 MSVC 工具链进行并行编译的技巧
 date: 2021-11-14 00:37:29
 categories:
-- [技术, Windows, Windows 研究笔记, 开发工具]
+- [技术, Windows, Windows 研究笔记, 开发环境]
 tags:
 - 技术
 - Windows
 - Windows 研究笔记
-- 开发工具
+- 开发环境
 ---
 
 昨天和 vczh 在群内聊了下 MSVC 并行编译的事情，我本为验证他的说法，结果发现自己的配置缺少部分内容而无法充分并行编译。

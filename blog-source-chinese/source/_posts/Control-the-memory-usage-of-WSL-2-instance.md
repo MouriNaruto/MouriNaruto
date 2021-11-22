@@ -2,12 +2,12 @@
 title: 控制 WSL 2 实例的内存占用
 date: 2021-11-02 14:32:10
 categories:
-- [技术, Windows, Windows 研究笔记, WSL2]
+- [技术, Windows, Windows 研究笔记, 开发环境]
 tags:
 - 技术
 - Windows
 - Windows 研究笔记
-- WSL2
+- 开发环境
 ---
 
 前段日子重装了我的台式机里面的 Linux 子系统，顺便把子系统版本从 WSL1 迁移到了 WSL2。
