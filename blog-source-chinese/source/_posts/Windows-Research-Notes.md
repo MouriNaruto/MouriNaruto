@@ -71,6 +71,7 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - {% post_link Develop-autonomous-driving-stack-with-Autoware-Auto-and-Windows-11 %}
   - {% post_link Tricks-for-parallel-compilation-with-MSVC-toolchain %}
   - {% post_link Some-noticeable-issues-in-Windows-10-Build-1904x-ISOs %}
+  - {% post_link Build-Qt-6-with-VC-LTL %}
   - 通过 VC-LTL 使用 Windows 内置的 C 运行时库
   - 在传统 UWP 中使用 VC-LTL
 
