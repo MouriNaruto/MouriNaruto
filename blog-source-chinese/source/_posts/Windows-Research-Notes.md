@@ -48,12 +48,6 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - {% post_link The-history-and-principle-of-Compact-OS %}
   - {% post_link The-exclusion-list-of-Compact-OS %}
   - {% post_link The-usage-of-Compact-OS %}
-- App Container
-  - App Container 基本介绍
-  - 通过 Win32 API 使用 App Container
-  - 通过第三方工具使用 App Container
-  - 通过 NT API 创建 App Container 访问令牌及注意事项
-  - Windows 10 及之后版本的 App Container 行为变更
 - Windows 用户模式 (Win32 API, NT API, Windows Runtime)
   - {% post_link Enable-Per-Monitor-DPI-Awareness-Mode-for-File-Explorer-in-Windows-10 %}
   - {% post_link Modify-the-size-of-Start-Screen-in-Windows-8-1 %}
@@ -61,10 +55,6 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - {% post_link Launch-Windows-Store-App-via-Win32-API %}
   - {% post_link Defrag-memory-with-NT-API %}
   - {% post_link Bypass-file-and-registry-access-check-only-with-Administrator %}
-  - Windows 内置的 C 运行时库的历史沿革
-  - 通过 Windows Runtime API 实现对商店应用的升级
-  - Windows 应用程序打包项目的已知问题和解决方案
-  - 使用 C++/WinRT 实现一个轻量级 XAML Island 应用
 - 开发环境 (Visual Studio, MSBuild, Cargo)
   - {% post_link Control-the-memory-usage-of-WSL-2-instance %}
   - {% post_link Use-VC-LTL-in-your-Rust-projects %}
@@ -72,10 +62,25 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - {% post_link Tricks-for-parallel-compilation-with-MSVC-toolchain %}
   - {% post_link Some-noticeable-issues-in-Windows-10-Build-1904x-ISOs %}
   - {% post_link Build-Qt-6-with-VC-LTL %}
-  - 通过 VC-LTL 使用 Windows 内置的 C 运行时库
-  - 在传统 UWP 中使用 VC-LTL
 
 ## 待收录的文章
 
 - [浅谈Metro App的沙盒AppContainer](http://bbs.pcbeta.com/viewthread-1611980-1-1.html)  
 - [原生集成Windows 8/8.1 自带的Windows Defender病毒库的教程](http://bbs.pcbeta.com/viewthread-1519551-1-1.html)
+
+## 计划编写的文章
+
+- App Container
+  - App Container 基本介绍
+  - 通过 Win32 API 使用 App Container
+  - 通过第三方工具使用 App Container
+  - 通过 NT API 创建 App Container 访问令牌及注意事项
+  - Windows 10 及之后版本的 App Container 行为变更
+- Windows 用户模式 (Win32 API, NT API, Windows Runtime)
+  - Windows 内置的 C 运行时库的历史沿革
+  - 通过 Windows Runtime API 实现对商店应用的升级
+  - Windows 应用程序打包项目的已知问题和解决方案
+  - 使用 C++/WinRT 实现一个轻量级 XAML Island 应用
+- 开发环境 (Visual Studio, MSBuild, Cargo)
+  - 通过 VC-LTL 使用 Windows 内置的 C 运行时库
+  - 在传统 UWP 中使用 VC-LTL
