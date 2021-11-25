@@ -62,6 +62,7 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - {% post_link Tricks-for-parallel-compilation-with-MSVC-toolchain %}
   - {% post_link Some-noticeable-issues-in-Windows-10-Build-1904x-ISOs %}
   - {% post_link Build-Qt-6-with-VC-LTL %}
+  - {% post_link Use-VC-LTL-in-your-Cpp-WinRT-UWP-projects %}
 
 ## 待收录的文章
 
@@ -81,6 +82,3 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
   - 通过 Windows Runtime API 实现对商店应用的升级
   - Windows 应用程序打包项目的已知问题和解决方案
   - 使用 C++/WinRT 实现一个轻量级 XAML Island 应用
-- 开发环境 (Visual Studio, MSBuild, Cargo)
-  - 通过 VC-LTL 使用 Windows 内置的 C 运行时库
-  - 在传统 UWP 中使用 VC-LTL
