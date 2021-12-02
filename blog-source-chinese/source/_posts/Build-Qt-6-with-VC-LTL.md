@@ -38,6 +38,35 @@ endif()
 `VC-LTL.cmake`，并在 `qtbase/cmake/QtBuild.cmake` 的末尾添加下述内容并保存。
 
 ```
+set(WindowsTargetPlatformMinVersion 10.0.10240.0 CACHE STRING "" FORCE)
+set(CleanImport "true" CACHE STRING "" FORCE)
+
+include(VC-LTL)
+
+if(MSVC)
+    set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>" CACHE STRING "" FORCE)
+endif()
+```
+
+然后你就可以按照 Qt 6 官方的编译教程去编译使用了 VC-LTL 工具链的 Qt 6 二进制了，顺便附上我的 Qt 6 编译命令。
+
+```
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\vcvarsall.bat" amd64
+set PATH=%~dp0qtbase\bin;%PATH%
+mkdir output\x64
+cd output\x64
+call ..\..\configure.bat -prefix "C:\Workspace\Qt\6.2.1\msvc2019_64" -debug-and-release -platform win32-msvc -opensource -confirm-license -shared -nomake examples -nomake tests -no-openssl -no-opengl -plugin-sql-sqlite -qt-zlib -qt-libpng -qt-libjpeg -mp -skip qt3d -skip qt5compat -skip qtcharts -skip qtcoap -skip qtconnectivity -skip qtdatavis3d -skip qtdeclarative -skip qtdoc -skip qtlocation -skip qtlottie -skip qtmqtt -skip qtmultimedia -skip qtnetworkauth -skip qtopcua -skip qtquick3d -skip qtquicktimeline -skip qtremoteobjects -skip qtscxml -skip qtsensors -skip qtserialbus -skip qtserialport -skip qtshadertools -skip qtvirtualkeyboard -skip qtwebchannel -skip qtwebengine -skip qtwebsockets -skip qtwebview
+ninja
+ninja install
+```
+
+希望大家把玩 Qt 6 的时候能够顺利一些，感谢阅读。
+
+## 2021 年 12 月 2 日勘误记录
+
+由于在 `qtbase/cmake/QtBuild.cmake` 的末尾添加下述内容并不能使 Qt6 完全静态链接到 MSVC 运行时。
+
+```
 include(VC-LTL)
 
 set(CompilerFlags
@@ -57,19 +86,30 @@ foreach(CompilerFlag ${CompilerFlags})
 endforeach()
 ```
 
-然后你就可以按照 Qt 6 官方的编译教程去编译使用了 VC-LTL 工具链的 Qt 6 二进制了，顺便附上我的 Qt 6 编译命令。
+在友人 wangwenx190 的帮助下，把该部分修改为下述内容问题解决。因为在决定是否静态链接到 MSVC 
+运行时的时候，需要以 CACHE 和 FORCE 方式设置 CMake 提供的选项达到预期目的。
 
 ```
-"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\Build\vcvarsall.bat" amd64
-set PATH=%~dp0qtbase\bin;%PATH%
-mkdir output\x64
-cd output\x64
-call ..\..\configure.bat -prefix "C:\Workspace\Qt\6.2.1\msvc2019_64" -debug-and-release -platform win32-msvc -opensource -confirm-license -shared -nomake examples -nomake tests -no-openssl -no-opengl -plugin-sql-sqlite -qt-zlib -qt-libpng -qt-libjpeg -mp -skip qt3d -skip qt5compat -skip qtcharts -skip qtcoap -skip qtconnectivity -skip qtdatavis3d -skip qtdeclarative -skip qtdoc -skip qtlocation -skip qtlottie -skip qtmqtt -skip qtmultimedia -skip qtnetworkauth -skip qtopcua -skip qtquick3d -skip qtquicktimeline -skip qtremoteobjects -skip qtscxml -skip qtsensors -skip qtserialbus -skip qtserialport -skip qtshadertools -skip qtvirtualkeyboard -skip qtwebchannel -skip qtwebengine -skip qtwebsockets -skip qtwebview
-ninja
-ninja install
+include(VC-LTL)
+
+if(MSVC)
+    set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>" CACHE STRING "" FORCE)
+endif()
 ```
 
-希望大家把玩 Qt 6 的时候能够顺利一些，感谢阅读。
+由于 Qt 6 在 Windows 平台最低支持版本是 Windows 10, Version 1809，于是可以设置 VC-LTL 工具链的运行库功能级别为
+`10.0.10240.0` 以获取更加精巧的体积，于是该部分继续修改为下述内容。
+
+```
+set(WindowsTargetPlatformMinVersion 10.0.10240.0 CACHE STRING "" FORCE)
+set(CleanImport "true" CACHE STRING "" FORCE)
+
+include(VC-LTL)
+
+if(MSVC)
+    set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>" CACHE STRING "" FORCE)
+endif()
+```
 
 ## 相关内容
 
