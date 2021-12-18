@@ -54,7 +54,7 @@ this article if you are not good at English. (Translation: 如果你不擅长英
   - {% post_link The-history-and-principle-of-Compact-OS %}
   - {% post_link The-exclusion-list-of-Compact-OS %}
   - {% post_link The-usage-of-Compact-OS %}
-- Windows User Mode (Win32 API, NT API, Windows Runtime)
+- User Mode (Win32 API, NT API, Windows Runtime)
   - {% post_link Enable-Per-Monitor-DPI-Awareness-Mode-for-File-Explorer-in-Windows-10 %}
   - {% post_link Modify-the-size-of-Start-Screen-in-Windows-8-1 %}
   - {% post_link Notes-for-implement-Per-Monitor-DPI-Awareness-Mode-support-in-earlier-versions-of-Windows-10 %}
