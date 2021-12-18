@@ -14,6 +14,9 @@ tags:
 然后进行了数个小时的讨论，虽然有很大的进展，但是 Qt 6 的 configure.bat 的 --debug-and-release 模式不能用，我由于不怎么用
 CMake 于是束手无策，几天后友人给 VC-LTL 捣鼓了个 PR 解决了这个问题，遂笔者将相关做法整理成本文。
 
+如果你不擅长中文，可以[点此](https://mourinaruto.github.io/en/2021/11/23/Build-Qt-6-with-VC-LTL/)阅读英文版。
+(翻译: If you are not good at Chinese, you can click on the link in this paragraph to read the English version.)
+
 本文假设你已经配置好了编译 Qt 6 源代码的基本环境，毕竟本文主要目的是介绍如何在编译 Qt 6 源代码的时候使用 VC-LTL 
 来使你编译的 Qt 6 的二进制在 C 运行库方面仅依赖 Windows 内置的 `msvcrt.dll` 或 `ucrtbase.dll` 以达成无需额外部署
 MSVC 运行库的目标。
@@ -114,4 +117,3 @@ endif()
 ## 相关内容
 
 {% post_link Windows-Research-Notes %}
-
