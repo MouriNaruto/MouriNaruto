@@ -17,7 +17,7 @@ tags:
 因为我觉得在很多人去的论坛发表文章可以让更多的人看到，使更多的人因为我写的技术文章得到帮助。
 
 大概在 2014 到 2016 年，是我的高产期。
-后来我不怎么发布技术文章了，比较那时的我没有灵感写长篇技术文章。
+后来我不怎么发布技术文章了，毕竟那时的我没有灵感写长篇技术文章。
 但那时的自己又没有勇气发布短篇技术文章，因为担心其他人说我在论坛水贴。
 
 众所周知，前几年远景论坛的服务器非常不稳定，动不动就无法访问。
@@ -36,6 +36,9 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
 注：本索引会随着本系列内容的更新而更新。
 
 注：目录中无超链接的文章条目即我未来想写的内容。
+
+如果你不擅长中文，可以[点此](https://mourinaruto.github.io/en/2021/11/02/Windows-Research-Notes/)阅读英文版。
+(翻译: If you are not good at Chinese, you can click on the link in this paragraph to read the English version.)
 
 ## 目录
 
