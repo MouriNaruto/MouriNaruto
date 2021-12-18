@@ -18,11 +18,11 @@
 
 # 用于浏览器标签的图标
 # Icon for browser tab
-favicon: /img/favicon.png
+favicon: /favicon.ico
 
 # 用于苹果设备的图标
 # Icon for Apple touch
-apple_touch_icon: /img/favicon.png
+apple_touch_icon: /favicon.ico
 
 # 浏览器标签页中的标题分隔符，效果： 文章名 - 站点名
 # Title separator in browser tab, eg: article - site
@@ -836,7 +836,7 @@ about:
     - { class: 'iconfont icon-zhihu-fill', link: 'https://www.zhihu.com/people/MouriNaruto', tip: '知乎' }
     - { class: 'iconfont icon-bilibili', link: 'https://space.bilibili.com/2957331', tip: '哔哩哔哩' }
     - { class: 'iconfont icon-afdian-fill', link: 'https://afdian.net/@MouriNaruto', tip: '爱发电' }
-    #- { class: 'iconfont icon-wechat-fill', qrcode: '/img/favicon.png' } 
+    #- { class: 'iconfont icon-wechat-fill', qrcode: '/favicon.ico' } 
 
 
 #---------------------------
@@ -958,7 +958,7 @@ links:
   # Custom content at the bottom of the links
   custom:
     enable: false
-    content: '<hr><p>在下方留言申请加入我的友链，按如下格式提供信息：</p><ul><li>博客名：Fluid</li><li>简介：Fluid 主题官方博客</li><li>链接：https://hexo.fluid-dev.com</li><li>图片：https://hexo.fluid-dev.com/img/favicon.png</li></ul>'
+    content: '<hr><p>在下方留言申请加入我的友链，按如下格式提供信息：</p><ul><li>博客名：Fluid</li><li>简介：Fluid 主题官方博客</li><li>链接：https://hexo.fluid-dev.com</li><li>图片：https://hexo.fluid-dev.com/favicon.ico</li></ul>'
 
   # 评论插件
   # Comment plugin
