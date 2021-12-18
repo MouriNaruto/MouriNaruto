@@ -17,6 +17,9 @@ VC-LTL 是一套可以让开发者优雅的使用 Windows 内置的 C 运行时�
 作为 VC-LTL 的忠实用户，同时也希望让自己的 UWP 实现零额外依赖，于是试着在 UWP 项目中用了下 VC-LTL
 并意外的做成了这件事，遂写一篇文章记录下来供人参考。
 
+如果你不擅长中文，可以[点此](https://mourinaruto.github.io/en/2021/11/25/Use-VC-LTL-in-your-Cpp-WinRT-UWP-projects/)阅读英文版。
+(翻译: If you are not good at Chinese, you can click on the link in this paragraph to read the English version.)
+
 ## 添加 VC-LTL 到你的 UWP 项目
 
 由于现在 VC-LTL 也发布 NuGet 包，于是只需要在 Visual Studio 中项目右键的管理 NuGet 程序包中搜索 VC-LTL 安装即可。
