@@ -414,7 +414,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: /img/default.png
+  banner_img: /../img/background.png
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
@@ -486,7 +486,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/default.png
+  banner_img: /../img/background.png
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
@@ -760,7 +760,7 @@ twikoo:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/default.png
+  banner_img: /../img/background.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -772,7 +772,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /../img/background.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -802,7 +802,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /../img/background.png
   banner_img_height: 80
   banner_mask_alpha: 0.3
   subtitle:
@@ -820,11 +820,11 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /../img/background.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
-  avatar: /img/avatar.png
+  avatar: /../img/avatar.png
   name: Kenji Mouri
   intro: 'Software Developer' # 支持 HTML
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
@@ -846,7 +846,7 @@ about:
 # Custom Page through `hexo new page`
 #---------------------------
 page:
-  banner_img: /img/default.png
+  banner_img: /../img/background.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -857,7 +857,7 @@ page:
 #---------------------------
 page404:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /../img/background.png
   banner_img_height: 85
   banner_mask_alpha: 0.3
   subtitle: "Page not found"
@@ -869,7 +869,7 @@ page404:
 #---------------------------
 links:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /../img/background.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -951,7 +951,7 @@ links:
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
-  onerror_avatar: /img/avatar.png
+  onerror_avatar: /../img/avatar.png
 
   # 友链下方自定义区域，支持 HTML，可插入例如申请友链的文字
   # Custom content at the bottom of the links
