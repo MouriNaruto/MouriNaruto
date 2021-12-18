@@ -12,7 +12,7 @@ tags:
 
 本文总结如何通过 C# 使用系统还原。
 
-如果你不擅长中文，可以[点此](https://mourinaruto.github.io/en/2021/11/14/Using-System-Restore-via-CSharp/)阅读英文版
+如果你不擅长中文，可以[点此](https://mourinaruto.github.io/en/2021/11/14/Using-System-Restore-via-CSharp/)阅读英文版。
 (翻译: If you are not good at Chinese, you can click on the link in this paragraph to read the English version.)
 
 ## 使用 Win32 API 创建系统还原点
