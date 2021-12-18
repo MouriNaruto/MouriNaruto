@@ -16,9 +16,6 @@ tags:
 MSVC 工具链一般情况下使用 MSBuild 工具来生成解决方案和项目，为 MSBuild 开启并行则可以同时生成多个项目，
 为 MSVC 编译器开启并行则可以同时生成多个编译单元。
 
-
-Visual Studio 使用MSBuild.exe工具来生成解决方案和项目。 MSBuild.exe 工具的 /maxcpucount：number (或 /m：number) 命令行选项可以同时生成多个项目。 /MP 编译器选项可以同时生成多个编译单元。 如果它适用于你的应用程序，可以使用 /MP 和/或 /maxcpucount 缩短解决方案生成时间。
-
 ## 为 C/C++ 编译器开启并行
 
 为 C/C++ 编译器开启并行支持，使得 MSBuild 在编译单个目标的时候也能尽可能并行。开启方式有以下几种：
