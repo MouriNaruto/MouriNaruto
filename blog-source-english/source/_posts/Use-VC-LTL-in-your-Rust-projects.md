@@ -19,7 +19,7 @@ Read [here](https://mourinaruto.github.io/zh/2021/11/04/Use-VC-LTL-in-your-Rust-
 this article if you are not good at English. (Translation: 如果你不擅长英文，可以点击本段话中的链接阅读中文版)
 
 Since I have contributed the implementation of Rust language support to the VC-LTL 5.x source code repository recently,
-see https://github.com/Chuyu-Team/VC-LTL5/pull/11 for details.
+see [here](https://github.com/Chuyu-Team/VC-LTL5/pull/11) for details.
 
 So readers of this article can simply add the following to `[dependencies]` in the `Cargo.toml` file.
 

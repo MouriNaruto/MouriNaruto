@@ -18,7 +18,7 @@ VC-LTL 是一套可以让开发者优雅的使用 Windows 内置的 C 运行时�
 (翻译: If you are not good at Chinese, you can click on the link in this paragraph to read the English version.)
 
 由于笔者前段日子已在 VC-LTL 5.x 的源代码仓库中贡献了 Rust 语言支持的实现，
-详情可参见 https://github.com/Chuyu-Team/VC-LTL5/pull/11。
+详情内容[点此](https://github.com/Chuyu-Team/VC-LTL5/pull/11)阅读。
 
 于是看到本文的读者只需要在 `Cargo.toml` 文件内 `[dependencies]` 中加入以下内容即可达成目的。
 
