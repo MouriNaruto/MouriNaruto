@@ -12,6 +12,9 @@ tags:
 
 本文描述如何通过命令行和 Win32 API 启动一个商店应用。
 
+如果你不擅长中文，可以[点此](https://mourinaruto.github.io/en/2021/11/07/Launch-Windows-Store-App-via-Win32-API/)阅读英文版。
+(翻译: If you are not good at Chinese, you can click on the link in this paragraph to read the English version.)
+
 ## 获取 Windows 商店应用启动入口
 
 首先在 PowerShell 下粘贴以下命令获取你机器里可以使用 Windows 商店应用启动入口。
