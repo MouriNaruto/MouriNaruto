@@ -48,7 +48,7 @@ this article if you are not good at English. (Translation: 如果你不擅长英
 - System Restore
   - {% post_link The-usage-of-System-Restore %}
   - {% post_link Using-System-Restore-via-CSharp %}
-  - {% post_link Using-System-Restore-with-Cpp %}
+  - {% post_link Using-System-Restore-via-Cpp %}
   - {% post_link New-behavior-of-System-Restore-since-Windows-8 %}
 - Compact OS
   - {% post_link The-history-and-principle-of-Compact-OS %}
