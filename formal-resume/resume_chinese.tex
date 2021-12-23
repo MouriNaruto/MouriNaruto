@@ -20,6 +20,7 @@
 \basicInfo{
   \email{Mouri\_Naruto@Outlook.com} \textperiodcentered\
   \github[MouriNaruto]{https://github.com/MouriNaruto} 
+  \homepage{https://mourinaruto.github.io}
 }
 
 \section{教育经历}
@@ -29,11 +30,17 @@
 
 \section{工作经历}
 
-% \datedsubsection{\textbf{企鹅体育}}{2020.12 -- 现在}
-% \role {Windows 应用开发}{C++ 开发工程师}
-% \begin{itemize}
-%   \item 正在进行企鹅直播伴侣 2.0 的开发。
-% \end{itemize}
+\datedsubsection{\textbf{萌灵科技}}{2021.12 -- 现在}
+\role {Windows 应用开发}{技术顾问}
+\begin{itemize}
+  \item 开发 Windows 平台相关的基础设施。
+\end{itemize}
+
+\datedsubsection{\textbf{企鹅体育}}{2020.12 -- 现在}
+\role {Windows 应用开发}{C++ 开发工程师}
+\begin{itemize}
+  \item 开发企鹅直播伴侣 2.0。
+\end{itemize}
 
 \datedsubsection{\textbf{初雨团队}}{2014.07 -- 现在}
 \role {Windows 应用开发}{开发团队核心成员 (三人之一)}
@@ -41,48 +48,42 @@
   \item 协助开发 \href{http://www.chuyu.me/zh-Hans/index.html}{DISM++} 项目，引入 NCleaner 清理增强组件、映像热备份和多语言支持。
   \item 独立开发 \href{https://github.com/Chuyu-Team/MINT}{MINT} 项目，基于 PHNT 项目制作的 Windows 未文档化的用户模式 API 定义。
   \item 独立开发 \href{https://github.com/Chuyu-Team/libkcrt}{libkcrt} 项目，现代 MSVC 工具链下连接到 ntdll.dll 中 CRT 函数的解决方案。
-  \item 协助开发 \href{https://github.com/Chuyu-Team/VC-LTL}{VC-LTL} 的 Visual Studio 工具集成并引入 \href{https://github.com/Chuyu-Team/vc-ltl-samples}{VC-LTL 项目的使用示例}。
-  \item 协助整理 \href{https://github.com/Chuyu-Team/YY-Thunks}{YY-Thunks (鸭船)} 项目的使用文档。
+  \item 协助开发 \href{https://github.com/Chuyu-Team/VC-LTL5}{VC-LTL} 项目，引入 VC-LTL 的 Rust 语言支持。
 \end{itemize}
 
 \section{开源贡献}
 
 \datedsubsection{\textbf{NSudo}}{\url{https://github.com/M2Team/NSudo}}
-\role {项目作者}{系统管理员工具集}
-\begin{itemize}
-  \item \textbf{NSudo Launcher} 是一个在 Windows 下以特定权限和设置运行应用的解决方案。
-  \item \textbf{NSudo Devil Mode} 是一个为开发者提供在管理员权限下绕过 Windows 的文件和注册表的访问检查的解决方案。
-\end{itemize}
+为Windows用户提供的系统管理工具集 (角色：项目负责人)
+
+\datedsubsection{\textbf{NanaZip}}{\url{https://github.com/M2Team/NanaZip}}
+致力于现代 Windows 体验的文件归档工具 (角色：项目负责人)
 
 \datedsubsection{\textbf{Project Mile}}{\url{https://github.com/ProjectMile}}
-\role {项目作者}{毛利自用工具库}
-\begin{itemize}
-  \item \href{https://github.com/ProjectMile/Mile.Cpp}{\textbf{Mile.Cpp}} 是自用的 C++ 开发公共设施。
-  \item \href{https://github.com/ProjectMile/Mile.Uefi}{\textbf{Mile.Uefi}} 是一个基于 EDK II 裁剪的轻量级 UEFI SDK。
-  \item \href{https://github.com/ProjectMile/Mile.Websockify}{\textbf{Mile.Websockify}} 是一个简易的 Websockify 的 ASP.NET Core 中间件实现。
-\end{itemize}
+自用基础工具库 (角色：项目负责人)
 
 \datedsubsection{\textbf{LVGL}}{\url{https://github.com/lvgl}}
-\role {Windows 移植和模拟器项目维护者}{开源的现代风格的为嵌入式场景设计的界面库}
+具有现代风格的轻量级GUI库，适用于嵌入式应用场景 (角色：Windows 平台支持维护者)
 \begin{itemize}
-  \item \href{https://github.com/lvgl/lv_port_windows}{\textbf{lv\_port\_windows}} 即 Windows 移植版本，为桌面应用开发而设计。
-  \item \href{https://github.com/lvgl/lv_sim_visual_studio}{\textbf{lv\_sim\_visual\_studio}} 即 Windows 下的 Visual Studio 版模拟器。
+  \item 重构并增强\href{https://github.com/lvgl/lv_sim_visual_studio}{为 Visual Studio 设计的 Windows 模拟器 (lv\_sim\_visual\_studio)} 的实现。
+  \item 引入\href{https://github.com/lvgl/lv_port_windows}{为 Visual Studio 设计的 Windows 移植版本 (lv\_port\_windows)} 的实现。
+  \item 引入\href{https://github.com/lvgl/lv_drivers/pull/117}{新式 Windows 原生驱动 (win32drv)} and \href{https://github.com/lvgl/lvgl/pull/2701}{Windows 文件系统驱动 (lv\_fs\_win32)} 的实现。
 \end{itemize}
 
 \section{技能}
 \begin{itemize}
 
   \item \textbf{编程语言}:
-    \textbf{基本不受特定语言限制}，日常使用 C/C++、C\#、Python。
+    \textbf{基本不受特定语言限制}，日常使用 C/C++ 和 C\#。
 
   \item \textbf{Windows 平台开发}:
-    \textbf{6 年}开发经验，有使用 Windows SDK (Win32、COM、ATL、WTL、WRL、C++/CX、C++/WinRT) 开发实际项目的经验。
+    \textbf{7 年}开发经验，有使用 Windows SDK (Win32、COM、ATL、WTL、WRL、C++/CX、C++/WinRT) 开发实际项目的经验。
 
   \item \textbf{.NET 应用开发}:
-    \textbf{2 年}开发经验，有使用 WPF、WinForms、ASP.NET Core、Xamarin 开发实际项目的经验。
+    \textbf{3 年}开发经验，有使用 WPF、WinForms、ASP.NET Core、Xamarin 开发实际项目的经验。
   
   \item \textbf{Linux 应用开发}:
-    \textbf{2 年}开发经验，有使用 ROS (Kinetic、Melodic) 节点和 Qt 开发实际项目的经验。
+    \textbf{3 年}开发经验，有使用 ROS (Kinetic、Melodic) 节点和 Qt 开发实际项目的经验。
 
   \item \textbf{开发工具}:
     \textbf{能适应 Windows 和 Linux 下的主流开发环境}，平常在 Windows 下使用 Visual Studio、IDA Pro 和在 Linux 下使用 Clion 和 PyCharm。
@@ -96,13 +97,11 @@
 
   \item 致力于编写使用最少的语法特性和第三方库的紧凑实现。
 
-  \item 开源贡献：\href{https://github.com/pulls?q=is:pr+author:MouriNaruto}{https://github.com/pulls?q=is:pr+author:MouriNaruto} 向 OpenSSL、Windows File Manager、Covariant Script、FFmpegInteropX 等项目贡献过代码。
+  \item \href{https://github.com/search?q=is%3Apr+author%3AMouriNaruto&type=Issues}{开源贡献}：向 OpenSSL、Windows File Manager、Covariant Script、FFmpegInteropX 等项目贡献过代码。
   
   \item 在 My Digital Life Forums、远景论坛、吾爱破解论坛、看雪安全论坛以 Mouri\_Naruto 发表过精华或置顶帖。
   
   \item 渴望结识更多的可以进行技术交流的友人。
-
-  \item 我的中文博客：\href{https://mourinaruto.github.io}{https://mourinaruto.github.io}。
   
 \end{itemize}
 
