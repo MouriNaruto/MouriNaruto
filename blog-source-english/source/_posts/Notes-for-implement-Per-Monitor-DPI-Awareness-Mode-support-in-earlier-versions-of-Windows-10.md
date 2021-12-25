@@ -2,12 +2,12 @@
 title: Notes for implement Per-Monitor DPI Awareness Mode support in earlier versions of Windows 10
 date: 2021-11-05 11:05:02
 categories:
-- [技术, Windows, Windows 研究笔记, 用户模式]
+- [Technologies, Windows, Windows Research Notes, User Mode]
 tags:
-- 技术
+- Technologies
 - Windows
-- Windows 研究笔记
-- 用户模式
+- Windows Research Notes
+- User Mode
 ---
 
 This article is Chinese version only, read [here](https://mourinaruto.github.io/zh/2021/11/05/Notes-for-implement-Per-Monitor-DPI-Awareness-Mode-support-in-earlier-versions-of-Windows-10/)
