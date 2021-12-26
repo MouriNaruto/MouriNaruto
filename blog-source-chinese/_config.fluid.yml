@@ -309,7 +309,6 @@ navbar:
     - { key: 'category', link: '/categories/', icon: 'iconfont icon-category-fill' }
     - { key: 'tag', link: '/tags/', icon: 'iconfont icon-tags-fill' }
     - { key: 'English', link: 'https://mourinaruto.github.io/en/', icon: 'iconfont icon-book' }
-    - { key: 'Windows 研究笔记', link: '/2021/11/02/Windows-Research-Notes/', icon: 'iconfont icon-book' }
     - { key: 'about', link: '/about/', icon: 'iconfont icon-user-fill' }
     - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
 
