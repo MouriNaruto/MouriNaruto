@@ -64,15 +64,9 @@ Add the following to the end of the `Project` node to resolve the issue.
 It's a really disgusting issue for developers. But the Microsoft won't fix that. The discussion can be found 
 [here](https://developercommunity.visualstudio.com/t/1110232).
 
-```
-As you can imagine there is a reason that we do this and the primary concern is duplicate filenames as well as some
-issues with uploading to the store. As of now there is no override that we provide that will allow you to achieve this
-although there are some hacks you could do to make it possible but it is not advised.​
-
-
-Scoban [MSFT]  
-
-```
+> As you can imagine there is a reason that we do this and the primary concern is duplicate filenames as well as some
+  issues with uploading to the store. As of now there is no override that we provide that will allow you to achieve 
+  this although there are some hacks you could do to make it possible but it is not advised.​ (By Scoban [MSFT])
 
 The development team of Windows Terminal has made some hacking to MSBuild Windows Application Packaging project targets
 for achieving the goal. I am proud I can find it and solve the issue when I am developing NanaZip.
