@@ -881,73 +881,73 @@ links:
       title: "ChillMagic (魔王殿)",
       intro: "Chill Magic's Blog",
       link: 'https://chillmagic.github.io/',
-      image: '/img/links/chillmagic.ico'
+      image: '/../img/links/chillmagic.ico'
     }
     - {
       title: 'Dism++ 官方网站',
       intro: '全球第一款基于 CBS 的 Dism GUI 实现',
       link: 'http://www.chuyu.me/',
-      image: '/img/links/chuyu.png'
+      image: '/../img/links/chuyu.png'
     }
     - {
       title: "fcharlie (Force Charlie)",
       intro: "Charlie's Rethinking",
       link: 'https://forcemz.net/',
-      image: '/img/links/fcharlie.jpg'
+      image: '/../img/links/fcharlie.jpg'
     }
     - {
       title: "ice1000 (千里冰封)",
       intro: "Intermediate-Representation",
       link: 'https://ice1000.org/',
-      image: '/img/links/ice1000.ico'
+      image: '/../img/links/ice1000.ico'
     }
     - {
       title: "Krunk Zhou",
       intro: "KRUNK ZHOU BLOG",
       link: 'https://krunk.cn/',
-      image: '/img/links/krunk.png'
+      image: '/../img/links/krunk.png'
     }
     - {
       title: "Legna Brighost (莱娜信息)",
       intro: "莱娜信息(Legna),让一切更简单",
       link: 'https://www.brighost.com/',
-      image: '/img/links/brighost.png'
+      image: '/../img/links/brighost.png'
     }
     - {
       title: "lindexi (林德熙)",
       intro: "林德熙 - Windows 10 App Developer",
       link: 'https://blog.lindexi.com/',
-      image: '/img/links/lindexi.png'
+      image: '/../img/links/lindexi.png'
     }
     - {
       title: "migraine-sudo",
       intro: "Migraine殇",
       link: 'https://migraine-sudo.github.io/',
-      image: '/img/links/migraine-sudo.png'
+      image: '/../img/links/migraine-sudo.png'
     }
     - {
       title: "qcyblm (青春永不落幕)",
       intro: "青春永不落幕",
       link: 'https://qcyblm.github.io/',
-      image: '/img/links/qcyblm.ico'
+      image: '/../img/links/qcyblm.ico'
     }
     - {
       title: "SakuraNeko (落樱)",
       intro: "落樱缤纷",
       link: 'https://www.sakuraneko.tech/',
-      image: '/img/links/sakuraneko.png'
+      image: '/../img/links/sakuraneko.png'
     }
     - {
       title: "Strawing Lee",
       intro: "Strawing Blog",
       link: 'https://www.liyanfeng.com',
-      image: '/img/links/liyanfeng.png'
+      image: '/../img/links/liyanfeng.png'
     }   
     - {
       title: "walterlv (吕毅)",
       intro: "吕毅 - walterlv",
       link: 'https://blog.walterlv.com/',
-      image: '/img/links/walterlv.png'
+      image: '/../img/links/walterlv.png'
     }
 
   # 当成员头像加载失败时，替换为指定图片
