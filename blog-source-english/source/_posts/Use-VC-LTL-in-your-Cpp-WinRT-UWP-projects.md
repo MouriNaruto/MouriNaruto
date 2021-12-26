@@ -41,9 +41,8 @@ allow the MSBuild C++ build toolchain to be handled as a desktop application to 
 linking to the C runtime library for UWP projects by default.
 
 Then find the `PropertyGroup Label="Globals"` node in the `.vcxproj` configuration file for the UWP project we need to 
-hack and add `<UseCrtSDKReference>false</UseCrtSDKReference>` and add the following to the end of the `Project` node at
-the end of the `Project` node to resolve the issue of generated application manifest contains VCLibs dependencies by 
-default.
+hack and add `<UseCrtSDKReference>false</UseCrtSDKReference>` and add the following to the end of the `Project` node to
+resolve the issue of generated application manifest contains VCLibs dependencies by default.
 
 ```
   <!-- ## BEGIN HACK - Removing Microsoft.VCLibs Packages ## -->
