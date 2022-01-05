@@ -1,11 +1,10 @@
-SRC = $(wildcard *.tex)
+all: clean en zh
 
-PDFS = $(SRC:.tex=.pdf)
+en: resume_english.tex
+	latexmk -xelatex resume_english.tex
 
-all: clean resume
-
-resume: resume.tex
-	latexmk -xelatex -pdf resume.tex
+zh: resume_chinese.tex
+	latexmk -xelatex resume_chinese.tex
 
 ifeq ($(OS),Windows_NT)
   # on Windows
@@ -16,4 +15,4 @@ else
 endif
 
 clean:
-	$(RM) *.log *.aux *.bbl *.blg *.synctex.gz *.out *.toc *.lof *.idx *.ilg *.ind *.pdf *.cut
+	$(RM) *.log *.aux *.bbl *.blg *.synctex.gz *.out *.toc *.lof *.idx *.ilg *.ind *.pdf *.cut *.fdb_latexmk
