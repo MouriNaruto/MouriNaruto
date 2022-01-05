@@ -14,7 +14,7 @@ VC-LTL 是一套可以让开发者优雅的使用 Windows 内置的 C 运行时�
 可使你编写的二进制在 C 运行库方面仅依赖 Windows 内置的 `msvcrt.dll` 或 `ucrtbase.dll`，
 以达成无需额外部署 MSVC 运行库、解决 FLS 上限问题和大大缩减二进制体积的目标。
 
-如果你不擅长中文，可以[点此](https://mourinaruto.github.io/en/2021/11/04/Use-VC-LTL-in-your-Rust-projects/)阅读英文版。
+如果你不擅长中文，可以[点此](https://mouri.moe/en/2021/11/04/Use-VC-LTL-in-your-Rust-projects/)阅读英文版。
 (翻译: If you are not good at Chinese, you can click on the link in this paragraph to read the English version.)
 
 由于笔者前段日子已在 VC-LTL 5.x 的源代码仓库中贡献了 Rust 语言支持的实现，

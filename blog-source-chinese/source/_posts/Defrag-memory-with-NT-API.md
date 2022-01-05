@@ -20,7 +20,7 @@ tags:
 于是本文提出一种新的内存碎片整理方式，通过调用 NT API 通知内核主动将内存块移动到交换文件，于是整理速度非常快，
 而且对系统调度机制的影响也最小。
 
-如果你不擅长中文，可以[点此](https://mourinaruto.github.io/en/2021/11/14/Defrag-memory-with-NT-API/)阅读英文版。
+如果你不擅长中文，可以[点此](https://mouri.moe/en/2021/11/14/Defrag-memory-with-NT-API/)阅读英文版。
 (翻译: If you are not good at Chinese, you can click on the link in this paragraph to read the English version.)
 
 ## 灵感来源

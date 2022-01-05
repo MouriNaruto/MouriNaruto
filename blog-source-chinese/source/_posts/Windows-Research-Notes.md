@@ -37,7 +37,7 @@ https://github.com/MouriNaruto/MouriNaruto/issues 反馈。
 
 注：目录中无超链接的文章条目即我未来想写的内容。
 
-如果你不擅长中文，可以[点此](https://mourinaruto.github.io/en/2021/11/02/Windows-Research-Notes/)阅读英文版。
+如果你不擅长中文，可以[点此](https://mouri.moe/en/2021/11/02/Windows-Research-Notes/)阅读英文版。
 (翻译: If you are not good at Chinese, you can click on the link in this paragraph to read the English version.)
 
 ## 目录
