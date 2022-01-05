@@ -877,6 +877,18 @@ links:
   # Member item of page
   items:
     - {
+      title: "Akemi Homura",
+      intro: "Homura's Blog",
+      link: 'https://homura.live/',
+      image: '/../img/links/homura.svg'
+    }
+    - {
+      title: "akemimadoka (夏之幻想)",
+      intro: "兔之屋",
+      link: 'https://syaro.hotococoa.moe/wordpress/',
+      image: '/../img/links/akemimadoka.jpg'
+    }
+    - {
       title: "ChillMagic (魔王殿)",
       intro: "Chill Magic's Blog",
       link: 'https://chillmagic.github.io/',
