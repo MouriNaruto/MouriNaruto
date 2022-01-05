@@ -11,5 +11,5 @@ tags:
 - Beijing
 ---
 
-This article is Chinese version only, read [here](https://mourinaruto.github.io/zh/2020/12/18/from-beijing-to-cyberpunk-2077/)
+This article is Chinese version only, read [here](https://mouri.moe/zh/2020/12/18/from-beijing-to-cyberpunk-2077/)
 for the Chinese version and go back to the English blog via clicking the `English` button in the navigation bar.

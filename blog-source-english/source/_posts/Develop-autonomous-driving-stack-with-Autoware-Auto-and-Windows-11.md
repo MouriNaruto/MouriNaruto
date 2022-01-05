@@ -10,7 +10,7 @@ tags:
 - Development Environment
 ---
 
-This article is Chinese version only, read [here](https://mourinaruto.github.io/zh/2021/11/08/Develop-autonomous-driving-stack-with-Autoware-Auto-and-Windows-11/)
+This article is Chinese version only, read [here](https://mouri.moe/zh/2021/11/08/Develop-autonomous-driving-stack-with-Autoware-Auto-and-Windows-11/)
 for the Chinese version and go back to the English blog via clicking the `English` button in the navigation bar.
 
 ## See also

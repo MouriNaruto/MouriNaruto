@@ -10,7 +10,7 @@ tags:
 - Compact OS
 ---
 
-This article is Chinese version only, read [here](https://mourinaruto.github.io/zh/2021/11/06/The-exclusion-list-of-Compact-OS/)
+This article is Chinese version only, read [here](https://mouri.moe/zh/2021/11/06/The-exclusion-list-of-Compact-OS/)
 for the Chinese version and go back to the English blog via clicking the `English` button in the navigation bar.
 
 ## See also

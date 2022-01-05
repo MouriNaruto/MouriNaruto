@@ -18,7 +18,7 @@ and reducing the size of the binary significantly.
 As an enthusiastic user of VC-LTL and want to ensure that my UWP has no additional dependencies, I have attempted to 
 use VC-LTL in my UWP project and surprisingly made it work, so I decided to write an article about it for reference.
 
-Read [here](https://mourinaruto.github.io/zh/2021/11/25/Use-VC-LTL-in-your-Cpp-WinRT-UWP-projects/) for the Chinese version of 
+Read [here](https://mouri.moe/zh/2021/11/25/Use-VC-LTL-in-your-Cpp-WinRT-UWP-projects/) for the Chinese version of 
 this article if you are not good at English. (Translation: 如果你不擅长英文，可以点击本段话中的链接阅读中文版)
 
 ## Add VC-LTL to your UWP projects

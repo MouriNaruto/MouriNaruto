@@ -24,7 +24,7 @@ So, this article proposes a new way of memory defragmentation by calling the NT 
 memory blocks to the swap file automatically, so the process is very fast and has minimal impact on the scheduling 
 mechanism.
 
-Read [here](https://mourinaruto.github.io/zh/2021/11/14/Defrag-memory-with-NT-API/) for the Chinese version of 
+Read [here](https://mouri.moe/zh/2021/11/14/Defrag-memory-with-NT-API/) for the Chinese version of 
 this article if you are not good at English. (Translation: 如果你不擅长英文，可以点击本段话中的链接阅读中文版)
 
 ## Inspiration source

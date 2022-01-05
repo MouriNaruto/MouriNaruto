@@ -15,7 +15,7 @@ source code with the VC-LTL toolchain. After several hours of discussions, I mad
 --debug-and-release mode of Qt 6's configure.bat didn't work, and I was stuck because I don't use CMake very often.
 A few days later, my friend gave VC-LTL a PR to resolve the issue, so I summarized the approach in this article.
 
-Read [here](https://mourinaruto.github.io/zh/2021/11/23/Build-Qt-6-with-VC-LTL/) for the Chinese version of 
+Read [here](https://mouri.moe/zh/2021/11/23/Build-Qt-6-with-VC-LTL/) for the Chinese version of 
 this article if you are not good at English. (Translation: 如果你不擅长英文，可以点击本段话中的链接阅读中文版)
 
 This article assumes that you have already configured a basic environment for compiling Qt 6 source code, because the

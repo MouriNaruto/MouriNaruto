@@ -40,7 +40,7 @@ Note: This index will be updated as the content of this series is updated.
 
 Note: Article entries without hyperlinks in the table of contents are what I want to write about in the future.
 
-Read [here](https://mourinaruto.github.io/zh/2021/11/02/Windows-Research-Notes/) for the Chinese version of 
+Read [here](https://mouri.moe/zh/2021/11/02/Windows-Research-Notes/) for the Chinese version of 
 this article if you are not good at English. (Translation: 如果你不擅长英文，可以点击本段话中的链接阅读中文版)
 
 ## Table of contents

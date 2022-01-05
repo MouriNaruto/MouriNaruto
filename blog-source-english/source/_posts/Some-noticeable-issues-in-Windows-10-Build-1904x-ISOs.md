@@ -10,7 +10,7 @@ tags:
 - Development Environment
 ---
 
-This article is Chinese version only, read [here](https://mourinaruto.github.io/zh/2021/11/17/Some-noticeable-issues-in-Windows-10-Build-1904x-ISOs/)
+This article is Chinese version only, read [here](https://mouri.moe/zh/2021/11/17/Some-noticeable-issues-in-Windows-10-Build-1904x-ISOs/)
 for the Chinese version and go back to the English blog via clicking the `English` button in the navigation bar.
 
 ## See also
