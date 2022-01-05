@@ -10,8 +10,8 @@
   projects.
 + I am also the maintainer of [lv_sim_visual_studio] and [lv_port_windows].
 
-[blog]: https://mourinaruto.github.io/
-[resume]: https://mourinaruto.github.io/assets/resume/resume_english.pdf
+[blog]: https://mouri.moe/
+[resume]: https://mouri.moe/assets/resume/resume_english.pdf
 [NSudo]: https://m2team.github.io/NSudo
 [NanaZip]: https://github.com/M2Team/NanaZip
 [.NET/Linux]: https://github.com/dotnet-linux
