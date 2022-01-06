@@ -931,6 +931,12 @@ links:
       image: '/../img/links/lindexi.png'
     }
     - {
+      title: "Meow Cold (寒喵)",
+      intro: "喵呜噜",
+      link: 'https://moe.mwulu.com/',
+      image: '/../img/links/mwulu.png'
+    }
+    - {
       title: "migraine-sudo",
       intro: "Migraine殇",
       link: 'https://migraine-sudo.github.io/',
