@@ -17,7 +17,7 @@ library for the Windows.
 
 I think you will ask me some questions when you read that. Here is the answers of the possible questions.
 
-## What the benefit of having a merged dynamic library
+## The benefit of having a merged dynamic library
 
 - The merged dynamic library can reduce at least 2MB binary size. If we enable some third-party modules and merge them,
   we can reduce more space.
@@ -44,7 +44,7 @@ Also I switch to vcpkg for simplify the project, provide NuGet package and suppo
 - Use VC-LTL 5.x toolchain to make the binary size smaller.
 - Provide NuGet package.
 
-## How to usw
+## How to use
 
 You only need to search and add Mile.FFmpeg package in your NuGet client or download packages in GitHub Releases if you
 don't want to use NuGet package manager.
