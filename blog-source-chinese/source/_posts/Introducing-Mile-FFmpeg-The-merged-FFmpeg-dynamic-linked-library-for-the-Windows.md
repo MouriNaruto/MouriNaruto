@@ -17,15 +17,16 @@ FFmpeg 合并版动态链接库。
 
 我相信在阅读到这里的时候会问我一些问题，下述是可能的问题及其回答。
 
+如果你不擅长中文，可以[点此](https://mouri.moe/en/2022/01/26/Introducing-Mile-FFmpeg-The-merged-FFmpeg-dynamic-linked-library-for-the-Windows/)阅读英文版。
+(翻译: If you are not good at Chinese, you can click on the link in this paragraph to read the English version.)
+
 ## 合并版动态链接库的优势
 
-- The merged dynamic library can reduce at least 2MB binary size. If we enable some third-party modules and merge them,
-  we can reduce more space.
-- The merged dynamic library can keep the output binary file tree tidy, I will try to use FFmpegInteropX in my desktop 
-  application with MediaPlayerElement control via XAML Islands or Media Foundation directly. My app will support 
-  portable mode. Based on that, I will try to rewrite FFmpegInteropX with C++/WinRT because I can use some open source 
-  infrastructures make the binary only rely on ucrtbase.dll. I will try to provide my rewrite implementation to this 
-  project because I love creating or contributing to open source projects.
+- 合并后的动态库可以减少至少 2MB 的二进制大小。如果我们启用一些第三方模块并将其合并，我们可以减少更多的空间
+- 合并后的动态库可以保持输出二进制文件树的整洁，我将尝试在我的桌面应用程序中使用 FFmpegInteropX，通过 XAML Islands 和
+  Media Foundation 直接使用 MediaPlayerElement。我的应用程序将支持便携式模式。基于此，我将尝试用 C++/WinRT 重写 
+  FFmpegInteropX，因为我可以使用一些开源的基础设施，使二进制文件只依赖于 ucrtbase.dll。
+  我将尝试为这个项目提供我的重写实现，因为我喜欢创造或贡献给开源项目
 
 ## 为什么重制 FFmpegUniversal
 

@@ -17,12 +17,15 @@ library for the Windows.
 
 I think you will ask me some questions when you read that. Here is the answers of the possible questions.
 
+Read [here](https://mouri.moe/zh/2022/01/26/Introducing-Mile-FFmpeg-The-merged-FFmpeg-dynamic-linked-library-for-the-Windows/) for the Chinese version of 
+this article if you are not good at English. (Translation: 如果你不擅长英文，可以点击本段话中的链接阅读中文版)
+
 ## The benefit of having a merged dynamic library
 
 - The merged dynamic library can reduce at least 2MB binary size. If we enable some third-party modules and merge them,
   we can reduce more space.
 - The merged dynamic library can keep the output binary file tree tidy, I will try to use FFmpegInteropX in my desktop 
-  application with MediaPlayerElement control via XAML Islands or Media Foundation directly. My app will support 
+  application with MediaPlayerElement control via XAML Islands and Media Foundation directly. My app will support 
   portable mode. Based on that, I will try to rewrite FFmpegInteropX with C++/WinRT because I can use some open source 
   infrastructures make the binary only rely on ucrtbase.dll. I will try to provide my rewrite implementation to this 
   project because I love creating or contributing to open source projects.
