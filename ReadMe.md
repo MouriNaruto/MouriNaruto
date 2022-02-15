@@ -4,7 +4,7 @@
 + I have a [blog] and a [resume].
 + I am a [Microsoft MVP] and a [PCBeta moderator].
 + I love creating open-source projects and sometimes making contributions for
-  other's. I am also the creator of [NSudo], [NanaZip] and [.NET/Linux].
+  other's. I am also the creator of [NSudo], [NanaZip] and [MinCLR].
 + I am also one of the developers of [DISM++].
 + I am interested in writing the most compact implementations by using the 
   least syntaxes and third-party libraries.
@@ -18,7 +18,7 @@
 [PCBeta moderator]: https://i.pcbeta.com/home.php?mod=space&uid=3887572&do=profile
 [NSudo]: https://m2team.github.io/NSudo
 [NanaZip]: https://github.com/M2Team/NanaZip
-[.NET/Linux]: https://github.com/dotnet-linux
+[MinCLR]: https://github.com/M2Team/MinCLR
 [DISM++]: https://github.com/Chuyu-Team/Dism-Multi-language/releases/latest
 [Mile]: https://github.com/ProjectMile
 [lv_sim_visual_studio]: https://github.com/lvgl/lv_sim_visual_studio
