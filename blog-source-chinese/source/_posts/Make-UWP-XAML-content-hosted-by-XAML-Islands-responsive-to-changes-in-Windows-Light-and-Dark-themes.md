@@ -32,6 +32,10 @@ dark to light or vice versa at run time. Content does respond to high contrast c
 以后，如果修改继承了 `Windows.UI.Xaml.FrameworkElement` 的对象的 `RequestedTheme` 属性的值为 `Default`，则可以正常跟随
 系统的明暗主题配置。
 
+2022 年 5 月 7 日更新：经过实际测试，通过设置继承了 `Windows.UI.Xaml.FrameworkElement` 的对象的 `RequestedTheme` 属性的
+值为 `Default` 来切换明暗主题需要 Windows 11 及之后版本。Windows Terminal 如果指定跟随系统主题的话，也必须得 Windows 11
+及之后版本才支持动态跟随系统的明暗主题设置。
+
 当然，如果你要问运行时阶段什么情况下需要响应 Windows 的明暗主题变换呢，我个人是推荐在托管了 XAML Islands 内容的父窗口收
 到 `WM_SETTINGCHANGE` 消息后进行明暗主题的变更。虽然你也可以搞个 100 毫秒响应一次的定时器里面都设置一次相关内容，这也是
 Windows Terminal 的做法，然而我感觉还是太暴力了。
