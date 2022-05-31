@@ -889,6 +889,12 @@ links:
       image: '/../img/links/akemimadoka.jpg'
     }
     - {
+      title: "Atmosphere",
+      intro: "IN PURSUIT OF FREEDOM",
+      link: 'https://blog.awa.moe/',
+      image: '/../img/links/Atmosphere.png'
+    }
+    - {
       title: "ChillMagic (魔王殿)",
       intro: "Chill Magic's Blog",
       link: 'https://chillmagic.github.io/',
