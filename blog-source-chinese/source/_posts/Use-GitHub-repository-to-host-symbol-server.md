@@ -40,4 +40,4 @@ tags:
 
 ## 参考文献
 
-- [Using SymStore - Win32 apps | Microsoft Docs](https://docs.microsoft.com/en-us/windows/win32/debug/using-symstore)
+- [Using SymStore - Win32 apps | Microsoft Docs](https://docs.microsoft.com/en-us/windows/win32/debug/using-symstore?WT.mc_id=WDIT-MVP-5004706)

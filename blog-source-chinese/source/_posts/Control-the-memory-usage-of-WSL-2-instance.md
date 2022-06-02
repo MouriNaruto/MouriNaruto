@@ -41,7 +41,7 @@ memory=4GB
 
 ## 参考资料
 
-- [Global configuration options with .wslconfig](https://docs.microsoft.com/en-us/windows/wsl/wsl-config#global-configuration-options-with-wslconfig)
+- [Global configuration options with .wslconfig](https://docs.microsoft.com/en-us/windows/wsl/wsl-config#global-configuration-options-with-wslconfig?WT.mc_id=WDIT-MVP-5004706)
 
 ## 相关内容
 

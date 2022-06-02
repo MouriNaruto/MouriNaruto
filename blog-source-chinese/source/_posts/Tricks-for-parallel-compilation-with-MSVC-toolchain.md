@@ -21,7 +21,7 @@ MSVC 工具链一般情况下使用 MSBuild 工具来生成解决方案和项目
 为 C/C++ 编译器开启并行支持，使得 MSBuild 在编译单个目标的时候也能尽可能并行。开启方式有以下几种：
 
 - 在你想要修改的目标的编译器命令行选项中加入 `/MP` 参数。
-  可参阅：https://docs.microsoft.com/en-us/cpp/build/reference/mp-build-with-multiple-processes
+  可参阅：https://docs.microsoft.com/en-us/cpp/build/reference/mp-build-with-multiple-processes?WT.mc_id=WDIT-MVP-5004706
 - 在 Visual Studio 项目属性你想要修改的目标的 `C/C++` 的 `常规` 页中启用 `多处理器编译` 项。
   ![启用方式](EnableParallelForCompiler.png)
 - 打开 vcxproj 文件，在你想要修改的目标的 `ClCompile` 节点中加入 `MultiProcessorCompilation`

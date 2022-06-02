@@ -13,7 +13,8 @@ tags:
 
 When I was developing [NanaZip](https://github.com/M2Team/NanaZip), I plan to modernize the implementation of Self
 Extracting Executables. Because Self Extracting Executables need to support older version of Windows, I plan to use 
-[Task Dialog](https://docs.microsoft.com/en-us/windows/win32/controls/task-dialogs) to achieve the goal.
+[Task Dialog](https://docs.microsoft.com/en-us/windows/win32/controls/task-dialogs?WT.mc_id=WDIT-MVP-5004706) to 
+achieve the goal.
 
 But I also think that I can use the same way from [YY-Thunks](https://github.com/Chuyu-Team/YY-Thunks), to make a 
 wrapper for modernizing Win32 Message Box with Task Dialog for the existing Win32 apps without huge source code

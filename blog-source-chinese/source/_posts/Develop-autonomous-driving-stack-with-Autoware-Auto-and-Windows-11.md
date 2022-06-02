@@ -158,8 +158,8 @@ source install/setup.bash
 
 ## 参考资料
 
-- [The Windows Subsystem for Linux BUILD 2020 Summary](https://devblogs.microsoft.com/commandline/the-windows-subsystem-for-linux-build-2020-summary)
-- [Install WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
+- [The Windows Subsystem for Linux BUILD 2020 Summary](https://devblogs.microsoft.com/commandline/the-windows-subsystem-for-linux-build-2020-summary?WT.mc_id=WDIT-MVP-5004706)
+- [Install WSL](https://docs.microsoft.com/en-us/windows/wsl/install?WT.mc_id=WDIT-MVP-5004706)
 - [Installing ROS 2 via Debian Packages](https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html)
 - [Autoware.Auto - Installation w/o ADE](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/installation-no-ade.html)
 - [Autoware.Auto - Building](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/building.html)

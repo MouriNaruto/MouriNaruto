@@ -217,7 +217,7 @@ int main()
 
 ## 参考文献
 
-- [IApplicationActivationManager](https://docs.microsoft.com/en-us/windows/win32/api/shobjidl_core/nn-shobjidl_core-iapplicationactivationmanager)
+- [IApplicationActivationManager](https://docs.microsoft.com/en-us/windows/win32/api/shobjidl_core/nn-shobjidl_core-iapplicationactivationmanager?WT.mc_id=WDIT-MVP-5004706)
 
 ## 相关内容
 

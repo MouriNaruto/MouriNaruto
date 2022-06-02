@@ -108,13 +108,13 @@ vssadmin 1.1 - 卷影复制服务管理命令行工具
 由于我并不经常使用 PowerShell，于是仅提供相关用法的微软文档参考。
 
 - 创建还原点 (Checkpoint-Computer)
-  请参阅 https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/checkpoint-computer。
+  请参阅 https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/checkpoint-computer?WT.mc_id=WDIT-MVP-5004706。
 - 恢复到特定还原点 (Restore-Computer)
-  请参阅 https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/restore-computer。
+  请参阅 https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/restore-computer?WT.mc_id=WDIT-MVP-5004706。
 - 启用特定分区的系统还原 (Enable-ComputerRestore)
-  请参阅 https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/enable-computerrestore。
+  请参阅 https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/enable-computerrestore?WT.mc_id=WDIT-MVP-5004706。
 - 禁用特定分区的系统还原 (Disable-ComputerRestore)
-  请参阅 https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/disable-computerrestore。
+  请参阅 https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/disable-computerrestore?WT.mc_id=WDIT-MVP-5004706。
 
 ### 通过 mshta 调用 WMI 操作系统还原
 

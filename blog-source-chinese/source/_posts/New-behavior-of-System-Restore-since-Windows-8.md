@@ -56,7 +56,7 @@ Windows 8 之后的系统还原实现也没有任何与 Windows XP 或者 Window
 ## 参考资料
 
 - [Windows系统还原新探（Windows系统还原的较深入研究）](https://bbs.pcbeta.com/viewthread-1507617-1-1.html)
-- [Calling SRSetRestorePoint](https://docs.microsoft.com/en-us/windows/win32/sr/calling-srsetrestorepoint)
+- [Calling SRSetRestorePoint](https://docs.microsoft.com/en-us/windows/win32/sr/calling-srsetrestorepoint?WT.mc_id=WDIT-MVP-5004706)
 
 ## 相关内容
 

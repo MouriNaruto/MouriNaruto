@@ -111,7 +111,7 @@ Per-Monitor (V2) DPI Awareness 模式的效果以实现全 Windows 版本下在�
 ## 参考文献
 
 - [开启Win10的文件资源管理器的每显示器DPI缩放（Per-Monitor DPI Aware）支持](https://www.52pojie.cn/thread-506556-1-1.html)
-- [DPI Awareness Mode](https://docs.microsoft.com/en-us/windows/win32/hidpi/high-dpi-desktop-application-development-on-windows#dpi-awareness-mode)
+- [DPI Awareness Mode](https://docs.microsoft.com/en-us/windows/win32/hidpi/high-dpi-desktop-application-development-on-windows#dpi-awareness-mode?WT.mc_id=WDIT-MVP-5004706)
 
 ## 相关内容
 

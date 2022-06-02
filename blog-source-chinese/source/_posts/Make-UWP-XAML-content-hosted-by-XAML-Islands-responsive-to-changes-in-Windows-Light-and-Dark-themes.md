@@ -11,8 +11,8 @@ tags:
 - 体验
 ---
 
-在微软的 XAML Islands 的[官方文档](https://docs.microsoft.com/en-us/windows/apps/desktop/modernize/xaml-islands)中表明
-由 XAML Islands 托管的 UWP XAML 内容不支持响应 Windows 明暗主题的更改且没有变通方案，即文档中 `Limitations and 
+在微软的 XAML Islands 的[官方文档](https://docs.microsoft.com/en-us/windows/apps/desktop/modernize/xaml-islands?WT.mc_id=WDIT-MVP-5004706)
+中表明由 XAML Islands 托管的 UWP XAML 内容不支持响应 Windows 明暗主题的更改且没有变通方案，即文档中 `Limitations and 
 workarounds` 的 `Not supported` 描述的 `UWP XAML content in XAML Islands doesn't respond to Windows theme changes from 
 dark to light or vice versa at run time. Content does respond to high contrast changes at run time.`。
 

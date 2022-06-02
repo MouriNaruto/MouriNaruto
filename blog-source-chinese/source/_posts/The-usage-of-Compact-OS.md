@@ -287,12 +287,12 @@ Compact OS 还需要排除更多的文件。
 ## 参考文献
 
 - [浅谈Windows10的CompactOS特性](https://www.52pojie.cn/thread-528806-1-1.html)
-- [Compact OS](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/compact-os)
-- [compact.exe](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/compact)
-- [Wofapi.h](https://docs.microsoft.com/en-us/windows/win32/api/wofapi)
-- [FSCTL_SET_EXTERNAL_BACKING](https://docs.microsoft.com/en-us/windows-hardware/drivers/ifs/fsctl-set-external-backing)
-- [FSCTL_GET_EXTERNAL_BACKING](https://docs.microsoft.com/en-us/windows-hardware/drivers/ifs/fsctl-get-external-backing)
-- [FSCTL_DELETE_EXTERNAL_BACKING](https://docs.microsoft.com/en-us/windows-hardware/drivers/ifs/fsctl-delete-external-backing)
+- [Compact OS](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/compact-os?WT.mc_id=WDIT-MVP-5004706)
+- [compact.exe](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/compact?WT.mc_id=WDIT-MVP-5004706)
+- [Wofapi.h](https://docs.microsoft.com/en-us/windows/win32/api/wofapi?WT.mc_id=WDIT-MVP-5004706)
+- [FSCTL_SET_EXTERNAL_BACKING](https://docs.microsoft.com/en-us/windows-hardware/drivers/ifs/fsctl-set-external-backing?WT.mc_id=WDIT-MVP-5004706)
+- [FSCTL_GET_EXTERNAL_BACKING](https://docs.microsoft.com/en-us/windows-hardware/drivers/ifs/fsctl-get-external-backing?WT.mc_id=WDIT-MVP-5004706)
+- [FSCTL_DELETE_EXTERNAL_BACKING](https://docs.microsoft.com/en-us/windows-hardware/drivers/ifs/fsctl-delete-external-backing?WT.mc_id=WDIT-MVP-5004706)
 
 ## 相关内容
 
