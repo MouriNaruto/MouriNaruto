@@ -11,7 +11,8 @@ In recent days, I have known someone wants to boycotting 7-Zip. Most of people i
 are nonsense. I write the comment in https://www.theregister.com/AMP/2022/06/27/7zip_compression_tool and make the 
 backup in this article because I think it's necessary for me to show my position.
 
-```
+## The full text of my comment
+
 Hi, NanaZip author here.
 
 Actually, I am a faithful 7-Zip user since 2011 when I got the 7-Zip 9.20 installer binary, until I created NanaZip in
@@ -30,7 +31,6 @@ Based on these, I created NanaZip because I want to integrate some modern things
 XAML to modernize the user experience.)
 
 Kenji Mouri
-```
 
 ## Afterword
 
