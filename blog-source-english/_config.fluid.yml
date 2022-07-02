@@ -308,6 +308,7 @@ navbar:
     - { key: 'archive', link: '/archives/', icon: 'iconfont icon-archive-fill' }
     - { key: 'category', link: '/categories/', icon: 'iconfont icon-category-fill' }
     - { key: 'tag', link: '/tags/', icon: 'iconfont icon-tags-fill' }
+    - { key: 'Docs', link: 'https://docs.mouri.moe/en-US/', icon: 'iconfont icon-book' }
     - { key: '中文', link: 'https://mourinaruto.github.io/zh/', icon: 'iconfont icon-book' }
     - { key: 'about', link: '/about/', icon: 'iconfont icon-user-fill' }
     - { key: 'links', link: '/links/', icon: 'iconfont icon-link-fill' }
