@@ -19,4 +19,14 @@ But maybe you will ask me the reasons I created NanaBox, I will tell you in this
 
 ## Create a virtual machine software for personal use
 
+Because the recent version of VMware Workstation has several issues which are not fixed after waiting at least half a
+year. So, I think I should make a virtualization solution for myself, and it will be easier for me to do something I 
+want because its implementation is controlled.
+
 ## Developing projects based on Hyper-V
+
+Because Host Compute System API is only support Hyper-V Gen 2 Virtual Machine which is a typical UEFI Class 3 platform.
+I can use it for designing, developing. debugging and test some UEFI applications.
+
+Also, Hyper-V is a typical paravirtualization solution which can use in large scale production environments. So I can
+discover some ultra-lightweight solutions which can utilize the paravirtualization.
