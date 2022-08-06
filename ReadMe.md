@@ -5,18 +5,13 @@
 + I am a [Microsoft MVP] and a [PCBeta moderator].
 + I love creating open-source projects and sometimes making contributions for
   other's.
-+ I am also one of the developers of [DISM++].
 + I am interested in writing the most compact implementations by using the 
   least syntaxes and third-party libraries.
-+ [Mile] is a series of utility infrastructures made by me for developing 
-  projects.
 
 [blog]: https://mouri.moe/
 [resume]: https://mouri.moe/assets/resume/resume_english.pdf
 [Microsoft MVP]: https://mvp.microsoft.com/en-us/PublicProfile/5004706?fullName=Kenji%20Mouri
 [PCBeta moderator]: https://i.pcbeta.com/home.php?mod=space&uid=3887572&do=profile
-[DISM++]: https://github.com/Chuyu-Team/Dism-Multi-language/releases/latest
-[Mile]: https://github.com/ProjectMile
 
 ## Projects
 
@@ -36,6 +31,23 @@
 ### Min Series (Author)
 
 - [MinCLR](https://github.com/M2Team/MinCLR)
+
+### Mile Series (Author)
+
+- [Mile.Cpp](https://github.com/ProjectMile/Mile.Cpp)
+- [Mile.Xaml](https://github.com/ProjectMile/Mile.Xaml)
+- [Mile.Uefi](https://github.com/ProjectMile/Mile.Uefi)
+- [Mile.FFmpeg](https://github.com/ProjectMile/Mile.FFmpeg)
+- [Mile.Milk](https://github.com/ProjectMile/Mile.Milk)
+
+## Chuyu Series (Co-author)
+
+- [DISM++](https://github.com/Chuyu-Team/Dism-Multi-language/releases/latest)
+
+## Chuyu Series (Author)
+
+- [MINT](https://github.com/Chuyu-Team/MINT)
+- [libkcrt](https://github.com/Chuyu-Team/libkcrt)
 
 ## LVGL (Maintainer)
 
