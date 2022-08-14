@@ -1,12 +1,8 @@
 ﻿Hi there, I go by Kenji Mouri. Typical usernames include `Mouri_Naruto` or
-`Mouri`.
-
-+ I have a [blog] and a [resume].
-+ I am a [Microsoft MVP] and a [PCBeta moderator].
-+ I love creating open-source projects and sometimes making contributions for
-  other's.
-+ I am interested in writing the most compact implementations by using the 
-  least syntaxes and third-party libraries.
+`Mouri`, interested in writing the most compact implementations by using
+the least syntaxes and third-party libraries, and love creating open-source
+projects and sometimes making contributions for other's. I am also a 
+[Microsoft MVP] and a [PCBeta moderator]. Here is my [blog] and [resume].
 
 [blog]: https://mouri.moe/
 [resume]: https://mouri.moe/assets/resume/resume_english.pdf
