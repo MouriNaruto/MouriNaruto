@@ -15,41 +15,36 @@
 
 ## Projects
 
-### Nana Series (Author)
+- Nana Series (Author): [NanaZip], [NanaBox], [NanaGet], [NanaRun]
+- N Series (Author): [NSudo], [NWSRMgr], [Nagisa] (Superseded by NanaGet)
+- Min Series (Author): [MinCLR]
+- Mile Series (Author): [Mile.Cpp], [Mile.Xaml], [Mile.Uefi], [Mile.FFmpeg], 
+  [Mile.Milk]
+- Chuyu Series (Co-author): [DISM++]
+- Chuyu Series (Author): [MINT], [libkcrt]
+- LVGL (Maintainer): [lv_port_win_visual_studio], [lv_port_windows]
 
-- [NanaZip](https://github.com/M2Team/NanaZip)
-- [NanaBox](https://github.com/M2Team/NanaBox)
-- [NanaGet](https://github.com/M2Team/NanaGet)
-- [NanaRun](https://github.com/M2Team/NanaRun)
+[NanaZip]: https://github.com/M2Team/NanaZip
+[NanaBox]: https://github.com/M2Team/NanaBox
+[NanaGet]: https://github.com/M2Team/NanaGet
+[NanaRun]: https://github.com/M2Team/NanaRun
 
-### N Series (Author)
+[NSudo]: https://github.com/M2Team/NSudo
+[NWSRMgr]: https://github.com/M2Team/NWSRMgr
+[Nagisa]: https://github.com/M2TeamArchived/Nagisa
 
-- [NSudo](https://github.com/M2Team/NSudo)
-- [NWSRMgr](https://github.com/M2Team/NWSRMgr)
-- [Nagisa (Superseded by NanaGet)](https://github.com/M2TeamArchived/Nagisa)
+[MinCLR]: https://github.com/M2Team/MinCLR
 
-### Min Series (Author)
+[Mile.Cpp]: https://github.com/ProjectMile/Mile.Cpp
+[Mile.Xaml]: https://github.com/ProjectMile/Mile.Xaml
+[Mile.Uefi]: https://github.com/ProjectMile/Mile.Uefi
+[Mile.FFmpeg]: https://github.com/ProjectMile/Mile.FFmpeg
+[Mile.Milk]: https://github.com/ProjectMile/Mile.Milk
 
-- [MinCLR](https://github.com/M2Team/MinCLR)
+[DISM++]: https://github.com/Chuyu-Team/Dism-Multi-language/releases/latest
 
-### Mile Series (Author)
+[MINT]: https://github.com/Chuyu-Team/MINT
+[libkcrt]: https://github.com/Chuyu-Team/libkcrt
 
-- [Mile.Cpp](https://github.com/ProjectMile/Mile.Cpp)
-- [Mile.Xaml](https://github.com/ProjectMile/Mile.Xaml)
-- [Mile.Uefi](https://github.com/ProjectMile/Mile.Uefi)
-- [Mile.FFmpeg](https://github.com/ProjectMile/Mile.FFmpeg)
-- [Mile.Milk](https://github.com/ProjectMile/Mile.Milk)
-
-## Chuyu Series (Co-author)
-
-- [DISM++](https://github.com/Chuyu-Team/Dism-Multi-language/releases/latest)
-
-## Chuyu Series (Author)
-
-- [MINT](https://github.com/Chuyu-Team/MINT)
-- [libkcrt](https://github.com/Chuyu-Team/libkcrt)
-
-## LVGL (Maintainer)
-
-- [lv_port_win_visual_studio](https://github.com/lvgl/lv_port_win_visual_studio)
-- [lv_port_windows](https://github.com/lvgl/lv_port_windows)
+[lv_port_win_visual_studio]: https://github.com/lvgl/lv_port_win_visual_studio
+[lv_port_windows]: https://github.com/lvgl/lv_port_windows
