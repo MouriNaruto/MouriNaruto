@@ -14,8 +14,7 @@ projects and sometimes making contributions for other's. I am also a
 - Nana Series (Author): [NanaZip], [NanaBox], [NanaGet], [NanaRun]
 - N Series (Author): [NSudo], [NWSRMgr], [Nagisa] (Superseded by NanaGet)
 - Min Series (Author): [MinCLR]
-- Mile Series (Author): [Mile.Cpp], [Mile.Xaml], [Mile.Uefi], [Mile.FFmpeg], 
-  [Mile.Milk]
+- Mile Series (Author): [Mile.Cpp], [Mile.Xaml], [Mile.Uefi], [Mile.FFmpeg]
 - Chuyu Series (Co-author): [DISM++]
 - Chuyu Series (Author): [MINT], [libkcrt]
 - LVGL (Maintainer): [lv_port_win_visual_studio], [lv_port_windows]
@@ -35,7 +34,6 @@ projects and sometimes making contributions for other's. I am also a
 [Mile.Xaml]: https://github.com/ProjectMile/Mile.Xaml
 [Mile.Uefi]: https://github.com/ProjectMile/Mile.Uefi
 [Mile.FFmpeg]: https://github.com/ProjectMile/Mile.FFmpeg
-[Mile.Milk]: https://github.com/ProjectMile/Mile.Milk
 
 [DISM++]: https://github.com/Chuyu-Team/Dism-Multi-language/releases/latest
 
