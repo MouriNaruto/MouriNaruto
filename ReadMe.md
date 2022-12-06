@@ -14,8 +14,9 @@ projects and sometimes making contributions for other's. I am also a
 - Nana Series (Author): [NanaZip], [NanaBox], [NanaGet], [NanaRun]
 - N Series (Author): [NSudo], [NWSRMgr], [Nagisa] (Superseded by NanaGet)
 - Min Series (Author): [MinCLR]
-- Mile Series (Author): [Mile.Cpp], [Mile.Xaml], [Mile.Uefi], [Mile.FFmpeg]
-- Chuyu Series (Co-author): [DISM++]
+- Mile Series (Author): [Mile.Windows.Helpers], [Mile.Xaml], [Mile.Uefi],
+  [Mile.Cpp], [Mile.FFmpeg]
+- Chuyu Series (Co-author): [DISM++], [VC-LTL]
 - Chuyu Series (Author): [MINT], [libkcrt]
 - LVGL (Maintainer): [lv_port_win_visual_studio], [lv_port_windows]
 
@@ -30,12 +31,14 @@ projects and sometimes making contributions for other's. I am also a
 
 [MinCLR]: https://github.com/M2Team/MinCLR
 
-[Mile.Cpp]: https://github.com/ProjectMile/Mile.Cpp
+[Mile.Windows.Helpers]: https://github.com/ProjectMile/Mile.Windows.Helpers
 [Mile.Xaml]: https://github.com/ProjectMile/Mile.Xaml
 [Mile.Uefi]: https://github.com/ProjectMile/Mile.Uefi
+[Mile.Cpp]: https://github.com/ProjectMile/Mile.Cpp
 [Mile.FFmpeg]: https://github.com/ProjectMile/Mile.FFmpeg
 
 [DISM++]: https://github.com/Chuyu-Team/Dism-Multi-language/releases/latest
+[VC-LTL]: https://github.com/Chuyu-Team/VC-LTL5
 
 [MINT]: https://github.com/Chuyu-Team/MINT
 [libkcrt]: https://github.com/Chuyu-Team/libkcrt
