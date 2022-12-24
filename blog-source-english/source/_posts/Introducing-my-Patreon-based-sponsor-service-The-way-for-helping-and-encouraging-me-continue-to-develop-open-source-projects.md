@@ -34,10 +34,10 @@ The first release of Shadow Maiden, or 1.0 (Build 2) and it's now available.
 
 ### Customized Projects Available ($3000 per month)
 
-Important Note: I know this level is really expensive, I set that because I
-need to set a price which is higher than my monthly salary which can make me
-help you without any worries. If you really want to choose this level, please
-contact me immediately via e-mail first before sponsoring.
+Important Note: I know this level is really expensive, I set that because I am 
+busy and I need to set a price which is higher than my monthly salary which can
+make me help you without any worries. If you really want to choose this level,
+please contact me immediately via e-mail first before sponsoring.
 
 I can customize and develop projects exclusive for you if you choose this. If
 you are a company, sincerely I hope we can set up a long-term cooperation 
