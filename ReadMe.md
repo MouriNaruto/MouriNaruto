@@ -12,10 +12,11 @@ projects and sometimes making contributions for other's. I am also a
 ## Projects
 
 - Nana Series (Author): [NanaZip], [NanaBox], [NanaGet], [NanaRun]
-- N Series (Author): [NSudo], [NWSRMgr], [Nagisa] (Superseded by NanaGet)
+- N Series (Author): [NSudo] (Superseded by NanaRun), [NWSRMgr], [Nagisa]
+  (Superseded by NanaGet)
 - Min Series (Author): [MinCLR]
-- Mile Series (Author): [Mile.Windows.Helpers], [Mile.Xaml], [Mile.Uefi],
-  [Mile.Cpp], [Mile.FFmpeg]
+- Mile Series (Author): [Mile.Windows.Helpers], [Mile.Xaml], [Mile.Qt],
+  [Mile.Uefi], [Mile.Cpp], [Mile.FFmpeg]
 - Chuyu Series (Co-author): [DISM++], [VC-LTL]
 - Chuyu Series (Author): [MINT], [libkcrt]
 - LVGL (Maintainer): [lv_port_win_visual_studio], [lv_port_windows]
@@ -33,6 +34,7 @@ projects and sometimes making contributions for other's. I am also a
 
 [Mile.Windows.Helpers]: https://github.com/ProjectMile/Mile.Windows.Helpers
 [Mile.Xaml]: https://github.com/ProjectMile/Mile.Xaml
+[Mile.Qt]: https://github.com/ProjectMile/Mile.Qt
 [Mile.Uefi]: https://github.com/ProjectMile/Mile.Uefi
 [Mile.Cpp]: https://github.com/ProjectMile/Mile.Cpp
 [Mile.FFmpeg]: https://github.com/ProjectMile/Mile.FFmpeg
