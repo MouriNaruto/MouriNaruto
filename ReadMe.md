@@ -75,3 +75,8 @@ There are three levels which can be chosen in my Patreon page.
   salary which can make me help you without any worries. **If you really want
   to choose this level, please contact me immediately via e-mail first before
   sponsoring.**) 
+
+Note: If you don't want to use Patreon, I also provide the alternative option
+based on PayPal, maybe it's a suitable way.
+
+Here is my PayPal.me page: https://paypal.me/MouriNaruto
