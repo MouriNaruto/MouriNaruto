@@ -43,6 +43,13 @@ I can customize and develop projects exclusive for you if you choose this. If
 you are a company, sincerely I hope we can set up a long-term cooperation 
 relationship in the future.
 
+## Alternative option for sponsoring me
+
+Note: If you don't want to use Patreon, I also provide the alternative option
+based on PayPal, maybe it's a suitable way.
+
+Here is my PayPal.me page: https://paypal.me/MouriNaruto
+
 ## Afterwards
 
 I really hope I can find a sustainable way to keep my passion for maintaining
