@@ -12,8 +12,8 @@ projects and sometimes making contributions for other's. I am also a
 ## Projects
 
 - Nana Series (Author): [NanaZip], [NanaBox], [NanaGet], [NanaRun]
-- N Series (Author): [NSudo] (Superseded by NanaRun), [NWSRMgr], [Nagisa]
-  (Superseded by NanaGet)
+- N Series (Author): [NSudo] (Superseded by NanaRun), [NWSRMgr] (Deprecated),
+  [Nagisa] (Superseded by NanaGet)
 - Min Series (Author): [MinCLR]
 - Mile Series (Author): [Mile.Windows.Helpers], [Mile.Xaml], [Mile.Qt],
   [Mile.Uefi], [Mile.Cpp], [Mile.FFmpeg]
@@ -26,8 +26,8 @@ projects and sometimes making contributions for other's. I am also a
 [NanaGet]: https://github.com/M2Team/NanaGet
 [NanaRun]: https://github.com/M2Team/NanaRun
 
-[NSudo]: https://github.com/M2Team/NSudo
-[NWSRMgr]: https://github.com/M2Team/NWSRMgr
+[NSudo]: https://github.com/M2TeamArchived/NSudo
+[NWSRMgr]: https://github.com/M2TeamArchived/NWSRMgr
 [Nagisa]: https://github.com/M2TeamArchived/Nagisa
 
 [MinCLR]: https://github.com/M2Team/MinCLR
