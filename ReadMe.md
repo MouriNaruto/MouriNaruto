@@ -15,8 +15,8 @@ projects and sometimes making contributions for other's. I am also a
 - N Series (Author): [NSudo] (Superseded by NanaRun), [NWSRMgr] (Deprecated),
   [Nagisa] (Superseded by NanaGet)
 - Min Series (Author): [MinCLR]
-- Mile Series (Author): [Mile.Windows.Helpers], [Mile.Xaml], [Mile.Qt],
-  [Mile.Uefi], [Mile.Cpp], [Mile.FFmpeg]
+- Mile Series (Author): [Mile.Project.Windows], [Mile.Windows.Helpers],
+  [Mile.Xaml], [Mile.Qt], [Mile.Uefi], [Mile.Cpp], [Mile.FFmpeg]
 - Chuyu Series (Co-author): [DISM++], [VC-LTL]
 - Chuyu Series (Author): [MINT], [libkcrt]
 - LVGL (Maintainer): [lv_port_win_visual_studio], [lv_port_windows]
@@ -32,6 +32,7 @@ projects and sometimes making contributions for other's. I am also a
 
 [MinCLR]: https://github.com/M2Team/MinCLR
 
+[Mile.Project.Windows]: https://github.com/ProjectMile/Mile.Project.Windows
 [Mile.Windows.Helpers]: https://github.com/ProjectMile/Mile.Windows.Helpers
 [Mile.Xaml]: https://github.com/ProjectMile/Mile.Xaml
 [Mile.Qt]: https://github.com/ProjectMile/Mile.Qt
