@@ -19,7 +19,8 @@ projects and sometimes making contributions for other's. I am also a
   [Mile.Xaml], [Mile.Qt], [Mile.Uefi], [Mile.Cpp], [Mile.FFmpeg]
 - Chuyu Series (Co-author): [DISM++], [VC-LTL]
 - Chuyu Series (Author): [MINT], [libkcrt]
-- LVGL (Maintainer): [lv_port_win_visual_studio], [lv_port_windows]
+- LVGL (Maintainer): [lv_port_pc_visual_studio],
+  [lv_port_windows] (Superseded by lv_port_pc_visual_studio)
 
 [NanaZip]: https://github.com/M2Team/NanaZip
 [NanaBox]: https://github.com/M2Team/NanaBox
@@ -46,7 +47,7 @@ projects and sometimes making contributions for other's. I am also a
 [MINT]: https://github.com/Chuyu-Team/MINT
 [libkcrt]: https://github.com/Chuyu-Team/libkcrt
 
-[lv_port_win_visual_studio]: https://github.com/lvgl/lv_port_win_visual_studio
+[lv_port_pc_visual_studio]: https://github.com/lvgl/lv_port_pc_visual_studio
 [lv_port_windows]: https://github.com/lvgl/lv_port_windows
 
 ## Sponsor Service
