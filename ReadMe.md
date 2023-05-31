@@ -54,10 +54,11 @@ projects and sometimes making contributions for other's. I am also a
 
 Since maintaining open-source projects only for love is not sustainable, I hope
 to find a way to keep my passion for maintaining open-source projects. So, I am
-proud to introduce my Patreon-based sponsor service, I think it is a good way 
+proud to introduce my Patreon and afdian based sponsor service, I think it is a good way 
 to achieve this goal.
 
-Here is my Patreon page: https://www.patreon.com/MouriNaruto
+- Patreon page: https://www.patreon.com/MouriNaruto
+- afdian page: https://afdian.net/a/MouriNaruto
 
 There are three levels which can be chosen in my Patreon page.
 
