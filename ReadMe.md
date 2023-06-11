@@ -1,8 +1,16 @@
-﻿Hi there, I go by Kenji Mouri. Typical usernames include *Mouri_Naruto* or
-*Mouri*, interested in writing the most compact implementations by using
-the least syntaxes and third-party libraries, and love creating open-source
-projects and sometimes making contributions for other's. I am also a 
-[Microsoft MVP] and a [PCBeta moderator]. Here is my [blog] and [resume].
+﻿Hi there,
+
+Due to I have two identities because I have planned dual personas when I created
+my current GitHub ID called *MouriNaruto* in 2012: Kenji Mouri (毛利研二) for
+he/his identity and Kuriko Mou (毛栗子) for she/her identity. You can choose the
+mode you think is OK.
+
+*MouriNaruto*, *Mouri_Naruto* and *Mouri* are my typical usernames.
+
+I am interested in writing the most compact implementations by using the least
+syntaxes and third-party libraries, and love creating open-source projects and
+sometimes making contributions for other's. I am also a [Microsoft MVP] and a
+[PCBeta moderator]. Here is my [blog] and [resume].
 
 [blog]: https://mouri.moe/
 [resume]: https://mouri.moe/assets/resume/resume_english.pdf
@@ -16,7 +24,7 @@ projects and sometimes making contributions for other's. I am also a
   [Nagisa] (Superseded by NanaGet)
 - Min Series (Author): [MinCLR]
 - Mile Series (Author): [Mile.Project.Windows], [Mile.Windows.Helpers],
-  [Mile.Xaml], [Mile.Qt], [Mile.Uefi], [Mile.Cpp], [Mile.FFmpeg]
+  [Mile.Xaml], [Mile.Qt], [Mile.Aria2], [Mile.Uefi], [Mile.Cpp], [Mile.FFmpeg]
 - Chuyu Series (Co-author): [DISM++], [VC-LTL]
 - Chuyu Series (Author): [MINT], [libkcrt]
 - LVGL (Maintainer): [lv_port_pc_visual_studio],
@@ -37,6 +45,7 @@ projects and sometimes making contributions for other's. I am also a
 [Mile.Windows.Helpers]: https://github.com/ProjectMile/Mile.Windows.Helpers
 [Mile.Xaml]: https://github.com/ProjectMile/Mile.Xaml
 [Mile.Qt]: https://github.com/ProjectMile/Mile.Qt
+[Mile.Aria2]: https://github.com/ProjectMile/Mile.Aria2
 [Mile.Uefi]: https://github.com/ProjectMile/Mile.Uefi
 [Mile.Cpp]: https://github.com/ProjectMile/Mile.Cpp
 [Mile.FFmpeg]: https://github.com/ProjectMile/Mile.FFmpeg
