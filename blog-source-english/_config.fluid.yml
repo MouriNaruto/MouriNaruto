@@ -831,7 +831,7 @@ about:
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
   icons:
-    - { class: 'iconfont icon-mail', link: 'mailto:Mouri_Naruto@Outlook.com', tip: 'E-mail' }
+    - { class: 'iconfont icon-mail', link: 'mailto:KurikoMouri@outlook.jp', tip: 'E-mail' }
     - { class: 'iconfont icon-github-fill', link: 'https://github.com/MouriNaruto', tip: 'GitHub' }
     - { class: 'iconfont icon-zhihu-fill', link: 'https://www.zhihu.com/people/MouriNaruto', tip: 'Zhihu' }
     - { class: 'iconfont icon-bilibili', link: 'https://space.bilibili.com/2957331', tip: 'BiliBili' }
