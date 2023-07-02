@@ -10,12 +10,15 @@ mode you think is OK.
 I am interested in writing the most compact implementations by using the least
 syntaxes and third-party libraries, and love creating open-source projects and
 sometimes making contributions for other's. I am also a [Microsoft MVP] and a
-[PCBeta moderator]. Here is my [blog] and [resume].
+[PCBeta moderator]. Here is my [blog], [resume], [technical speeches] and 
+[technical documentations].
 
 [blog]: https://mouri.moe/
 [resume]: https://mouri.moe/assets/resume/resume_english.pdf
 [Microsoft MVP]: https://mvp.microsoft.com/en-us/PublicProfile/5004706?fullName=Kenji%20Mouri
 [PCBeta moderator]: https://i.pcbeta.com/home.php?mod=space&uid=3887572&do=profile
+[technical speeches]: https://github.com/MouriNaruto/Presentations
+[technical documentations]: https://github.com/MouriNaruto/MouriDocs
 
 ## Projects
 
