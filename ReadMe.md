@@ -4,9 +4,9 @@ You can call me Kenji Mouri (毛利研二) or Mouri (毛利) in most cases.
 
 You also can call me Kuriko Mou (毛栗子) when I'm in VTuber or Otokonoko mode.
 
-My real name is Qi Lu (卢起), but this identity is deprecated in most cases for
-reducing the Post-traumatic stress disorder (PTSD) cases. I will ignore it in
-most cases if you use this.
+You shouldn't call me Qi Lu (卢起) even this is my real name, but this identity
+is deprecated in most cases for reducing my post-traumatic stress disorder
+(PTSD) cases. I will ignore it in most cases if you use this.
 
 *MouriNaruto*, *Mouri_Naruto* and *Mouri* are my typical usernames.
 
@@ -69,11 +69,11 @@ sometimes making contributions for other's. I am also a [Microsoft MVP] and a
 
 Since maintaining open-source projects only for love is not sustainable, I hope
 to find a way to keep my passion for maintaining open-source projects. So, I am
-proud to introduce my Patreon and afdian based sponsor service, I think it is a good way 
-to achieve this goal.
+proud to introduce my Patreon and Afdian (爱发电) based sponsor service, I think
+it is a good way to achieve this goal.
 
 - Patreon page: https://www.patreon.com/MouriNaruto
-- afdian page: https://afdian.net/a/MouriNaruto
+- Afdian (爱发电) page: https://afdian.net/a/MouriNaruto
 
 Note: If you don't want to use Patreon, I also provide the alternative option
 based on PayPal, maybe it's a suitable way.
