@@ -28,6 +28,7 @@ sometimes making contributions for other's. I am also a [Microsoft MVP] and a
 - Min Series (Author): [MinCLR]
 - Mile Series (Author): [Mile.Project.Windows], [Mile.Windows.Helpers],
   [Mile.Xaml], [Mile.Qt], [Mile.Aria2], [Mile.Uefi], [Mile.Cpp], [Mile.FFmpeg]
+- ChaosAI Series (Co-author): [RaySoul]
 - Chuyu Series (Co-author): [DISM++], [VC-LTL]
 - Chuyu Series (Author): [MINT], [libkcrt]
 - LVGL (Maintainer): [lv_port_pc_visual_studio]
@@ -47,6 +48,8 @@ sometimes making contributions for other's. I am also a [Microsoft MVP] and a
 [Mile.Uefi]: https://github.com/ProjectMile/Mile.Uefi
 [Mile.Cpp]: https://github.com/ProjectMile/Mile.Cpp
 [Mile.FFmpeg]: https://github.com/ProjectMile/Mile.FFmpeg
+
+[RaySoul]: https://github.com/ChaosAIOfficial/RaySoul
 
 [DISM++]: https://github.com/Chuyu-Team/Dism-Multi-language/releases/latest
 [VC-LTL]: https://github.com/Chuyu-Team/VC-LTL5
