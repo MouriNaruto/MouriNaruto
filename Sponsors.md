@@ -10,14 +10,15 @@ For the detailed list, please read https://afdian.net/a/MouriNaruto?tab=sponsor.
 I will only show the readable custom names in this list.
 
 - Haku
-- kernel.bin
-- Krunk Zhou
+- kernel.bin, https://github.com/kernelbin
+- Krunk Zhou, https://github.com/KrunkZhou
+- Legna, https://www.brighost.com
 - qtp1300
 - Sakltama957
 - Yui
 - ZXU
 - 纯脆entropy
-- 高怡飞
+- 高怡飞, https://github.com/Gaoyifei1011
 - 武美丽
 - 小孙先森
 
