@@ -36,3 +36,14 @@ I will only show the readable custom names in this list.
 - xy137425740
 - 龍魂
 - 月光光
+
+## Patreon
+
+- Gyudon 
+- Jens Wiechers
+- luxifer 
+- Mulverine
+- Stephan Herbers
+- Thumkus 
+- Wall SoGB
+- Xinyu Ma, https://github.com/zjkmxy
