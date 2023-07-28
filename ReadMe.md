@@ -1,8 +1,7 @@
 ﻿Hi there,
 
-You can call me Kenji Mouri (毛利研二) or Mouri (毛利) in most cases.
-
-You also can call me Kuriko Mou (毛栗子) when I'm in VTuber or Otokonoko mode.
+You can call me Kenji Mouri (毛利研二) or Mouri (毛利) in most cases. You also
+can call me Kuriko Mou (毛栗子) when I'm in VTuber or Otokonoko mode.
 
 You shouldn't call me Qi Lu (卢起) even this is my real name, but this identity
 is deprecated in most cases for reducing my post-traumatic stress disorder
@@ -26,24 +25,17 @@ sometimes making contributions for other's. I am also a [Microsoft MVP] and a
 ## Projects
 
 - Nana Series (Author): [NanaZip], [NanaBox], [NanaGet], [NanaRun]
-- N Series (Author): [NSudo] (Superseded by NanaRun), [NWSRMgr] (Deprecated),
-  [Nagisa] (Superseded by NanaGet)
 - Min Series (Author): [MinCLR]
 - Mile Series (Author): [Mile.Project.Windows], [Mile.Windows.Helpers],
   [Mile.Xaml], [Mile.Qt], [Mile.Aria2], [Mile.Uefi], [Mile.Cpp], [Mile.FFmpeg]
 - Chuyu Series (Co-author): [DISM++], [VC-LTL]
 - Chuyu Series (Author): [MINT], [libkcrt]
-- LVGL (Maintainer): [lv_port_pc_visual_studio],
-  [lv_port_windows] (Superseded by lv_port_pc_visual_studio)
+- LVGL (Maintainer): [lv_port_pc_visual_studio]
 
 [NanaZip]: https://github.com/M2Team/NanaZip
 [NanaBox]: https://github.com/M2Team/NanaBox
 [NanaGet]: https://github.com/M2Team/NanaGet
 [NanaRun]: https://github.com/M2Team/NanaRun
-
-[NSudo]: https://github.com/M2TeamArchived/NSudo
-[NWSRMgr]: https://github.com/M2TeamArchived/NWSRMgr
-[Nagisa]: https://github.com/M2TeamArchived/Nagisa
 
 [MinCLR]: https://github.com/M2Team/MinCLR
 
@@ -63,6 +55,17 @@ sometimes making contributions for other's. I am also a [Microsoft MVP] and a
 [libkcrt]: https://github.com/Chuyu-Team/libkcrt
 
 [lv_port_pc_visual_studio]: https://github.com/lvgl/lv_port_pc_visual_studio
+
+## Deprecated Projects
+
+- [NSudo] (Author) Superseded by NanaRun.
+- [NWSRMgr] (Author) Deprecated without alternatives created by me.
+- [Nagisa] (Author) Superseded by NanaGet.
+- [lv_port_windows] (Maintainer) Superseded by lv_port_pc_visual_studio.
+
+[NSudo]: https://github.com/M2TeamArchived/NSudo
+[NWSRMgr]: https://github.com/M2TeamArchived/NWSRMgr
+[Nagisa]: https://github.com/M2TeamArchived/Nagisa
 [lv_port_windows]: https://github.com/lvgl/lv_port_windows
 
 ## Sponsor Service
