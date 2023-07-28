@@ -1,9 +1,12 @@
 ﻿Hi there,
 
-Due to I have two identities because I have planned dual personas when I created
-my current GitHub ID called *MouriNaruto* in 2012: Kenji Mouri (毛利研二) for
-he/his identity and Kuriko Mou (毛栗子) for she/her identity. You can choose the
-mode you think is OK.
+You can call me Kenji Mouri (毛利研二) or Mouri (毛利) in most cases.
+
+You also can call me Kuriko Mou (毛栗子) when I'm in VTuber or Otokonoko mode.
+
+My real name is Qi Lu (卢起), but this identity is deprecated in most cases for
+reducing the Post-traumatic stress disorder (PTSD) cases. I will ignore it in
+most cases if you use this.
 
 *MouriNaruto*, *Mouri_Naruto* and *Mouri* are my typical usernames.
 
@@ -76,3 +79,5 @@ Note: If you don't want to use Patreon, I also provide the alternative option
 based on PayPal, maybe it's a suitable way.
 
 Here is my PayPal.me page: https://paypal.me/MouriNaruto
+
+Here is [the list of people who had sponsored me](Sponsors.md).
