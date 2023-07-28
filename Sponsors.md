@@ -20,3 +20,19 @@ I will only show the readable custom names in this list.
 - 高怡飞
 - 武美丽
 - 小孙先森
+
+## NSudo (Sponsors from legacy era)
+
+- 安磊磊
+- boyangpangzi
+- cjy\_\_05
+- dfdc5
+- Krunk Zhou, https://github.com/KrunkZhou
+- Legna, https://www.brighost.com
+- mhxkx
+- NotePad
+- tangmigoId
+- wondersnefu
+- xy137425740
+- 龍魂
+- 月光光
