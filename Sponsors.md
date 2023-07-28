@@ -47,3 +47,9 @@ I will only show the readable custom names in this list.
 - Thumkus 
 - Wall SoGB
 - Xinyu Ma, https://github.com/zjkmxy
+
+## PayPal
+
+- Alder Simon
+- Parizat Maor
+- Thompson Grant
