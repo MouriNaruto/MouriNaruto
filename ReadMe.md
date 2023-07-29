@@ -1,7 +1,10 @@
 ﻿Hi there,
 
-You can call me Kenji Mouri (毛利研二) or Mouri (毛利) in most cases. You also
-can call me Kuriko Mou (毛栗子) when I'm in VTuber or Otokonoko mode.
+You can call me Kenji Mouri (毛利 研二) or Mouri (毛利) in most cases. You also
+can call me Kuriko Mou (毛 栗子) when I'm in [VTuber] or [Otokonoko] mode.
+
+[VTuber]: https://en.wikipedia.org/wiki/VTuber
+[Otokonoko]: https://en.wikipedia.org/wiki/Otokonoko
 
 You shouldn't call me Qi Lu (卢起) even this is my real name, but this identity
 is deprecated in most cases for reducing my post-traumatic stress disorder
