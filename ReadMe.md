@@ -7,8 +7,8 @@ can call me Kuriko Mou (毛 栗子) when I'm in [VTuber] or [Otokonoko] mode.
 [Otokonoko]: https://en.wikipedia.org/wiki/Otokonoko
 
 You shouldn't call me Qi Lu (卢起) even this is my real name, but this identity
-is deprecated in most cases for reducing my post-traumatic stress disorder
-(PTSD) cases. I will ignore it in most cases if you use this.
+is deprecated in most cases for reducing my depressive symptoms. I will ignore
+it in most cases if you use this.
 
 *MouriNaruto*, *Mouri_Naruto* and *Mouri* are my typical usernames.
 
