@@ -1,6 +1,6 @@
 ﻿root = true
 
-[ReadMe.md]
+[{ReadMe.md,Sponsors.md}]
 charset = utf-8-bom
 end_of_line = crlf
 indent_style = space
