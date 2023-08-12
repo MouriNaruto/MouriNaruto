@@ -52,7 +52,7 @@ sometimes making contributions for other's. I am also a [Microsoft MVP] and a
 [Mile.Cpp]: https://github.com/ProjectMile/Mile.Cpp
 [Mile.FFmpeg]: https://github.com/ProjectMile/Mile.FFmpeg
 
-[MinCLR]: https://github.com/M2Team/MinCLR
+[MinCLR]: https://github.com/SherryPlatform/MinCLR
 
 [RaySoul]: https://github.com/ChaosAIOfficial/RaySoul
 
