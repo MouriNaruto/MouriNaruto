@@ -30,9 +30,9 @@ sometimes making contributions for other's. I am also a [Microsoft MVP] and a
 ## Projects
 
 - Nana Series (Author): [NanaZip], [NanaBox], [NanaGet], [NanaRun]
-- Min Series (Author): [MinCLR]
 - Mile Series (Author): [Mile.Project.Windows], [Mile.Windows.Helpers],
   [Mile.Xaml], [Mile.Qt], [Mile.Aria2], [Mile.Uefi], [Mile.Cpp], [Mile.FFmpeg]
+- Sherry Series (Author): [MinCLR]
 - ChaosAI Series (Co-author): [RaySoul]
 - Chuyu Series (Co-author): [DISM++], [VC-LTL]
 - Chuyu Series (Author): [MINT], [libkcrt]
@@ -43,8 +43,6 @@ sometimes making contributions for other's. I am also a [Microsoft MVP] and a
 [NanaGet]: https://github.com/M2Team/NanaGet
 [NanaRun]: https://github.com/M2Team/NanaRun
 
-[MinCLR]: https://github.com/M2Team/MinCLR
-
 [Mile.Project.Windows]: https://github.com/ProjectMile/Mile.Project.Windows
 [Mile.Windows.Helpers]: https://github.com/ProjectMile/Mile.Windows.Helpers
 [Mile.Xaml]: https://github.com/ProjectMile/Mile.Xaml
@@ -53,6 +51,8 @@ sometimes making contributions for other's. I am also a [Microsoft MVP] and a
 [Mile.Uefi]: https://github.com/ProjectMile/Mile.Uefi
 [Mile.Cpp]: https://github.com/ProjectMile/Mile.Cpp
 [Mile.FFmpeg]: https://github.com/ProjectMile/Mile.FFmpeg
+
+[MinCLR]: https://github.com/M2Team/MinCLR
 
 [RaySoul]: https://github.com/ChaosAIOfficial/RaySoul
 
