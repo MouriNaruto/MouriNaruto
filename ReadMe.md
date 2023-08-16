@@ -6,12 +6,6 @@ can call me Kuriko Mou (毛 栗子) when I'm in [VTuber] or [Otokonoko] mode.
 [VTuber]: https://en.wikipedia.org/wiki/VTuber
 [Otokonoko]: https://en.wikipedia.org/wiki/Otokonoko
 
-You shouldn't call me Lu Qi (卢起) even this is my real name, but this identity
-is deprecated in most cases for reducing my depressive symptoms. I will ignore
-it in most cases if you use this. (But call me Blues Lu is acceptable because
-Bruce Lu is my English name named by my uncle and I love the color blue so I
-use Blues instead of Bruce.)
-
 *MouriNaruto*, *Mouri_Naruto* and *Mouri* are my typical usernames.
 
 I am interested in writing the most compact implementations by using the least
