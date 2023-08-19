@@ -8,8 +8,8 @@ it is a good way to achieve this goal.
 - Patreon page: https://www.patreon.com/MouriNaruto
 - Afdian (爱发电) page: https://afdian.net/a/MouriNaruto
 
-Note: If you don't want to use Patreon, I also provide the alternative options, 
-maybe it's a suitable way.
+Note: If you don't want to use Patreon and Afdian (爱发电), I also provide the
+alternative options, maybe it's a suitable way.
 
 ## PayPal
 
@@ -17,8 +17,8 @@ Here is my PayPal.me page: https://paypal.me/MouriNaruto
 
 ## Alipay
 
-![Alipay QR Code Image](Alipay.jpg)
+<img src="Alipay.jpg" alt="Alipay QR Code Image" width="320">
 
 ## WeChat
 
-![WeChat QR Code Image](WeChat.png)
+<img src="WeChat.png" alt="WeChat QR Code Image" width="320">
