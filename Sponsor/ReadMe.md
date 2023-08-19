@@ -12,3 +12,7 @@ Note: If you don't want to use Patreon, I also provide the alternative option
 based on PayPal, maybe it's a suitable way.
 
 Here is my PayPal.me page: https://paypal.me/MouriNaruto
+
+## Alipay
+
+![Alipay QR Code Image](Alipay.jpg)
