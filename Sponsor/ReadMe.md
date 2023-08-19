@@ -8,8 +8,10 @@ it is a good way to achieve this goal.
 - Patreon page: https://www.patreon.com/MouriNaruto
 - Afdian (爱发电) page: https://afdian.net/a/MouriNaruto
 
-Note: If you don't want to use Patreon, I also provide the alternative option
-based on PayPal, maybe it's a suitable way.
+Note: If you don't want to use Patreon, I also provide the alternative options, 
+maybe it's a suitable way.
+
+## PayPal
 
 Here is my PayPal.me page: https://paypal.me/MouriNaruto
 
