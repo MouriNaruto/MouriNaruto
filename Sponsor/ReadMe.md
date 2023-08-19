@@ -16,3 +16,7 @@ Here is my PayPal.me page: https://paypal.me/MouriNaruto
 ## Alipay
 
 ![Alipay QR Code Image](Alipay.jpg)
+
+## WeChat
+
+![WeChat QR Code Image](WeChat.png)
