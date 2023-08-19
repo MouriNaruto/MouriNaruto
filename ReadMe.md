@@ -84,5 +84,3 @@ Note: If you don't want to use Patreon, I also provide the alternative option
 based on PayPal, maybe it's a suitable way.
 
 Here is my PayPal.me page: https://paypal.me/MouriNaruto
-
-Here is [the list of people who had sponsored me](Sponsors.md).
