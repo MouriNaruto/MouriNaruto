@@ -12,7 +12,8 @@ I am interested in writing the most compact implementations by using the least
 syntaxes and third-party libraries, and love creating open-source projects and
 sometimes making contributions for other's. I am also a [Microsoft MVP] and a
 [PCBeta moderator]. Here is my [blog], [resume], [projects], [speeches] and 
-[documentations].
+[documentations]. If you want to sponsor me, please read
+[Become a sponsor to Kenji Mouri](Sponsor).
 
 [Microsoft MVP]: https://mvp.microsoft.com/en-us/PublicProfile/5004706?fullName=Kenji%20Mouri
 [PCBeta moderator]: https://i.pcbeta.com/home.php?mod=space&uid=3887572&do=profile
@@ -21,7 +22,3 @@ sometimes making contributions for other's. I am also a [Microsoft MVP] and a
 [projects]: Projects.md
 [speeches]: https://github.com/MouriNaruto/Presentations
 [documentations]: https://github.com/MouriNaruto/MouriDocs
-
-## Sponsor Service
-
-Please read [Become a sponsor to Kenji Mouri](Sponsor).
