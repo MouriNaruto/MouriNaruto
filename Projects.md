@@ -39,10 +39,12 @@
 
 ## Deprecated Projects
 
-- [NSudo] (Author) Superseded by NanaRun.
-- [NWSRMgr] (Author) Deprecated without alternatives created by me.
-- [Nagisa] (Author) Superseded by NanaGet.
-- [lv_port_windows] (Maintainer) Superseded by lv_port_pc_visual_studio.
+| Project Name | Deprecate Reason |
+| - | - |
+| [NSudo] (Author) | Superseded by NanaRun. |
+| [NWSRMgr] (Author) | Deprecated without alternatives created by me. |
+| [Nagisa] (Author) | Superseded by NanaGet. |
+| [lv_port_windows] (Maintainer) | Superseded by lv_port_pc_visual_studio. |
 
 [NSudo]: https://github.com/M2TeamArchived/NSudo
 [NWSRMgr]: https://github.com/M2TeamArchived/NWSRMgr
