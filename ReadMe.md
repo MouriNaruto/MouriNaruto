@@ -22,3 +22,17 @@ sometimes making contributions for other's. I am also a [Microsoft MVP] and a
 [projects]: Projects.md
 [speeches]: https://github.com/MouriNaruto/Presentations
 [documentations]: https://github.com/MouriNaruto/MouriDocs
+
+## Things I currently working on
+
+Due to many people have asked me why not update a specific project frequently.
+I think I should provide you the list of things I currently working on will be
+the best explanation. This list will be sorted in priority order.
+
+Here are the things I want to have progress in September 2023.
+
+- [ ] Porting Hyper-V Enhanced Session mode over VMBus to Hyper-V Linux guests.
+- [ ] Split the LZMA SDK as a separate module in NanaZip.
+- [ ] Implement the new Windows backend for LVGL.
+- [ ] Synchronize the LZMA SDK and 7-Zip implementations to 23.01 in NanaZip.
+- [ ] Implement the optimized parser version of RaySoul.
