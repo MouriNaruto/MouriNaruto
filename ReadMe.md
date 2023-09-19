@@ -35,9 +35,24 @@ Here are the things I want to have progress in September 2023.
 
 Status: Working In Progress
 
+I have written a validation demo for Windows 8 guests before I write the Linux
+kernel module. Here is the demonstration video:
+https://twitter.com/MouriNaruto/status/1700922160905359757
+
+Note: Hyper-V Enhanced Session mode over VMBus transport originally needs
+Windows 8.1 or later in the guest.
+
 #### Split the LZMA SDK as a separate module in NanaZip. 
 
-Status: Working In Progress
+Status: Canceled
+
+It's not realistic due to strong coupling between LZMA SDK and other parts in
+the 7-Zip mainline source code. But we can split the 7z.dll part as a separate
+module because 7-Zip maintains good ABI compatibility for that.
+
+So, I have a better plan for achieve the original goal: Create NanaZip.Core
+project for making me track the modifications from upstreams better in the
+future.
 
 #### Implement the new Windows backend for LVGL.
 
@@ -45,8 +60,22 @@ Status: Not Started
 
 #### Synchronize the LZMA SDK and 7-Zip implementations to 23.01 in NanaZip.
 
-Status: Working In Progress
+Status: Partially Finished
+
+This task will be finished if the Self Extracting Executable implementations
+have been migrated to NanaZip.Core project successfully. Because NanaZip.Core
+project is based on 7-Zip 23.01 at the beginning.
 
 #### Implement the optimized parser version of RaySoul.
 
 Status: Not Started
+
+#### Create NanaZip.Core project for rewriting the core implementation.
+
+Status: Partially Finished
+
+The development work on NanaZip.Core.dll has been completed successfully. In
+the next version of NanaZip will use this implementation.
+
+The next step is migrating the Self Extracting Executable implementations to
+NanaZip.Core project.
