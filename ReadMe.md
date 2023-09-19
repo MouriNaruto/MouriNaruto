@@ -31,8 +31,22 @@ the best explanation. This list will be sorted in priority order.
 
 Here are the things I want to have progress in September 2023.
 
-- [ ] Porting Hyper-V Enhanced Session mode over VMBus to Hyper-V Linux guests.
-- [ ] Split the LZMA SDK as a separate module in NanaZip.
-- [ ] Implement the new Windows backend for LVGL.
-- [ ] Synchronize the LZMA SDK and 7-Zip implementations to 23.01 in NanaZip.
-- [ ] Implement the optimized parser version of RaySoul.
+#### Porting Hyper-V Enhanced Session mode over VMBus to Hyper-V Linux guests.
+
+Status: Working In Progress
+
+#### Split the LZMA SDK as a separate module in NanaZip. 
+
+Status: Working In Progress
+
+#### Implement the new Windows backend for LVGL.
+
+Status: Not Started
+
+#### Synchronize the LZMA SDK and 7-Zip implementations to 23.01 in NanaZip.
+
+Status: Working In Progress
+
+#### Implement the optimized parser version of RaySoul.
+
+Status: Not Started
