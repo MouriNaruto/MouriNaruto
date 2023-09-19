@@ -29,7 +29,10 @@ Due to many people have asked me why not update a specific project frequently.
 I think I should provide you the list of things I currently working on will be
 the best explanation. This list will be sorted in priority order.
 
-Here are the things I want to have progress in September 2023.
+Here are the things I want to have progress in September 2023. The [archive] is
+available if you want to read the history of this list.
+
+[archive]: https://github.com/MouriNaruto/MouriDocs/blob/main/docs/10/ReadMe.md
 
 #### Porting Hyper-V Enhanced Session mode over VMBus to Hyper-V Linux guests.
 
@@ -41,18 +44,6 @@ https://twitter.com/MouriNaruto/status/1700922160905359757
 
 Note: Hyper-V Enhanced Session mode over VMBus transport originally needs
 Windows 8.1 or later in the guest.
-
-#### Split the LZMA SDK as a separate module in NanaZip. 
-
-Status: Canceled
-
-It's not realistic due to strong coupling between LZMA SDK and other parts in
-the 7-Zip mainline source code. But we can split the 7z.dll part as a separate
-module because 7-Zip maintains good ABI compatibility for that.
-
-So, I have a better plan for achieve the original goal: Create NanaZip.Core
-project for making me track the modifications from upstreams better in the
-future.
 
 #### Implement the new Windows backend for LVGL.
 
