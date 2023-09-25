@@ -49,24 +49,6 @@ Windows 8.1 or later in the guest.
 
 Status: Not Started
 
-#### Synchronize the LZMA SDK and 7-Zip implementations to 23.01 in NanaZip.
-
-Status: Partially Finished
-
-This task will be finished if the Self Extracting Executable implementations
-have been migrated to NanaZip.Core project successfully. Because NanaZip.Core
-project is based on 7-Zip 23.01 at the beginning.
-
 #### Implement the optimized parser version of RaySoul.
 
 Status: Not Started
-
-#### Create NanaZip.Core project for rewriting the core implementation.
-
-Status: Partially Finished
-
-The development work on NanaZip.Core.dll has been completed successfully. In
-the next version of NanaZip will use this implementation.
-
-The next step is migrating the Self Extracting Executable implementations to
-NanaZip.Core project.
