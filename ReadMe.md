@@ -29,10 +29,17 @@ Due to many people have asked me why not update a specific project frequently.
 I think I should provide you the list of things I currently working on will be
 the best explanation. This list will be sorted in priority order.
 
-Here are the things I want to have progress in September 2023. The [archive] is
+Here are the things I want to have progress in October 2023. The [archive] is
 available if you want to read the history of this list.
 
 [archive]: https://github.com/MouriNaruto/MouriDocs/blob/main/docs/10/ReadMe.md
+
+#### NanaZip 3.0 Preview 1
+
+Status: Working In Progress
+
+NanaZip 3.0 and onwards will have two distribution flavors called NanaZip and
+NanaZip Classic.
 
 #### Porting Hyper-V Enhanced Session mode over VMBus to Hyper-V Linux guests.
 
@@ -51,4 +58,6 @@ Status: Not Started
 
 #### Implement the optimized parser version of RaySoul.
 
-Status: Not Started
+Status: Preparing
+
+I have started and continue reading the RISC-V ISA manual since September 2023.
