@@ -1,10 +1,10 @@
 ﻿Hi there,
 
-You can call me Kenji Mouri (毛利 研二) or Mouri (毛利) in most cases. You also
-can call me Kuriko Mou (毛 栗子) when I'm in [VTuber] or [Otokonoko] mode.
-
-[VTuber]: https://en.wikipedia.org/wiki/VTuber
-[Otokonoko]: https://en.wikipedia.org/wiki/Otokonoko
+My public name is Kenji Mouri, or 毛利 研二 in Japanese. In China, due to my
+public name, my friends call me 毛利, or Mouri in English. In some cases, my
+friends also call me Kuriko Mou, or 毛 栗子 in Japanese. But my legal name is
+卢起, or Qi Lu in English. Maybe you will see this name in the certificates
+which used in projects maintained by me in the future.
 
 *MouriNaruto*, *Mouri_Naruto* and *Mouri* are my typical usernames.
 
