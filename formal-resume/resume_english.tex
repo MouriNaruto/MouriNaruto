@@ -18,29 +18,45 @@
 \begin{document}
 \renewcommand\headrulewidth{0pt}
 
-\name{Kenji Mouri}
+\name{Kenji Mouri (Qi Lu)}
 
 \basicInfo{
-  \email{KenjiMouri@outlook.jp} \textperiodcentered\
+  \email{Kenji.Mouri@outlook.com} \textperiodcentered\
   \homepage{https://mouri.moe}
   \github[MouriNaruto]{https://github.com/MouriNaruto}
 }
 
 \section{Education}
 
-\datedsubsection{\textbf{Changshu Institute of Technology}, China}{2016.09 -- 2020.07}
+\datedline{\textbf{Changshu Institute of Technology}, China}{Sep 2016 -- Jul 2020}
   Bachelor of Engineering, Automotive Service Engineering.
 
 \section{Work Experience}
 
-\datedsubsection{\textbf{Qi'e TV, Tencent}}{Dec 2020 -- Present}
-\role {Windows Development}{C++ Software Development Engineer}
+\datedline{\href{https://live.qq.com}{\textbf{Qi'e TV, Tencent}} (C++ Software Development Engineer)}{Dec 2020 -- Present}
 \begin{itemize}
-  \item Develop the QieLive 2.0.
+  \item Leading the development of the QieLive 2.x Series from scratch to release.
 \end{itemize}
 
-\datedsubsection{\textbf{Chuyu Team}}{Jul 2014 -- Present}
-\role {Windows Development}{Core Contributor}
+\section{Open Source Contributions}
+
+\datedline{\href{https://github.com/M2Team}{\textbf{M2-Team}} (Owner)}{Jun 2015 -- Present}
+\begin{itemize}
+  \item \href{https://github.com/M2Team/NanaZip}{NanaZip} - File archiver intended for the modern Windows experience
+  \item \href{https://github.com/M2Team/NanaBox}{NanaBox} - The third-party lightweight out-of-box-experience oriented Hyper-V client
+  \item \href{https://github.com/M2Team/NanaGet}{NanaGet} - Lightweight file transfer utility based on aria2 and XAML Islands
+  \item \href{https://github.com/M2Team/NanaRun}{NanaRun} - Application runtime environment customization utility for Windows
+\end{itemize} 
+
+\datedline{\href{https://github.com/ProjectMile}{\textbf{Project Mile}} (Owner)}{Nov 2020 -- Present}
+\begin{itemize}
+  \item \href{https://github.com/ProjectMile/Mile.Xaml}{Mile.Xaml} - Lightweight XAML Islands toolchain with modern Windows controls styles
+  \item \href{https://github.com/ProjectMile/Mile.Uefi}{Mile.Uefi} - UEFI Application SDK for Visual Studio
+  \item \href{https://github.com/ProjectMile/Mile.FFmpeg}{Mile.FFmpeg} - Merged FFmpeg dynamic linked library for Windows
+  \item \href{https://github.com/ProjectMile/Mile.Aria2}{Mile.Aria2} - Customized version of aria2 specialize for MSVC toolchain
+\end{itemize} 
+
+\datedline{\href{https://github.com/Chuyu-Team}{\textbf{Chuyu Team}} (Member)}{Jul 2014 -- Present}
 \begin{itemize}
   \item Create NCleaner cleanup component, help implement online image backup and multilingual support for \href{https://github.com/Chuyu-Team/Dism-Multi-language/releases/latest}{DISM++}.
   \item Create \href{https://github.com/Chuyu-Team/MINT}{MINT}, contains the undocumented Windows user-mode API definitions, which is based on PHNT.
@@ -48,29 +64,25 @@
   \item Implement the Rust language support for \href{https://github.com/Chuyu-Team/VC-LTL5}{VC-LTL}.
 \end{itemize}
 
-\section{Open Source Contributions}
-
-\datedsubsection{\textbf{M2-Team (Cofounder)}}{\url{https://github.com/M2Team}}
+\datedline{\href{https://github.com/lvgl}{\textbf{LVGL}} (Contributor)}{Jan 2021 -- Present}
 \begin{itemize}
-  \item \href{https://github.com/M2Team/NanaZip}{NanaZip} - File archiver intended for the modern Windows experience
-  \item \href{https://github.com/M2Team/NanaBox}{NanaBox} - The third-party lightweight out-of-box-experience oriented Hyper-V client
-  \item \href{https://github.com/M2Team/NanaGet}{NanaGet} - Lightweight file transfer utility based on aria2 and XAML Islands
-  \item \href{https://github.com/M2Team/NanaRun}{NanaRun} - Application runtime environment customization utility for Windows
-  \item \href{https://github.com/M2Team/NSudo}{NSudo} - System administration tools for Windows
-\end{itemize} 
-
-\datedsubsection{\textbf{Project Mile (Founder)}}{\url{https://github.com/ProjectMile}}
-\begin{itemize}
-  \item \href{https://github.com/ProjectMile/Mile.Xaml}{Mile.Xaml} - Lightweight XAML Islands toolchain with modern Windows controls styles
-  \item \href{https://github.com/ProjectMile/Mile.Uefi}{Mile.Uefi} - UEFI Application SDK for Visual Studio
-  \item \href{https://github.com/ProjectMile/Mile.FFmpeg}{Mile.FFmpeg} - Merged FFmpeg dynamic linked library for Windows
-\end{itemize} 
-
-\datedsubsection{\textbf{LVGL (Contributor)}}{\url{https://github.com/lvgl}}
-\begin{itemize}
-  \item Modernize and enhance the implementation of \href{https://github.com/lvgl/lv_sim_visual_studio}{Windows Simulator for Visual Studio (lv\_sim\_visual\_studio)}.
-  \item Create the implementation of \href{https://github.com/lvgl/lv_port_windows}{Windows Port with Visual Studio (lv\_port\_windows)}.
+  \item Modernize and enhance the implementation of \href{https://github.com/lvgl/lv_port_pc_visual_studio}{LVGL port for Visual Studio (lv\_port\_pc\_visual\_studio)}.
   \item Create the implementation of \href{https://github.com/lvgl/lv_drivers/pull/117}{New native Windows driver (win32drv)} and \href{https://github.com/lvgl/lvgl/pull/2701}{Windows file system driver (lv\_fs\_win32)}.
+\end{itemize}
+
+\section{Honors}
+
+\datedline{\href{https://mvp.microsoft.com/en-us/PublicProfile/5004706?fullName=Kenji Mouri}{\textbf{Microsoft MVP}} (Developer Technologies, Windows Development)}{Feb 2022 -- Present}
+
+\section{Vision}
+\begin{itemize}
+
+  \item Continue to modernize and enhance the implementation of NanaZip, and complete the functionality of NanaBox and NanaGet.
+  
+  \item Enhance the user experience for Hyper-V and NanaBox via porting Enhanced Session mode over VMBus to Linux guests.
+  
+  \item Implement the 64-Bit RISC-V userspace virtual machine with Linux syscall support called RaySoul.
+  
 \end{itemize}
 
 \section{Skills}
@@ -93,10 +105,6 @@
 
 \end{itemize}
 
-\section{Honors}
-
-\datedline{Microsoft MVP (Developer Technologies, Windows Development)}{Feb 2022 -- Present}
-
 \section{Miscellaneous}
 \begin{itemize}
 
@@ -104,7 +112,7 @@
 
   \item I am interested in writing the most compact implementations by using the least syntaxes and third-party libraries.
 
-  \item \href{https://github.com/search?q=is%3Apr%20author%3AMouriNaruto&type=pullrequests}{Opensource Contributions}: Contributed to \href{https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/22961}{Mesa3D}, ncnn, OpenSSL, Windows File Manager and other projects.
+  \item \href{https://github.com/search?q=is%3Apr%20author%3AMouriNaruto&type=pullrequests}{Open Source Contributions}: Contributed to \href{https://gitlab.freedesktop.org/mesa/mesa/-/merge_requests/22961}{Mesa3D}, ncnn, OpenSSL, Windows File Manager and other projects.
   
   \item I created some technical posts on My Digital Life Forums, PCBeta, 52pojie and Pediy as Mouri\_Naruto.
   
