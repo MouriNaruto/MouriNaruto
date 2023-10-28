@@ -34,12 +34,16 @@ available if you want to read the history of this list.
 
 [archive]: https://github.com/MouriNaruto/MouriDocs/blob/main/docs/10/ReadMe.md
 
-#### NanaZip 3.0 Preview 1
+#### NanaZip 3.0 Preview 1 (Late December 2023)
 
 Status: Working In Progress
 
 NanaZip 3.0 and onwards will have two distribution flavors called NanaZip and
 NanaZip Classic.
+
+#### NanaBox 1.1 (Late November 2023)
+
+Status: Working In Progress
 
 #### Porting Hyper-V Enhanced Session mode over VMBus to Hyper-V Linux guests.
 
