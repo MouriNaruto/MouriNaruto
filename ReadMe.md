@@ -29,7 +29,7 @@ Due to many people have asked me why not update a specific project frequently.
 I think I should provide you the list of things I currently working on will be
 the best explanation. This list will be sorted in priority order.
 
-Here are the things I want to have progress in October 2023. The [archive] is
+Here are the things I want to have progress in December 2023. The [archive] is
 available if you want to read the history of this list.
 
 [archive]: https://github.com/MouriNaruto/MouriDocs/blob/main/docs/10/ReadMe.md
@@ -40,10 +40,6 @@ Status: Working In Progress
 
 NanaZip 3.0 and onwards will have two distribution flavors called NanaZip and
 NanaZip Classic.
-
-#### NanaBox 1.1 (Late November 2023)
-
-Status: Working In Progress
 
 #### Porting Hyper-V Enhanced Session mode over VMBus to Hyper-V Linux guests.
 
@@ -56,9 +52,11 @@ https://twitter.com/MouriNaruto/status/1700922160905359757
 Note: Hyper-V Enhanced Session mode over VMBus transport originally needs
 Windows 8.1 or later in the guest.
 
-#### Implement the new Windows backend for LVGL.
+#### Implement the new Windows backend for LVGL. (Early December 2023)
 
-Status: Not Started
+Status: Working In Progress
+
+OSAL is ready. I'm working on the new Windows backend.
 
 #### Implement the optimized parser version of RaySoul.
 
