@@ -23,6 +23,8 @@ sometimes making contributions for other's. I am also a [Microsoft MVP] and a
 [speeches]: https://github.com/MouriNaruto/Presentations
 [documentations]: https://github.com/MouriNaruto/MouriDocs
 
+Also, I have provided several [paid services](PaidServices.md) from me.
+
 ## Things I currently working on
 
 Due to many people have asked me why not update a specific project frequently.
