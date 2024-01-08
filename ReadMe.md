@@ -31,37 +31,38 @@ Due to many people have asked me why not update a specific project frequently.
 I think I should provide you the list of things I currently working on will be
 the best explanation. This list will be sorted in priority order.
 
-Here are the things I want to have progress in December 2023. The [archive] is
+Here are the things I want to have progress in January 2024. The [archive] is
 available if you want to read the history of this list.
 
 [archive]: https://github.com/MouriNaruto/MouriDocs/blob/main/docs/10/ReadMe.md
 
-#### NanaZip 3.0 Preview 1 (Late December 2023)
+#### NanaZip 3.0 Preview 1
 
 Status: Working In Progress
 
-NanaZip 3.0 and onwards will have two distribution flavors called NanaZip and
-NanaZip Classic.
+The split progress of NanaZip and NanaZip Classic is finished.
+
+Just working on making NanaZip more XAML based UI.
 
 #### Porting Hyper-V Enhanced Session mode over VMBus to Hyper-V Linux guests.
 
 Status: Working In Progress
 
-I have written a validation demo for Windows 8 guests before I write the Linux
-kernel module. Here is the demonstration video:
-https://twitter.com/MouriNaruto/status/1700922160905359757
-
-Note: Hyper-V Enhanced Session mode over VMBus transport originally needs
-Windows 8.1 or later in the guest.
+I think I should write a generic VMBus pipe user mode access driver for Linux.
+It's a better way to introduce more possibilities.
 
 #### Implement the new Windows backend for LVGL. (Early December 2023)
 
 Status: Working In Progress
 
-OSAL is ready. I'm working on the new Windows backend.
+I hope I can finish the LVGL display creation abstraction and push the 
+implementation to the mainline.
 
-#### Implement the optimized parser version of RaySoul.
+#### Sherry Platform
 
-Status: Preparing
+Status: Working In Progress
 
-I have started and continue reading the RISC-V ISA manual since September 2023.
+Vermouth had said that "a secret makes a woman woman".
+
+Project Edogawa is a planned file manager for Linux-based Sherry Platform which
+shares the codec from NanaZip.
