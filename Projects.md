@@ -17,7 +17,6 @@
 | | [Mile.Uefi] (Author) |
 | | [Mile.Cpp] (Author) |
 | [Sherry Platform] | [MinCLR] (Author) |
-| [ChaosAI] | [RaySoul] (Co-author) |
 | [Chuyu Team] | [DISM++] (Co-author) |
 | | [VC-LTL] (Co-author) |
 | | [MINT] (Author) |
@@ -43,9 +42,6 @@
 [Sherry Platform]: https://github.com/SherryPlatform
 [MinCLR]: https://github.com/SherryPlatform/MinCLR
 
-[ChaosAI]: https://github.com/ChaosAIOfficial
-[RaySoul]: https://github.com/ChaosAIOfficial/RaySoul
-
 [Chuyu Team]: https://github.com/Chuyu-Team
 [DISM++]: https://github.com/Chuyu-Team/Dism-Multi-language/releases/latest
 [VC-LTL]: https://github.com/Chuyu-Team/VC-LTL5
@@ -63,8 +59,10 @@
 | [NWSRMgr] (Author) | Deprecated without alternatives created by me. |
 | [Nagisa] (Author) | Superseded by NanaGet. |
 | [lv_port_windows] (Maintainer) | Superseded by lv_port_pc_visual_studio. |
+| [RaySoul] (Co-author) | Lack of time for developers. |
 
 [NSudo]: https://github.com/M2TeamArchived/NSudo
 [NWSRMgr]: https://github.com/M2TeamArchived/NWSRMgr
 [Nagisa]: https://github.com/M2TeamArchived/Nagisa
 [lv_port_windows]: https://github.com/lvgl/lv_port_windows
+[RaySoul]: https://github.com/ChaosAIOfficial/RaySoul
