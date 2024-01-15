@@ -51,13 +51,6 @@ Status: Working In Progress
 I think I should write a generic VMBus pipe user mode access driver for Linux.
 It's a better way to introduce more possibilities.
 
-#### Implement the new Windows backend for LVGL.
-
-Status: Working In Progress
-
-I hope I can finish the LVGL display creation abstraction and push the 
-implementation to the mainline.
-
 #### Sherry Platform
 
 Status: Working In Progress
