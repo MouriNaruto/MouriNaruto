@@ -11,8 +11,6 @@ Here is the price list.
 
 - 777 CNY/hour (start from 1 hour)
 
-Service Link: https://m.tb.cn/h.5lrlMHI?tk=P3REW4D0462
-
 ## Customize Services
 
 If you'd like me to add features or improvements ahead of time for the open 
@@ -21,5 +19,3 @@ Everyone should know nobody like to be pressed. If you really want to do that.
 Here is the price list.
 
 - 353,535 CNY/month (start from 1 month)
-
-Service Link: https://m.tb.cn/h.5lcrcef?tk=TK5bW4DZqlt
