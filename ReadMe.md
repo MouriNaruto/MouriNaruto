@@ -31,18 +31,10 @@ Due to many people have asked me why not update a specific project frequently.
 I think I should provide you the list of things I currently working on will be
 the best explanation. This list will be sorted in priority order.
 
-Here are the things I want to have progress in January 2024. The [archive] is
+Here are the things I want to have progress in 2024. The [archive] is
 available if you want to read the history of this list.
 
 [archive]: https://github.com/MouriNaruto/MouriDocs/blob/main/docs/10/ReadMe.md
-
-#### NanaZip 3.0 Preview 1
-
-Status: Working In Progress
-
-The split progress of NanaZip and NanaZip Classic is finished.
-
-Just working on making NanaZip more XAML based UI.
 
 #### Porting Hyper-V Enhanced Session mode over VMBus to Hyper-V Linux guests.
 
