@@ -2,9 +2,7 @@
 
 My public name is Kenji Mouri, or 毛利 研二 in Japanese. In China, due to my
 public name, my friends call me 毛利, or Mouri in English. In some cases, my
-friends also call me Kuriko Mou, or 毛 栗子 in Japanese. But my legal name is
-卢起, or Qi Lu in English. Maybe you will see this name in the certificates
-which used in projects maintained by me in the future.
+friends also call me Kuriko Mou, or 毛 栗子 in Japanese.
 
 *MouriNaruto*, *Mouri_Naruto* and *Mouri* are my typical usernames.
 
