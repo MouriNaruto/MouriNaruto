@@ -96,3 +96,10 @@ Project Edogawa is a planned file manager for Linux-based Sherry Platform which
 shares the codec from NanaZip.
 
 So, this project is also called "Sherry Platform's Project Edogawa" a.k.a. SPEC.
+
+#### Make Wayland Great Again
+
+Status: Working In Progress
+
+I think I need to make an immersive Wayland compositor for X11 which can help
+resource-constraint devices.
