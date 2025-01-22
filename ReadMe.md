@@ -29,7 +29,7 @@ Due to many people have asked me why not update a specific project frequently.
 I think I should provide you the list of things I currently working on will be
 the best explanation. This list will be sorted in priority order.
 
-Here are the things I want to have progress in 2024. The [archive] is
+Here are the things I want to have progress in 2025. The [archive] is
 available if you want to read the history of this list.
 
 [archive]: https://github.com/MouriNaruto/MouriDocs/blob/main/docs/10/ReadMe.md
@@ -38,8 +38,53 @@ available if you want to read the history of this list.
 
 Status: Working In Progress
 
-I think I should write a generic VMBus pipe user mode access driver for Linux.
-It's a better way to introduce more possibilities.
+Current I have made a implementation at https://github.com/SherryPlatform/HvGin.
+
+But there are some stability issues which need to fix. If people can help me
+will be good.
+
+#### NanaZip 5.x
+
+Status: Working In Progress
+
+I want to implement the UFS/UFS2 support in NanaZip 5.0 which can help me to use
+FreeBSD as development platform.
+
+Also, LittleFS, ROMFS, .NET single-file format and Electron asar format are also
+planned to implement in NanaZip 5.0.
+
+Also, I think we should use some algorithm implementations from Windows APIs,
+which is "As Microsoft As Possible" a.k.a. AMAP strategy which mentioned by me.
+
+AMAP strategy can help me to reduce the attack surface and the binary size.
+
+#### Mobility
+
+Status: Working In Progress
+
+I hope I can write a prototype implementation of that.
+
+NanaZip 5.0's planned features will be helpful for development.
+
+#### Switch to FreeBSD
+
+Status: Working In Progress
+
+I hope I can switch to FreeBSD as my development platform because its license is
+suitable for me to customize the system.
+
+NanaZip 5.0's planned features will be helpful for migration.
+
+#### My first technical book
+
+Status: Working In Progress
+
+I decided to write a technical book about the Hyper-V guest interfaces.
+
+I start to write the book this year in English.
+
+I need to continue to maintain and create related open-source projects as the
+examples mentioned in the book.
 
 #### Sherry Platform
 
@@ -49,3 +94,5 @@ Vermouth had said that "a secret makes a woman woman".
 
 Project Edogawa is a planned file manager for Linux-based Sherry Platform which
 shares the codec from NanaZip.
+
+So, this project is also called "Sherry Platform's Project Edogawa" a.k.a. SPEC.
