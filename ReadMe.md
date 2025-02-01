@@ -47,13 +47,14 @@ will be good.
 
 Status: Working In Progress
 
-I want to implement the UFS/UFS2 support in NanaZip 5.0 which can help me to use
-FreeBSD as development platform.
+Currently, the released NanaZip 5.0 has implemented the UFS/UFS2 support.
 
-Also, LittleFS, ROMFS, .NET single-file format and Electron asar format are also
-planned to implement in NanaZip 5.0.
+I also implemented the .NET Single File Application bundle and Electron Archive
+(asar) support in the main branch.
 
-Also, I think we should use some algorithm implementations from Windows APIs,
+Also, LittleFS and ROMFS are also planned to implement in NanaZip 5.x.
+
+Also, I think we should use more algorithm implementations from Windows APIs,
 which is "As Microsoft As Possible" a.k.a. AMAP strategy which mentioned by me.
 
 AMAP strategy can help me to reduce the attack surface and the binary size.
@@ -64,7 +65,7 @@ Status: Working In Progress
 
 I hope I can write a prototype implementation of that.
 
-NanaZip 5.0's planned features will be helpful for development.
+NanaZip 5.x's planned features will be helpful for development.
 
 #### Switch to FreeBSD
 
@@ -73,7 +74,8 @@ Status: Working In Progress
 I hope I can switch to FreeBSD as my development platform because its license is
 suitable for me to customize the system.
 
-NanaZip 5.0's planned features will be helpful for migration.
+Currently I started to use FreeBSD. But there are some issues need to solve
+before I drop Linux.
 
 #### My first technical book
 
