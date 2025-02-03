@@ -47,12 +47,16 @@ will be good.
 
 Status: Working In Progress
 
-Currently, the released NanaZip 5.0 has implemented the UFS/UFS2 support.
+Current, I have released NanaZip 5.0 and NanaZip 5.0 Update 1. I have done most
+of things I wanted. But there are some features need to implement.
 
-I also implemented the .NET Single File Application bundle and Electron Archive
-(asar) support in the main branch.
+I hope I can add the support for extracting compressed files from the .NET
+Single File Application bundles, but I need to finish the decoder and encoder
+interfaces definitions in the modernized 7-Zip Plugin SDK which made by me.
 
-Also, LittleFS and ROMFS are also planned to implement in NanaZip 5.x.
+I also hope I can finish the littlefs parser by myself because I want to have
+a lightweight readonly implementation which I can try to use that in MBR for
+happiness on the retro 16-Bit x86 platform.
 
 Also, I think we should use more algorithm implementations from Windows APIs,
 which is "As Microsoft As Possible" a.k.a. AMAP strategy which mentioned by me.
