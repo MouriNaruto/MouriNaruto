@@ -58,9 +58,8 @@ Hi there, I go by Kenji Mouri. Typical usernames include `Mouri_Naruto` or
 
 ## Resume
 
-- [Chinese (PDF)](/assets/resume/resume_chinese.pdf)
-- [English (PDF)](/assets/resume/resume_english.pdf)
-- [Source Code (LaTeX)](https://github.com/MouriNaruto/MouriNaruto/tree/master/formal-resume)
+- [English (PDF)](/assets/resume.pdf)
+- [Source Code (LaTeX)](https://github.com/MouriNaruto/MouriNaruto/tree/master/resume)
 
 <!-- ## 注释
 

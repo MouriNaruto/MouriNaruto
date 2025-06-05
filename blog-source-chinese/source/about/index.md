@@ -50,11 +50,10 @@ layout: about
 - [看雪论坛](https://bbs.pediy.com/user-home-881623.htm)
 - [吾爱破解](https://www.52pojie.cn/home.php?mod=space&uid=512260)
 
-## 正式简历
+## 简历
 
-- [中文 (PDF)](/assets/resume/resume_chinese.pdf)
-- [英文 (PDF)](/assets/resume/resume_english.pdf)
-- [源代码 (LaTeX)](https://github.com/MouriNaruto/MouriNaruto/tree/master/formal-resume)
+- [英文 (PDF)](/assets/resume.pdf)
+- [源代码 (Typst)](https://github.com/MouriNaruto/MouriNaruto/tree/master/resume)
 
 <!-- ## 注释
 

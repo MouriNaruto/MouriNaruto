@@ -16,7 +16,7 @@ read [Become a sponsor to Kenji Mouri](Sponsor).
 [Microsoft MVP]: https://mvp.microsoft.com/en-us/PublicProfile/5004706?fullName=Kenji%20Mouri
 [PCBeta moderator]: https://i.pcbeta.com/home.php?mod=space&uid=3887572&do=profile
 [blog]: https://mouri.moe/
-[resume]: https://mouri.moe/assets/resume/resume_english.pdf
+[resume]: https://mouri.moe/assets/resume.pdf
 [projects]: Projects.md
 [speeches]: https://github.com/MouriNaruto/Presentations
 [documentations]: https://github.com/MouriNaruto/MouriDocs
