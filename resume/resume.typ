@@ -27,8 +27,8 @@ Kenji.Mouri\@outlook.com |
 == Introduction
 #separator()
 
-- Hi, I am Kenji Mouri. My legal name is Qi Lu which is used only when offline.
-  MouriNaruto, Mouri_Naruto and Mouri are my typical usernames.
+- Hi, I am Kenji Mouri. My legal name is Qi Lu which is used only when
+  in-person. MouriNaruto, Mouri_Naruto and Mouri are my typical usernames.
 - I am passionate about developing highly efficient software implementations
   with minimal syntax and reliance on third-party libraries.
 - I have created and maintained several open-source projects written
