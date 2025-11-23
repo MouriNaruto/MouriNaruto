@@ -76,6 +76,14 @@ It's an ambitious plan. According with one of my previous professors suggestion.
 I think I should write a demo like minimal Hyper-V UEFI guest with Hyper-V
 hypercalls and VMBus devices support.
 
+#### Blog website migration
+
+Status: Working In Progress
+
+I found I'm more suitable to write documentation style articles managed via Git.
+
+I need to make a website generator for my documents first.
+
 #### My first technical book
 
 Status: Working In Progress
