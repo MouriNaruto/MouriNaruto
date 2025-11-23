@@ -11,7 +11,8 @@ minimal syntax and reliance on third-party libraries, and love creating
 open-source projects and sometimes making contributions for other's. I am also
 a [Microsoft MVP] and a [PCBeta moderator]. Here is my [blog], [resume],
 [projects], [speeches] and [documentations]. If you want to sponsor me, please
-read [Become a sponsor to Kenji Mouri](Sponsor).
+read [Become a sponsor to Kenji Mouri](Sponsor). Also, I have provided
+[paid services](PaidServices.md).
 
 [Microsoft MVP]: https://mvp.microsoft.com/en-us/PublicProfile/5004706?fullName=Kenji%20Mouri
 [PCBeta moderator]: https://i.pcbeta.com/home.php?mod=space&uid=3887572&do=profile
@@ -20,8 +21,6 @@ read [Become a sponsor to Kenji Mouri](Sponsor).
 [projects]: Projects.md
 [speeches]: https://github.com/MouriNaruto/Presentations
 [documentations]: https://github.com/MouriNaruto/MouriDocs
-
-Also, I have provided several [paid services](PaidServices.md) from me.
 
 ## Things I currently working on
 
