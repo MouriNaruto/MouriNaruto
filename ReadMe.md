@@ -33,14 +33,6 @@ available if you want to read the history of this list.
 
 [archive]: https://github.com/MouriNaruto/MouriDocs/blob/main/docs/10/ReadMe.md
 
-#### Porting Hyper-V Enhanced Session mode over VMBus to Hyper-V Linux guests.
-
-Status: Working In Progress
-
-I had made a implementation at https://github.com/SherryPlatform/HvGin. But
-there are some stability issues which need to fix. So, I tried to rewrite this
-with C++ and create a new project at https://github.com/SherryPlatform/RelayLab.
-
 #### NanaZip 6.x
 
 Status: Working In Progress
