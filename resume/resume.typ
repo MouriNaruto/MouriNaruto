@@ -120,7 +120,7 @@ Microsoft MVP]* (Developer Technologies, Windows Development)
 == Skills
 #separator()
 
-- Languages: English - fluent (CET6), Chinese - native speaker
+- Languages: English - fluent, Chinese - native speaker, Japanese - learning.
 - I am not limited to any specific programming language, I am highly proficient
   in C, C++, and C\#. I am highly experienced in Windows development using
   Visual Studio, and comfortable in other tooling for Windows and Linux.
@@ -133,4 +133,4 @@ Microsoft MVP]* (Developer Technologies, Windows Development)
   Windows. I have developed a Hyper-V guest SDK and a UEFI application SDK,
   demonstrating my experience in systems-level Windows development.
 
-#lastupdated("June 6, 2025")
+#lastupdated("February 2, 2026")
