@@ -1,10 +1,144 @@
-﻿<script language="JavaScript">
-var la = (navigator.language || navigator.browserLanguage || '').toLowerCase().split('-');
-switch (la[0]) {
-    case 'zh': case 'wuu': case 'yue':
-        la = 'zh'; break;
-    default: /* all other languages go to English */
-        la = 'en'; break;
-}
-document.location = '/' + la + '/index.html';
-</script>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Kenji Mouri (MouriNaruto)</title>
+    <style>
+      /* Common styles */
+
+      body {
+        font-family: "Courier New", monospace;
+        margin: 20px;
+        line-height: 1.6;
+      }
+      ul {
+        list-style-type: square;
+      }
+      hr {
+        border: 0;
+        border-top-style: dashed;
+        border-top-width: 1px;
+        margin: 20px 0;
+      }
+      h1, h2 {
+        font-weight: normal;
+      }
+      h1 {
+        border-bottom-style: solid;
+        border-bottom-width: 1px;
+        font-size: 20px;
+        padding-bottom: 5px;
+      }
+      h2 {
+        font-size: 16px;
+        margin-top: 20px;
+      }
+      .footer {
+        text-align: center;
+        margin-top: 30px;
+        font-size: 12px;
+      }
+
+      /* Style for light mode (default, also for older browsers) */
+
+      body {
+        background: #ffffff;
+        color: #000000;
+      }
+      a {
+        color: #0000ff;
+      }
+      hr {
+        border-top-color: #000000;
+      }
+      h1 {
+        border-bottom-color: #000000;
+      }
+
+      /* Style for dark mode (for modern browsers) */
+
+      @media (prefers-color-scheme: dark) {
+        body {
+          background: #000000;
+          color: #00ff00;
+        }
+        a {
+          color: #00ffff;
+        }
+        hr {
+          border-color: #00ff00;
+        }
+        h1 {
+          border-bottom-color: #00ff00;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Kenji Mouri (MouriNaruto)</h1>
+    <h2>&gt; Introduction</h2>
+    <p>
+      Hi there,
+    </p>
+    <p>
+      My public name is Kenji Mouri, or 毛利 研二 in Japanese. In China, due to my<br>
+      public name, my friends call me 毛利, or Mouri in English. In some cases, my<br>
+      friends also call me Kuriko Mou, or 毛 栗子 in Japanese.
+    </p>
+    <p>
+      *MouriNaruto*, *Mouri_Naruto* and *Mouri* are my typical usernames.
+    </p>
+    <p>
+      I am passionate about developing highly efficient software implementations with<br>
+      minimal syntax and reliance on third-party libraries, and love creating<br>
+      open-source projects and sometimes making contributions for other's. I am also a<br>
+      Microsoft MVP and a PCBeta moderator.
+    </p>
+    <h2>&gt; Skills</h2>
+    <ul>
+      <li>
+        Languages: English - fluent (CET6), Chinese - native speaker
+      </li>
+      <li>
+        I am not limited to any specific programming language, I am highly proficient in<br>
+        C, C++, and C#. I am highly experienced in Windows development using Visual<br>
+        Studio, and comfortable in other tooling for Windows and Linux.
+      </li>
+      <li>
+        I have focused on Windows Development with Win32 API, COM (ATL and WTL) and<br>
+        WinRT (C++/WinRT) since 2014, which I started to participate in the Chuyu Team's<br>
+        next generation third-party Windows servicing tool, DISM++.
+      </li>
+      <li>
+        I am highly skilled in systems-level development with Visual Studio under<br>
+        Windows. I have developed a Hyper-V guest SDK and a UEFI application SDK,<br>
+        demonstrating my experience in systems-level Windows development.
+      </li>
+    </ul>
+    <h2>&gt; Projects</h2>
+    <ul>
+      <li><a href="https://github.com/M2Team/NanaZip">NanaZip</a></li>
+      <li><a href="https://github.com/M2Team/NanaBox">NanaBox</a></li>
+      <li><a href="https://github.com/ProjectMile">Mouri Internal Library Essentials (Project Mile)</a></li>
+      <li><a href="https://github.com/MobilityOS">Mobility OS</a></li>
+      <li>...</li>
+    </ul>
+    <h2>&gt; Links</h2>
+    <ul>
+      <li>Email: <a href="mailto:Kenji.Mouri@outlook.com">Kenji.Mouri@outlook.com</a></li>
+      <li>GitHub: <a href="https://github.com/MouriNaruto">@MouriNaruto</a></li>
+      <li>X (Twitter): <a href="https://x.com/MouriNaruto">@MouriNaruto</a></li>
+      <li>Microsoft MVP Profile: <a href="https://mvp.microsoft.com/en-us/PublicProfile/5004706?fullName=Kenji%20Mouri">Kenji Mouri</a></li>
+      <li>PCBeta Profile: <a href="https://i.pcbeta.com/home.php?mod=space&uid=3887572&do=profile">Mouri_Naruto</a></li>
+      <li><a href="https://github.com/MouriNaruto/MouriDocs">Technical Documentations</a></li>
+      <li><a href="https://github.com/MouriNaruto/Presentations">Technical Speeches</a></li>
+      <li><a href="https://mouri.moe/en/index.html">Blog (English) (Deprecated)</a></li>
+      <li><a href="https://mouri.moe/zh/index.html">Blog (Chinese) (Deprecated)</a></li>
+      <li><a href="https://mouri.moe/assets/resume.pdf">Resume (English)</a></li>
+    </ul>
+    <hr>
+    <div class="footer">
+      <p>Last Updated in February 2, 2026</p>
+    </div>
+  </body>
+</html>
