@@ -37,14 +37,12 @@ available if you want to read the history of this list.
 
 Status: Working In Progress
 
-Current, I have released NanaZip 6.0 Preview 1. Starting with NanaZip 6.0, the
-NanaZip project is governed by multiple Benevolent Dictators For Life who make
-final decisions by reaching an agreement offline.
+First, NanaZip has a brand new official website.
 
 Many things happened, but still something I need still to push.
 
-I find it's necessary to synchronize GUI part to the latest 7-Zip mainline to
-reduce the security issues.
+I want to synchronize NanaZip File Manager part to the latest 7-Zip mainline to
+reduce the security issues. Also, I want to rewrite the context menu support.
 
 I hope I can add the support for extracting compressed files from the .NET
 Single File Application bundles, but I need to finish the decoder and encoder
@@ -73,7 +71,8 @@ Status: Working In Progress
 
 I found I'm more suitable to write documentation style articles managed via Git.
 
-I need to make a website generator for my documents first.
+I need to make a website generator for my documents first. But first I have made
+a geeky style website index page to start the transition.
 
 #### My first technical book
 
