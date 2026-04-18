@@ -44,27 +44,30 @@ Kenji.Mouri\@outlook.com |
 *#link("https://live.qq.com")[Qi'e TV, Tencent]*
 (C++ Software Development Engineer)
 #h(1fr) Dec 2020 -- Present \
-- Lead the development of the QieLive 2.x Series from conception to release,
-  adapted for Windows 7 Service Pack 1 or later.
+- Revived and delivered the QieLive 2.x series from scratch, working solely from
+  a white paper provided by others, with support for Windows 7 Service Pack 1 or
+  later.
 - Built customized FFmpeg, MSBuild, and Qt6 toolchains for QieLive.
 
 == Open Source Experience
 #separator()
 
-*#link("https://github.com/M2Team")[M2-Team]* (Owner)
+*#link("https://github.com/M2Team")[M2-Team]* (Founder and Owner)
 #h(1fr) Jun 2015 -- Present \
+Created and maintained several open-source projects within this organization,
+including:
 - #link("https://github.com/M2Team/NanaZip")[NanaZip] - File archiver intended
   for the modern Windows experience
 - #link("https://github.com/M2Team/NanaBox")[NanaBox] - A third-party
   lightweight out-of-box-experience oriented Hyper-V client
-- #link("https://github.com/M2Team/NanaGet")[NanaGet] - Lightweight file
-  transfer utility based on aria2 and XAML Islands
 - #link("https://github.com/M2Team/NanaRun")[NanaRun] - Application runtime
   environment customization utility for Windows
 
 *#link("https://github.com/ProjectMile")[
-Mouri Internal Library Essentials (Project Mile)]* (Owner)
+Mouri Internal Library Essentials (Project Mile)]* (Founder and Owner)
 #h(1fr) Nov 2020 -- Present \
+Created and maintained several open-source projects within this organization,
+including:
 - #link("https://github.com/ProjectMile/Mile.Xaml")[Mile.Xaml] - Lightweight
   XAML Islands toolchain with modern Windows controls styles
 - #link("https://github.com/ProjectMile/Mile.HyperV")[Mile.HyperV] - A
@@ -74,8 +77,6 @@ Mouri Internal Library Essentials (Project Mile)]* (Owner)
   #link("https://github.com/dokan-dev/dokany")[Dokany]
 - #link("https://github.com/ProjectMile/Mile.Uefi")[Mile.Uefi] - UEFI
   Application SDK for Visual Studio
-- #link("https://github.com/ProjectMile/Mile.Aria2")[Mile.Aria2] - Customized
-  version of aria2 specialize for MSVC toolchain
 
 *#link("https://github.com/lvgl")[LVGL]* (Maintainer)
 #h(1fr) Jan 2021 -- Present \
@@ -93,6 +94,8 @@ Mouri Internal Library Essentials (Project Mile)]* (Owner)
   MD1: Notes for using GPU-PV on Hyper-V/NanaBox]
 - #link("https://github.com/MouriNaruto/MouriDocs/tree/main/docs/4")[
   MD4: Notes for using Host Compute System API]
+- #link("https://github.com/MouriNaruto/MouriDocs/blob/main/docs/9")[
+  MD9: Hyper-V Enhanced Session over VMBus for pre-Windows 8.1 and Linux guests]
 - #link("https://github.com/MouriNaruto/MouriDocs/tree/main/docs/21")[
   MD21: Talk about booting Windows 7 Service Pack 1 on Hyper-V Generation 2
   Virtual Machines]
@@ -110,12 +113,9 @@ Microsoft MVP]* (Developer Technologies, Windows Development)
 *Changshu Institute of Technology*, China
 #h(1fr) Sep 2016 -- Jul 2020 \
 - Bachelors of Engineering, Automotive Service Engineering
-- Lead the development of hardware abstraction layer and user experience layer
-  from an autonomous driving vehicle project in the college's IoT lab.
-  Summarized in my
-  #link("https://mouri.moe/assets/Research%20of%20human-computer%20interaction%20system%20for%20autonomous%20driving.pdf")[
-  graduation design] which wins the third prize of school-level outstanding
-  graduation design award.
+- Graduation Project: #link("https://mouri.moe/assets/Research%20of%20human-computer%20interaction%20system%20for%20autonomous%20driving.pdf")[
+  Research of human-computer interaction system for autonomous driving] awarded
+  Third Prize in the University Outstanding Graduation Project Award.
 
 == Skills
 #separator()
@@ -133,4 +133,4 @@ Microsoft MVP]* (Developer Technologies, Windows Development)
   Windows. I have developed a Hyper-V guest SDK and a UEFI application SDK,
   demonstrating my experience in systems-level Windows development.
 
-#lastupdated("February 2, 2026")
+#lastupdated("April 18, 2026")
