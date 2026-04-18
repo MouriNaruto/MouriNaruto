@@ -6,12 +6,12 @@ friends also call me Kuriko Mou, or 毛 栗子 in Japanese.
 
 *MouriNaruto*, *Mouri_Naruto* and *Mouri* are my typical usernames.
 
-I am passionate about developing highly efficient software implementations with
-minimal syntax and reliance on third-party libraries, and love creating
-open-source projects and sometimes making contributions for other's. I am also
-a [Microsoft MVP] and a [PCBeta moderator]. Here is my [blog], [resume],
-[projects], [speeches] and [documentations]. If you want to sponsor me, please
-read [Become a sponsor to Kenji Mouri](Sponsor). Also, I have provided
+I am passionate about building efficient software with concise implementations
+and minimal third-party dependencies, and love creating open-source projects and
+sometimes making contributions for other's. I am also a [Microsoft MVP] and a
+[PCBeta moderator]. Here is my [blog], [resume], [projects], [speeches] and
+[documentations]. If you want to sponsor me, please read
+[Become a sponsor to Kenji Mouri](Sponsor). Also, I have provided
 [paid services](PaidServices.md).
 
 [Microsoft MVP]: https://mvp.microsoft.com/en-us/PublicProfile/5004706?fullName=Kenji%20Mouri
