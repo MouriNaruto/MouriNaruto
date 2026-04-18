@@ -15,28 +15,27 @@
 #let separator() = { v(-3pt); line(length: 100%); v(-5pt) }
 
 #let lastupdated(date) = {
-  h(1fr); text("Last Updated in " + date, fill: color.gray)
+  h(1fr); text("Last Updated: " + date, fill: color.gray)
 }
 
 = Kenji Mouri
 
 Kenji.Mouri\@outlook.com |
 #link("https://github.com/MouriNaruto")[github.com/MouriNaruto] |
-#link("https://mouri.moe")[mouri.moe]
+#link("https://mouri.moe")[mouri.moe] |
+Legal name: Qi Lu
 
 == Introduction
 #separator()
 
-- Hi, I am Kenji Mouri. My legal name is Qi Lu which is used only when
-  in-person. MouriNaruto, Mouri_Naruto and Mouri are my typical usernames.
-- I am passionate about developing highly efficient software implementations
-  with minimal syntax and reliance on third-party libraries.
-- I have created and maintained several open-source projects written
-  predominately in C and C++ since 2014.
-- I am also a proud Microsoft MVP in the Developer Technologies and Windows
-  Development award categories.
-- My goal for my next role is systems-level software development and
-  maintenance.
+- Also known online as MouriNaruto, Mouri_Naruto, or simply Mouri.
+- Passionate about building efficient software with concise implementations and
+  minimal third-party dependencies.
+- Creator and maintainer of multiple open-source projects since 2014.
+- Microsoft MVP in the Developer Technologies and Windows Development
+  categories.
+- Interested in systems software development, runtime/toolchain engineering, and
+  long-term maintenance work.
 
 == Professional Experience
 #separator()
@@ -44,18 +43,18 @@ Kenji.Mouri\@outlook.com |
 *#link("https://live.qq.com")[Qi'e TV, Tencent]*
 (C++ Software Development Engineer)
 #h(1fr) Dec 2020 -- Present \
-- Revived and delivered the QieLive 2.x series from scratch, working solely from
-  a white paper provided by others, with support for Windows 7 Service Pack 1 or
+- Revived and delivered the QieLive 2.x series from scratch, based solely on a
+  white paper provided by others, with support for Windows 7 Service Pack 1 or
   later.
-- Built customized FFmpeg, MSBuild, and Qt6 toolchains for QieLive.
+- Built customized FFmpeg, MSBuild, and Qt 6 toolchains for the QieLive build
+  and release pipeline.
 
 == Open Source Experience
 #separator()
 
 *#link("https://github.com/M2Team")[M2-Team]* (Founder and Owner)
 #h(1fr) Jun 2015 -- Present \
-Created and maintained several open-source projects within this organization,
-including:
+Founded and maintained multiple Windows-focused open-source projects, including:
 - #link("https://github.com/M2Team/NanaZip")[NanaZip] - File archiver intended
   for the modern Windows experience
 - #link("https://github.com/M2Team/NanaBox")[NanaBox] - A third-party
@@ -66,8 +65,8 @@ including:
 *#link("https://github.com/ProjectMile")[
 Mouri Internal Library Essentials (Project Mile)]* (Founder and Owner)
 #h(1fr) Nov 2020 -- Present \
-Created and maintained several open-source projects within this organization,
-including:
+Founded and maintained a collection of open-source infrastructure libraries and
+tools, including:
 - #link("https://github.com/ProjectMile/Mile.Xaml")[Mile.Xaml] - Lightweight
   XAML Islands toolchain with modern Windows controls styles
 - #link("https://github.com/ProjectMile/Mile.HyperV")[Mile.HyperV] - A
@@ -80,16 +79,14 @@ including:
 
 *#link("https://github.com/lvgl")[LVGL]* (Maintainer)
 #h(1fr) Jan 2021 -- Present \
-- Maintain implementation of
-  #link("https://github.com/lvgl/lv_port_pc_visual_studio")[
-  LVGL port for Visual Studio (lv_port_pc_visual_studio)].
-- Maintain the implementation of
-  #link("https://github.com/lvgl/lv_drivers/pull/117")[
-  New native Windows driver (win32drv)] and
+- Maintain #link("https://github.com/lvgl/lv_port_pc_visual_studio")[
+  the Visual Studio port of LVGL (lv_port_pc_visual_studio)].
+- Maintain #link("https://github.com/lvgl/lv_drivers/pull/117")[
+  the native Windows driver (win32drv)] and
   #link("https://github.com/lvgl/lvgl/pull/2701")[
-  Windows file system driver (lv_fs_win32)].
+  the Windows file system driver (lv_fs_win32)].
 
-*Selected Technical Documents* (Author)
+*Selected Technical Writing* (Author)
 - #link("https://github.com/MouriNaruto/MouriDocs/tree/main/docs/1")[
   MD1: Notes for using GPU-PV on Hyper-V/NanaBox]
 - #link("https://github.com/MouriNaruto/MouriDocs/tree/main/docs/4")[
@@ -100,7 +97,7 @@ including:
   MD21: Talk about booting Windows 7 Service Pack 1 on Hyper-V Generation 2
   Virtual Machines]
 
-== Honors
+== Awards & Honors
 #separator()
 
 *#link("https://mvp.microsoft.com/en-us/PublicProfile/5004706?fullName=Kenji Mouri")[
@@ -112,25 +109,24 @@ Microsoft MVP]* (Developer Technologies, Windows Development)
 
 *Changshu Institute of Technology*, China
 #h(1fr) Sep 2016 -- Jul 2020 \
-- Bachelors of Engineering, Automotive Service Engineering
-- Graduation Project: #link("https://mouri.moe/assets/Research%20of%20human-computer%20interaction%20system%20for%20autonomous%20driving.pdf")[
-  Research of human-computer interaction system for autonomous driving] awarded
-  Third Prize in the University Outstanding Graduation Project Award.
+- Bachelor of Engineering in Automotive Service Engineering
+- Graduation Project: #link("https://mouri.moe/assets/bachelor-graduation-project.pdf")[
+  Research on a Human-Computer Interaction System for Autonomous Driving] -
+  Third Prize, University Outstanding Graduation Project Award. 
 
 == Skills
 #separator()
 
-- Languages: English - fluent, Chinese - native speaker, Japanese - learning.
-- I am not limited to any specific programming language, I am highly proficient
-  in C, C++, and C\#. I am highly experienced in Windows development using
-  Visual Studio, and comfortable in other tooling for Windows and Linux.
-- I have focused on Windows Development with Win32 API, COM (ATL and WTL) and
-  WinRT (C++/WinRT) since 2014, which I started to participate in the Chuyu
+- Human Languages: Chinese (native), English (fluent), Japanese (learning)
+- Programming Languages: C, C++, C\#, etc.
+- Stacks and Tools: Win32 API, COM (ATL and WTL), WinRT (C++/WinRT), Hyper-V
+  (Host Compute System API, Host Networking Service API, Guest Interfaces), UEFI
+  (EDK II MdePkg definitions only), Linux (customized kernel and rootfs for
+  Hyper-V Generation 2 Virtual Machines), Visual Studio, MSBuild, CMake, Git,
+  etc.
+- Active in Windows development since 2014, including helping build the Chuyu
   Team's next generation third-party Windows servicing tool,
   #link("https://github.com/Chuyu-Team/Dism-Multi-language/releases/tag/v10.1.1002.2")[
   DISM++].
-- I am highly skilled in systems-level development with Visual Studio under
-  Windows. I have developed a Hyper-V guest SDK and a UEFI application SDK,
-  demonstrating my experience in systems-level Windows development.
 
 #lastupdated("April 18, 2026")
