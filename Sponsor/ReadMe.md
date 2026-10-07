@@ -1,10 +1,16 @@
-﻿# Become a sponsor to Kenji Mouri
+﻿# Sponsor Kenji Mouri
 
-Since maintaining open-source projects only for love is not sustainable, I hope
-to find a way to keep my passion for maintaining open-source projects.
+Maintaining open source projects takes time and effort. Your sponsorship helps
+make this work sustainable and allows me to keep improving the projects I care
+about.
 
-I tried to use Patreon and Afdian (爱发电) based sponsor service, but they are all
-deprecated.
+## Ways to become a sponsor
 
-Currently, you should acquire NanaZip Sponsor Edition and/or NanaBox Sponsor
-Edition to achieve this goal.
+With the payout issues now resolved, you can sponsor my work through
+[GitHub Sponsors](https://github.com/sponsors/MouriNaruto) or
+[Patreon](https://www.patreon.com/cw/MouriNaruto).
+
+You can also sponsor my work by purchasing NanaZip Sponsor Edition and/or
+NanaBox Sponsor Edition.
+
+Thank you for helping keep these projects going!
